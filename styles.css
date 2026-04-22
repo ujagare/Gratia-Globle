@@ -4170,7 +4170,7 @@ input {
 .hero-swiper,
   .hero-slide,
   .hero-slide-content {
-    min-height: 70vh;
+    min-height: 50vh;
   }
 
   .hero-copy {
@@ -4335,7 +4335,7 @@ input {
   .hero-swiper,
   .hero-slide,
   .hero-slide-content {
-    min-height: 100vh;
+    min-height: 50vh;
   }
 
   .hero-slide-background {
@@ -4361,7 +4361,7 @@ input {
 
   .hero-copy {
     width: min(100%, 540px);
-    padding-bottom: 150px;
+    padding-bottom: 50px;
   }
 
   .hero-swiper-ui {
@@ -4538,10 +4538,10 @@ input {
     width: 100%;
   }
 
-  .hero-swiper,
+.hero-swiper,
   .hero-slide,
   .hero-slide-content {
-    min-height: 100vh;
+    min-height: 50vh;
   }
 
   .hero-copy h1,
