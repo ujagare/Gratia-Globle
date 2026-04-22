@@ -5677,9 +5677,9 @@ input {
 .mobile-nav-link {
   display: flex;
   align-items: center;
-  gap: 14px;
-  padding: 9px 12px;
-  border-radius: 16px;
+  gap: 10px;
+  padding: 6px 10px;
+  border-radius: 12px;
   text-decoration: none;
   color: var(--text);
   font-weight: 700;
