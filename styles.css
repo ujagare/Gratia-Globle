@@ -4385,7 +4385,7 @@ input {
 .hero-swiper,
   .hero-slide,
   .hero-slide-content {
-    min-height: 65vh;
+    min-height: 50vh;
   }
 
   .hero-slide-background {
