@@ -2125,7 +2125,7 @@ input {
 }
 
 .hero-map {
-  background-image: url("assets/images/hero bckgroud image.png");
+  background-image: url("assets/images/hero bckgroud image.webp");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2947,7 +2947,7 @@ input {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("assets/images/hero bckgroud image.png");
+  background-image: url("assets/images/hero bckgroud image.webp");
   background-repeat: no-repeat;
   background-size: 44%;
   background-position: left center;
