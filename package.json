@@ -5,8 +5,7 @@
   "description": "Gratia Global website with secure Resend email API",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "node build-vercel.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5",

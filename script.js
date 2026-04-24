@@ -126,12 +126,17 @@ const setFormMessage = (form, message, type) => {
 };
 
 const submitFormData = async (form) => {
-  const formData = new FormData(form);
   const endpoint = form.getAttribute("action") || "";
+  const formData = new FormData(form);
+  const body = new URLSearchParams();
+
+  formData.forEach((value, key) => {
+    body.append(key, String(value));
+  });
 
   const response = await fetch(endpoint, {
     method: "POST",
-    body: formData,
+    body,
     headers: {
       Accept: "application/json",
     },

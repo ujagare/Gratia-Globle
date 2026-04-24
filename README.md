@@ -174,9 +174,27 @@ npm start
 
 ### Security included
 
-- Helmet security headers
-- IP rate limiting per endpoint
+- No public API key exposure
 - Honeypot + form timing bot checks
 - Origin allowlist enforcement in production
+
+## Vercel Production Setup
+
+For Vercel deployment, the site is set up as a static frontend with secure serverless mail endpoints.
+
+### Required environment variables
+
+- `RESEND_API_KEY`
+- `CONTACT_FROM_EMAIL` - must be on a Resend-verified domain
+- `CONTACT_TO_EMAIL`
+- `NEWSLETTER_TO_EMAIL`
+- `APP_ORIGIN` - comma-separated allowed production origins, such as `https://gratiaglobal.com,https://www.gratiaglobal.com`
+
+### How it works on Vercel
+
+- Static pages are served directly from the repository root
+- Contact form posts to `/api/contact`
+- Newsletter form can post to `/api/newsletter` if you add one later
+- The API functions reject unauthorized origins and bot-like submissions before calling Resend
 - Server-side validation + sanitization
 - No API keys exposed in frontend
