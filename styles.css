@@ -1446,7 +1446,7 @@ body.is-loading { overflow: hidden; }
   background:
     radial-gradient(circle at top right, rgba(255, 214, 122, 0.12), transparent 28%),
     linear-gradient(180deg, rgba(29, 41, 16, 0.97), rgba(41, 60, 24, 0.99)),
-    url("assets/images/contact/2.png") center / cover no-repeat;
+    url("assets/images/contact/2.webp") center / cover no-repeat;
   color: #fff7eb;
 }
 
@@ -2125,7 +2125,7 @@ input {
 }
 
 .hero-map {
-  background-image: url("assets/images/hero bckgroud image.png");
+  background-image: url("assets/images/hero bckgroud image.webp");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2951,10 +2951,10 @@ input {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("assets/images/hero bckgroud image.png");
+  background-image: url("assets/images/hero bckgroud image.webp");
   background-repeat: no-repeat;
   background-size: 44%;
-  background-position: left center;
+  background-position: left bottom;
   mix-blend-mode: soft-light;
   opacity: 0.18;
 }
@@ -2978,10 +2978,10 @@ input {
 .cta-image {
   position: absolute;
   right: -34px;
-  top: 50%;
-  bottom: auto;
+  top: auto;
+  bottom: -18px;
   width: 300px;
-  transform: translateY(-50%);
+  transform: none;
   opacity: 0.95;
   pointer-events: none;
 }
@@ -3448,7 +3448,7 @@ input {
   padding: 24px 20px;
   background:
     linear-gradient(180deg, rgba(46, 58, 22, 0.08), rgba(46, 58, 22, 0.9)),
-    url("assets/images/2.png") center / cover no-repeat;
+    url("assets/images/2.webp") center / cover no-repeat;
   color: #fffef8;
 }
 
@@ -3649,7 +3649,7 @@ input {
   inset: 0;
   background:
     linear-gradient(180deg, rgba(255, 251, 245, 0.94), rgba(247, 239, 228, 0.96)),
-    url("assets/images/Product/ChatGPT Image Apr 13, 2026, 04_45_49 PM.png") left center / 100% 100% no-repeat;
+    url("assets/images/Product/ChatGPT Image Apr 13, 2026, 04_45_49 PM.webp") left center / 100% 100% no-repeat;
   opacity: 0.98;
 }
 
@@ -4254,7 +4254,7 @@ input {
     position: relative;
     width: 260px;
     right: auto;
-    bottom: auto;
+    bottom: -8px;
     justify-self: end;
   }
 
