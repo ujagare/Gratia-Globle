@@ -4382,10 +4382,10 @@ input {
     background-position: center center;
   }
 
-  .hero-swiper,
+.hero-swiper,
   .hero-slide,
   .hero-slide-content {
-    min-height: 50vh;
+    min-height: 65vh;
   }
 
   .hero-slide-background {
