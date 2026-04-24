@@ -2125,7 +2125,7 @@ input {
 }
 
 .hero-map {
-  background-image: url("assets/images/hero bckgroud image.webp");
+  background-image: url("assets/images/hero bckgroud image.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2544,7 +2544,7 @@ input {
 }
 
 .about-panel {
-  background: url("assets/images/c251c9e9-40d3-4c67-aea5-d53a0d447074.webp") center / cover no-repeat;
+  background: url("assets/images/c251c9e9-40d3-4c67-aea5-d53a0d447074.png") center / cover no-repeat;
   color: #fffef9;
 }
 
@@ -2947,7 +2947,7 @@ input {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("assets/images/hero bckgroud image.webp");
+  background-image: url("assets/images/hero bckgroud image.png");
   background-repeat: no-repeat;
   background-size: 44%;
   background-position: left center;
@@ -3658,56 +3658,6 @@ input {
   pointer-events: none;
 }
 
-.products-hero-leaf-2 {
-  position: absolute;
-  right: -20px;
-  bottom: 40px;
-  width: 140px;
-  opacity: 0.2;
-  pointer-events: none;
-  transform: rotate(15deg);
-}
-
-.products-hero-leaf-3 {
-  position: absolute;
-  left: 30%;
-  top: 20px;
-  width: 120px;
-  opacity: 0.15;
-  pointer-events: none;
-  transform: rotate(-10deg);
-}
-
-.products-hero-leaf-4 {
-  position: absolute;
-  right: 15%;
-  top: 50px;
-  width: 100px;
-  opacity: 0.18;
-  pointer-events: none;
-  transform: rotate(25deg);
-}
-
-.products-hero-leaf-5 {
-  position: absolute;
-  left: 10%;
-  bottom: 80px;
-  width: 90px;
-  opacity: 0.12;
-  pointer-events: none;
-  transform: rotate(-20deg);
-}
-
-.products-hero-leaf-6 {
-  position: absolute;
-  right: 5%;
-  bottom: 100px;
-  width: 80px;
-  opacity: 0.14;
-  pointer-events: none;
-  transform: rotate(10deg);
-}
-
 .products-hero-grid {
   position: relative;
   z-index: 1;
@@ -4002,7 +3952,7 @@ input {
   padding: 28px 34px 28px 42px;
   overflow: hidden;
   border-radius: 24px;
-  background: url("assets/images/cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp") center / 120% auto no-repeat;
+  background: url("assets/images/cb72a214-a50f-4b2f-8ab9-809fa028af5f.png") center / 120% auto no-repeat;
   color: #fffef8;
 }
 
@@ -4382,7 +4332,7 @@ input {
     background-position: center center;
   }
 
-.hero-swiper,
+  .hero-swiper,
   .hero-slide,
   .hero-slide-content {
     min-height: 50vh;
