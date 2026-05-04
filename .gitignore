@@ -2,3 +2,5 @@ public/
 
 .vercel
 .env*.local
+
+node_modules/
