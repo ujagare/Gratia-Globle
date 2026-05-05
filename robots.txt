@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gratiaglobal.com/sitemap.xml
+Sitemap: https://www.gratiaglobal.com/sitemap.xml
