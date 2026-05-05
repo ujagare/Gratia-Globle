@@ -106,7 +106,7 @@ const allTrackedForms = document.querySelectorAll("form.newsletter-form, form.co
 
 const ensureFormLoadedAt = (form) => {
   const formLoadedAtInput = form.querySelector('input[name="form_loaded_at"]');
-  if (formLoadedAtInput && !formLoadedAtInput.value) {
+  if (formLoadedAtInput && (!formLoadedAtInput.value || Number.isNaN(Number(formLoadedAtInput.value)))) {
     formLoadedAtInput.value = String(Date.now());
   }
 };
@@ -215,6 +215,7 @@ const contactForm = document.querySelector("form.contact-form-grid");
 if (contactForm) {
   contactForm.addEventListener("submit", async (event) => {
     event.preventDefault();
+    event.stopImmediatePropagation();
     ensureFormLoadedAt(contactForm);
 
     const emailInput = contactForm.querySelector('input[name="email"]');
