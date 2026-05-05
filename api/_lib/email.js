@@ -84,7 +84,7 @@ const isAllowedOrigin = (origin) => {
 };
 
 const validateBotGuards = (fields) => {
-  const honeypot = sanitizeText(fields.company, 200);
+  const honeypot = sanitizeText(fields.contact_website || fields.website_url, 200);
   if (honeypot) {
     return "Bot request blocked.";
   }
