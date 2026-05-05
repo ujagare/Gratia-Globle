@@ -915,7 +915,17 @@
                 body: JSON.stringify(formData)
               });
 
-              const result = await response.json();
+              const responseText = await response.text();
+              console.log('API Response:', response.status, responseText);
+              
+              let result;
+              try {
+                result = JSON.parse(responseText);
+              } catch (e) {
+                console.error('Invalid JSON response:', responseText);
+                showMessage('Server error. Please try again later.', 'error');
+                return;
+              }
 
               if (response.ok && result.success) {
                 showMessage('Thank you! Your message has been sent successfully. We will get back to you soon.', 'success');
@@ -927,7 +937,7 @@
               }
             } catch (error) {
               console.error('Fetch Error:', error);
-              showMessage('Unable to reach server. Please ensure you are on the live site (not local file://).', 'error');
+              showMessage('Unable to reach server. Please check your connection and try again.', 'error');
             } finally {
               submitBtn.innerHTML = originalText;
               submitBtn.disabled = false;
