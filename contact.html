@@ -412,68 +412,69 @@
             <h2>Send Us a Message</h2>
             <div class="contact-divider"></div>
 
-            <form
-              class="contact-form-grid"
-              action="/api/contact"
-              method="post"
-            >
-              <input type="hidden" name="form_source" value="Contact Page" />
-              <input type="hidden" name="form_loaded_at" value="" />
-              <input
-                type="text"
-                name="company"
-                autocomplete="off"
-                tabindex="-1"
-                aria-hidden="true"
-                style="position: absolute; left: -9999px; opacity: 0; pointer-events: none"
-              />
-              <label class="contact-field">
-                <img loading="lazy"
-                  src="assets/images/contact/Untitled_design__3_-removebg-preview.webp"
-                  alt="Name icon"
+              <form
+                class="contact-form-grid"
+                id="contactForm"
+              >
+                <input type="hidden" name="form_source" value="Contact Page" />
+                <input type="hidden" name="form_loaded_at" id="formLoadedAt" value="" />
+                <input
+                  type="text"
+                  name="company"
+                  autocomplete="off"
+                  tabindex="-1"
+                  aria-hidden="true"
+                  style="position: absolute; left: -9999px; opacity: 0; pointer-events: none"
                 />
-                <input type="text" name="name" placeholder="Your Name" required />
-              </label>
+                <label class="contact-field">
+                  <img loading="lazy"
+                    src="assets/images/contact/Untitled_design__3_-removebg-preview.webp"
+                    alt="Name icon"
+                  />
+                  <input type="text" name="name" id="contactName" placeholder="Your Name" required />
+                </label>
 
-              <label class="contact-field">
-                <img loading="lazy"
-                  src="assets/images/contact/Untitled__1_-removebg-preview.webp"
-                  alt="Email icon"
-                />
-                <input type="email" name="email" placeholder="Your Email" required />
-              </label>
+                <label class="contact-field">
+                  <img loading="lazy"
+                    src="assets/images/contact/Untitled__1_-removebg-preview.webp"
+                    alt="Email icon"
+                  />
+                  <input type="email" name="email" id="contactEmail" placeholder="Your Email" required />
+                </label>
 
-              <label class="contact-field contact-field-full">
-                <img loading="lazy" src="assets/images/contact/Untitled.webp" alt="Phone icon" />
-                <input type="tel" name="phone" placeholder="Phone Number" required />
-              </label>
+                <label class="contact-field contact-field-full">
+                  <img loading="lazy" src="assets/images/contact/Untitled.webp" alt="Phone icon" />
+                  <input type="tel" name="phone" id="contactPhone" placeholder="Phone Number" required />
+                </label>
 
-              <label class="contact-field contact-field-full">
-                <img loading="lazy"
-                  src="assets/images/contact/Screenshot_2026-04-14_011616-removebg-preview.webp"
-                  alt="Subject icon"
-                />
-                <input type="text" name="subject" placeholder="Subject" required />
-              </label>
+                <label class="contact-field contact-field-full">
+                  <img loading="lazy"
+                    src="assets/images/contact/Screenshot_2026-04-14_011616-removebg-preview.webp"
+                    alt="Subject icon"
+                  />
+                  <input type="text" name="subject" id="contactSubject" placeholder="Subject" required />
+                </label>
 
-              <label class="contact-field contact-field-full contact-field-textarea">
-                <img loading="lazy"
-                  src="assets/images/contact/Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp"
-                  alt="Message icon"
-                />
-                <textarea name="message" placeholder="Message" required></textarea>
-              </label>
+                <label class="contact-field contact-field-full contact-field-textarea">
+                  <img loading="lazy"
+                    src="assets/images/contact/Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp"
+                    alt="Message icon"
+                  />
+                  <textarea name="message" id="contactMessage" placeholder="Message" required></textarea>
+                </label>
 
-              <button class="button button-gold contact-submit" type="submit">
-                Send Message
-                <span aria-hidden="true">&#9992;</span>
-              </button>
-            </form>
+                <button class="button button-gold contact-submit" type="submit">
+                  Send Message
+                  <span aria-hidden="true">&#9992;</span>
+                </button>
+              </form>
 
-            <p class="contact-form-note">
-              <span>&#128274;</span>
-              Your information is safe with us. We never share your details.
-            </p>
+              <div id="formMessage" style="display: none; margin-top: 16px; padding: 12px 16px; border-radius: 12px; font-size: 0.95rem;"></div>
+
+              <p class="contact-form-note">
+                <span>&#128274;</span>
+                Your information is safe with us. We never share your details.
+              </p>
           </div>
 
           <div class="contact-info-pane reveal">
@@ -859,6 +860,95 @@
     <script type="module" src="motion-init.js"></script>
     <script src="gsap-scroll-animations.js"></script>
     <script src="script.js"></script>
+    <script>
+      // Set form loaded timestamp
+      document.addEventListener('DOMContentLoaded', function() {
+        const formLoadedAt = document.getElementById('formLoadedAt');
+        if (formLoadedAt) {
+          formLoadedAt.value = new Date().toISOString();
+        }
+
+        // Handle form submission
+        const form = document.getElementById('contactForm');
+        const messageDiv = document.getElementById('formMessage');
+
+        if (form) {
+          form.addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const formData = {
+              name: document.getElementById('contactName').value,
+              email: document.getElementById('contactEmail').value,
+              phone: document.getElementById('contactPhone').value,
+              subject: document.getElementById('contactSubject').value,
+              message: document.getElementById('contactMessage').value,
+              form_source: 'Contact Page',
+              form_loaded_at: document.getElementById('formLoadedAt').value
+            };
+
+            // Basic validation
+            if (!formData.name || !formData.email || !formData.message) {
+              showMessage('Please fill in all required fields.', 'error');
+              return;
+            }
+
+            // Validate email
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (!emailRegex.test(formData.email)) {
+              showMessage('Please enter a valid email address.', 'error');
+              return;
+            }
+
+            // Disable button during submission
+            const submitBtn = form.querySelector('.contact-submit');
+            const originalText = submitBtn.innerHTML;
+            submitBtn.innerHTML = 'Sending...';
+            submitBtn.disabled = true;
+
+            try {
+              const response = await fetch('/api/contact', {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData)
+              });
+
+              const result = await response.json();
+
+              if (response.ok && result.success) {
+                showMessage('Thank you! Your message has been sent successfully. We will get back to you soon.', 'success');
+                form.reset();
+              } else {
+                showMessage(result.error || 'Failed to send message. Please try again.', 'error');
+              }
+            } catch (error) {
+              console.error('Error:', error);
+              showMessage('Network error. Please check your connection and try again.', 'error');
+            } finally {
+              submitBtn.innerHTML = originalText;
+              submitBtn.disabled = false;
+            }
+          });
+        }
+
+        function showMessage(text, type) {
+          if (messageDiv) {
+            messageDiv.style.display = 'block';
+            messageDiv.textContent = text;
+            messageDiv.style.backgroundColor = type === 'success' ? 'rgba(72, 187, 120, 0.15)' : 'rgba(245, 101, 101, 0.15)';
+            messageDiv.style.color = type === 'success' ? '#2f855a' : '#c53030';
+            messageDiv.style.border = type === 'success' ? '1px solid rgba(72, 187, 120, 0.4)' : '1px solid rgba(245, 101, 101, 0.4)';
+
+            if (type === 'success') {
+              setTimeout(() => {
+                messageDiv.style.display = 'none';
+              }, 8000);
+            }
+          }
+        }
+      });
+    </script>
   </body>
 </html>
 

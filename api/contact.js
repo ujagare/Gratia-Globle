@@ -1,91 +1,54 @@
-const {
-  escapeHtml,
-  isAllowedOrigin,
-  isValidEmail,
-  isValidPhone,
-  parseRequestBody,
-  sanitizeText,
-  sendJson,
-  sendResendEmail,
-  validateBotGuards,
-} = require("./_lib/email");
+const { Resend } = require('resend');
+const resend = new Resend(process.env.RESEND_API_KEY);
 
-module.exports = async (req, res) => {
-  res.setHeader("X-Robots-Tag", "noindex, nofollow");
-
-  if (req.method !== "POST") {
-    res.setHeader("Allow", "POST");
-    return sendJson(res, 405, { error: "Method not allowed." });
+module.exports = async function handler(req, res) {
+  if (req.method !== 'POST') {
+    return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const origin = req.headers.origin || "";
-  if (!isAllowedOrigin(origin)) {
-    return sendJson(res, 403, { error: "Origin not allowed." });
-  }
+  try {
+    const { name, email, phone, subject, message } = req.body;
 
-  const body = await parseRequestBody(req);
-  const guardError = validateBotGuards(body);
-  if (guardError) {
-    return sendJson(res, 400, { error: guardError });
-  }
+    // Validate required fields
+    if (!name || !email || !message) {
+      return res.status(400).json({ error: 'Missing required fields' });
+    }
 
-  const name = sanitizeText(body.name, 120);
-  const email = sanitizeText(body.email, 180).toLowerCase();
-  const phone = sanitizeText(body.phone, 24);
-  const subject = sanitizeText(body.subject, 160);
-  const message = sanitizeText(body.message, 3000);
-  const formSource = sanitizeText(body.form_source, 80) || "Contact Page";
+    // Send email to info@gratiaglobal.com
+    const data = await resend.emails.send({
+      from: 'contact@gratiaglobal.com',
+      to: ['info@gratiaglobal.com'],
+      subject: subject || 'New Contact Form Submission - Gratia Global',
+      reply_to: email,
+      html: `
+        <h2>New Contact Form Submission</h2>
+        <p><strong>Name:</strong> ${name}</p>
+        <p><strong>Email:</strong> ${email}</p>
+        <p><strong>Phone:</strong> ${phone || 'N/A'}</p>
+        <p><strong>Subject:</strong> ${subject || 'N/A'}</p>
+        <p><strong>Message:</strong></p>
+        <p>${message.replace(/\n/g, '<br>')}</p>
+        <p><em>Submitted from: ${req.body.form_source || 'Contact Page'}</em></p>
+      `,
+    });
 
-  if (name.length < 2) {
-    return sendJson(res, 400, { error: "Name is too short." });
-  }
-  if (!isValidEmail(email)) {
-    return sendJson(res, 400, { error: "Please provide a valid email address." });
-  }
-  if (!isValidPhone(phone)) {
-    return sendJson(res, 400, { error: "Please provide a valid phone number." });
-  }
-  if (subject.length < 3) {
-    return sendJson(res, 400, { error: "Subject is too short." });
-  }
-  if (message.length < 10) {
-    return sendJson(res, 400, { error: "Message is too short." });
-  }
+    // Send confirmation email to user
+    await resend.emails.send({
+      from: 'info@gratiaglobal.com',
+      to: [email],
+      subject: 'Thank you for contacting Gratia Global',
+      html: `
+        <h2>Thank you for contacting us!</h2>
+        <p>Dear ${name},</p>
+        <p>We have received your message and will get back to you soon.</p>
+        <p>Our team typically responds within 24-48 business hours.</p>
+        <p>Best regards,<br>The Gratia Global Team</p>
+      `,
+    });
 
-  const result = await sendResendEmail({
-    to: process.env.CONTACT_TO_EMAIL,
-    subject: `Website Inquiry: ${subject}`,
-    html: `
-      <h2>New Contact Inquiry</h2>
-      <p><strong>Name:</strong> ${escapeHtml(name)}</p>
-      <p><strong>Email:</strong> ${escapeHtml(email)}</p>
-      <p><strong>Phone:</strong> ${escapeHtml(phone)}</p>
-      <p><strong>Source:</strong> ${escapeHtml(formSource)}</p>
-      <p><strong>Message:</strong></p>
-      <p>${escapeHtml(message).replaceAll("\n", "<br/>")}</p>
-      <p><strong>Submitted at:</strong> ${new Date().toISOString()}</p>
-    `,
-    text: [
-      "New Contact Inquiry",
-      `Name: ${name}`,
-      `Email: ${email}`,
-      `Phone: ${phone}`,
-      `Source: ${formSource}`,
-      "Message:",
-      message,
-      `Submitted at: ${new Date().toISOString()}`,
-    ].join("\n"),
-    replyTo: email,
-    tags: [
-      { name: "form", value: "contact" },
-      { name: "source", value: formSource.replaceAll(/[^A-Za-z0-9_-]/g, "-") || "contact-page" },
-    ],
-    idempotencyPrefix: "contact",
-  });
-
-  if (!result.ok) {
-    return sendJson(res, result.status, { error: result.error || "Could not send your message." });
+    return res.status(200).json({ success: true, data });
+  } catch (error) {
+    console.error('Error sending email:', error);
+    return res.status(500).json({ error: 'Failed to send email. Please try again.' });
   }
-
-  return sendJson(res, 200, { ok: true });
 };
