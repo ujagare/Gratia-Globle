@@ -469,7 +469,7 @@
                 </button>
               </form>
 
-              <div id="formMessage" style="display: none; margin-top: 16px; padding: 12px 16px; border-radius: 12px; font-size: 0.95rem;"></div>
+              <div id="formMessage" style="display: none; margin-top: 18px; padding: 16px 20px; border-radius: 16px; font-size: 0.95rem; font-weight: 600; letter-spacing: 0.02em;"></div>
 
               <p class="contact-form-note">
                 <span>&#128274;</span>
@@ -934,15 +934,21 @@
 
         function showMessage(text, type) {
           if (messageDiv) {
-            messageDiv.style.display = 'block';
-            messageDiv.textContent = text;
-            messageDiv.style.backgroundColor = type === 'success' ? 'rgba(72, 187, 120, 0.15)' : 'rgba(245, 101, 101, 0.15)';
-            messageDiv.style.color = type === 'success' ? '#2f855a' : '#c53030';
-            messageDiv.style.border = type === 'success' ? '1px solid rgba(72, 187, 120, 0.4)' : '1px solid rgba(245, 101, 101, 0.4)';
+            messageDiv.style.display = 'flex';
+            messageDiv.style.alignItems = 'center';
+            messageDiv.style.gap = '10px';
+            messageDiv.innerHTML = (type === 'success' ? '✓ ' : '⚠ ') + text;
+            messageDiv.style.backgroundColor = type === 'success' ? 'rgba(201, 145, 29, 0.12)' : 'rgba(245, 101, 101, 0.12)';
+            messageDiv.style.color = type === 'success' ? '#9a6512' : '#c53030';
+            messageDiv.style.border = type === 'success' ? '1px solid rgba(201, 145, 29, 0.4)' : '1px solid rgba(245, 101, 101, 0.4)';
+            messageDiv.style.fontSize = '0.95rem';
+            messageDiv.style.fontWeight = '600';
+            messageDiv.style.letterSpacing = '0.02em';
 
             if (type === 'success') {
               setTimeout(() => {
                 messageDiv.style.display = 'none';
+                messageDiv.innerHTML = '';
               }, 8000);
             }
           }
