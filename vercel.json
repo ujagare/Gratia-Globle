@@ -1,12 +1,20 @@
 {
   "version": 2,
-  "buildCommand": "npm run build",
-  "rewrites": [
-    { "source": "/about", "destination": "/about.html" },
-    { "source": "/products", "destination": "/product.html" },
-    { "source": "/product", "destination": "/product.html" },
-    { "source": "/contact", "destination": "/contact.html" },
-    { "source": "/privacy", "destination": "/privacy.html" },
-    { "source": "/terms", "destination": "/terms.html" }
+  "builds": [
+    { "src": "package.json", "use": "@vercel/static-build", "config": { "distDir": "public" } },
+    { "src": "api/contact.js", "use": "@vercel/node" },
+    { "src": "api/newsletter.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/contact", "dest": "/api/contact.js" },
+    { "src": "/api/newsletter", "dest": "/api/newsletter.js" },
+    { "src": "/about", "dest": "/about.html" },
+    { "src": "/products", "dest": "/product.html" },
+    { "src": "/product", "dest": "/product.html" },
+    { "src": "/contact", "dest": "/contact.html" },
+    { "src": "/privacy", "dest": "/privacy.html" },
+    { "src": "/terms", "dest": "/terms.html" },
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
