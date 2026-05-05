@@ -106,8 +106,18 @@ const allTrackedForms = document.querySelectorAll("form.newsletter-form, form.co
 
 const ensureFormLoadedAt = (form) => {
   const formLoadedAtInput = form.querySelector('input[name="form_loaded_at"]');
-  if (formLoadedAtInput && (!formLoadedAtInput.value || Number.isNaN(Number(formLoadedAtInput.value)))) {
+  if (!formLoadedAtInput) {
+    return;
+  }
+
+  if (!formLoadedAtInput.value) {
     formLoadedAtInput.value = String(Date.now());
+    return;
+  }
+
+  if (Number.isNaN(Number(formLoadedAtInput.value))) {
+    const parsedDate = Date.parse(formLoadedAtInput.value);
+    formLoadedAtInput.value = String(Number.isNaN(parsedDate) ? Date.now() : parsedDate);
   }
 };
 

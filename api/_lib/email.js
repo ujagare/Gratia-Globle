@@ -83,14 +83,24 @@ const isAllowedOrigin = (origin) => {
   return allowedOrigins.has(origin);
 };
 
+const getSubmittedAt = (value) => {
+  const timestamp = Number(value || 0);
+  if (!Number.isNaN(timestamp) && timestamp > 0) {
+    return timestamp;
+  }
+
+  const parsedDate = Date.parse(String(value || ""));
+  return Number.isNaN(parsedDate) ? 0 : parsedDate;
+};
+
 const validateBotGuards = (fields) => {
   const honeypot = sanitizeText(fields.contact_website || fields.website_url, 200);
   if (honeypot) {
     return "Bot request blocked.";
   }
 
-  const loadedAt = Number(fields.form_loaded_at || 0);
-  if (!loadedAt || Number.isNaN(loadedAt)) {
+  const loadedAt = getSubmittedAt(fields.form_loaded_at);
+  if (!loadedAt) {
     return "Invalid form request.";
   }
 
