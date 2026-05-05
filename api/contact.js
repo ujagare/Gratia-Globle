@@ -16,7 +16,7 @@ module.exports = async function handler(req, res) {
 
     // Send email to info@gratiaglobal.com (Premium Golden Template)
     const data = await resend.emails.send({
-      from: 'contact@gratiaglobal.com',
+      from: 'onboarding@resend.dev',  // Using Resend's default verified sender
       to: ['info@gratiaglobal.com'],
       subject: `New Inquiry: ${subject || 'Contact Form'} - ${name}`,
       reply_to: email,
@@ -81,7 +81,7 @@ module.exports = async function handler(req, res) {
 
     // Send confirmation email to user (Premium Golden Template)
     await resend.emails.send({
-      from: 'info@gratiaglobal.com',
+      from: 'onboarding@resend.dev',  // Using Resend's verified sender
       to: [email],
       subject: 'Thank You for Contacting Gratia Global | We Received Your Message',
       html: `
