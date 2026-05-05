@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
+  "buildCommand": "npm run build",
+  "rewrites": [
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/products", "destination": "/product.html" },
+    { "source": "/product", "destination": "/product.html" },
+    { "source": "/contact", "destination": "/contact.html" },
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/terms", "destination": "/terms.html" }
+  ]
 }

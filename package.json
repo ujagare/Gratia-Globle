@@ -5,6 +5,7 @@
   "description": "Gratia Global website with secure Resend email API",
   "main": "server-local.js",
   "scripts": {
+    "build": "node scripts/sync-public.js",
     "start": "node server-local.js"
   },
   "dependencies": {
