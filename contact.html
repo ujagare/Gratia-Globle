@@ -469,7 +469,7 @@
                 </button>
               </form>
 
-              <div id="formMessage" style="display: none; margin-top: 18px; padding: 16px 20px; border-radius: 16px; font-size: 0.95rem; font-weight: 600; letter-spacing: 0.02em;"></div>
+              <div id="formMessage" style="display: none; margin-top: 18px; padding: 14px 18px; border-radius: 12px; font-size: 0.92rem; font-weight: 600; letter-spacing: 0.02em; max-width: 480px;"></div>
 
               <p class="contact-form-note">
                 <span>&#128274;</span>
@@ -875,6 +875,7 @@
         if (form) {
           form.addEventListener('submit', async function(e) {
             e.preventDefault();
+            messageDiv.style.display = 'none'; // Hide previous messages
 
             const formData = {
               name: document.getElementById('contactName').value,
@@ -902,7 +903,7 @@
             // Disable button during submission
             const submitBtn = form.querySelector('.contact-submit');
             const originalText = submitBtn.innerHTML;
-            submitBtn.innerHTML = 'Sending...';
+            submitBtn.innerHTML = '<span style="display:inline-flex;align-items:center;gap:8px;">⏳ Sending...</span>';
             submitBtn.disabled = true;
 
             try {
@@ -919,12 +920,14 @@
               if (response.ok && result.success) {
                 showMessage('Thank you! Your message has been sent successfully. We will get back to you soon.', 'success');
                 form.reset();
+                if (formLoadedAt) formLoadedAt.value = new Date().toISOString();
               } else {
+                console.error('API Error:', result);
                 showMessage(result.error || 'Failed to send message. Please try again.', 'error');
               }
             } catch (error) {
-              console.error('Error:', error);
-              showMessage('Network error. Please check your connection and try again.', 'error');
+              console.error('Fetch Error:', error);
+              showMessage('Unable to reach server. Please ensure you are on the live site (not local file://).', 'error');
             } finally {
               submitBtn.innerHTML = originalText;
               submitBtn.disabled = false;
@@ -935,15 +938,24 @@
         function showMessage(text, type) {
           if (messageDiv) {
             messageDiv.style.display = 'flex';
-            messageDiv.style.alignItems = 'center';
-            messageDiv.style.gap = '10px';
-            messageDiv.innerHTML = (type === 'success' ? '✓ ' : '⚠ ') + text;
-            messageDiv.style.backgroundColor = type === 'success' ? 'rgba(201, 145, 29, 0.12)' : 'rgba(245, 101, 101, 0.12)';
+            messageDiv.style.alignItems = 'flex-start';
+            messageDiv.style.justifyContent = 'flex-start';
+            messageDiv.style.textAlign = 'left';
+            messageDiv.style.margin = '0';
+            messageDiv.style.gap = '12px';
+            messageDiv.style.borderLeft = type === 'success' ? '4px solid #c8911d' : '4px solid #e53e3e';
+            messageDiv.innerHTML = '<span style="font-size:1.4em;line-height:1;margin-top:2px;">' + (type === 'success' ? '✓' : '⚠') + '</span><span>' + text + '</span>';
+            messageDiv.style.background = type === 'success' 
+              ? 'linear-gradient(135deg, rgba(201, 145, 29, 0.08), rgba(255, 248, 231, 0.4))' 
+              : 'linear-gradient(135deg, rgba(245, 101, 101, 0.08), rgba(254, 242, 242, 0.4))';
             messageDiv.style.color = type === 'success' ? '#9a6512' : '#c53030';
-            messageDiv.style.border = type === 'success' ? '1px solid rgba(201, 145, 29, 0.4)' : '1px solid rgba(245, 101, 101, 0.4)';
-            messageDiv.style.fontSize = '0.95rem';
+            messageDiv.style.border = type === 'success' ? '1px solid rgba(201, 145, 29, 0.35)' : '1px solid rgba(245, 101, 101, 0.35)';
+            messageDiv.style.fontSize = '0.92rem';
             messageDiv.style.fontWeight = '600';
             messageDiv.style.letterSpacing = '0.02em';
+            messageDiv.style.lineHeight = '1.6';
+            messageDiv.style.padding = '14px 18px';
+            messageDiv.style.borderRadius = '0 12px 12px 0';
 
             if (type === 'success') {
               setTimeout(() => {
