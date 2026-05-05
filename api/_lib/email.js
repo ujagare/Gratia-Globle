@@ -62,7 +62,12 @@ const getAllowedOrigins = () => {
     ? `https://${sanitizeText(process.env.VERCEL_URL, 300)}`
     : "";
 
-  return new Set([...configuredOrigins, previewOrigin].filter(Boolean));
+  const productionOrigins = [
+    "https://gratiaglobal.com",
+    "https://www.gratiaglobal.com",
+  ];
+
+  return new Set([...configuredOrigins, previewOrigin, ...productionOrigins].filter(Boolean));
 };
 
 const isAllowedOrigin = (origin) => {
