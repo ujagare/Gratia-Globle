@@ -1,39 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.gratiaglobal.com/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.gratiaglobal.com/assets/images/Logo.webp</image:loc>
+      <image:title>Gratia Global - Premium Agro &amp; Herbal Product Exporter from India</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.gratiaglobal.com/about</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.gratiaglobal.com/products</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.gratiaglobal.com/assets/images/curry-leaves-powder-bulk-exporter-india.webp</image:loc>
+      <image:title>Curry Leaves Powder Bulk Exporter India - Gratia Global</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gratiaglobal.com/assets/images/turmeric-powder-bulk-exporter-india.webp</image:loc>
+      <image:title>Turmeric Powder Bulk Supplier India - Gratia Global</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gratiaglobal.com/assets/images/amla-powder-exporter-india.webp</image:loc>
+      <image:title>Amla Powder Exporter India - Gratia Global</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.gratiaglobal.com/contact</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.gratiaglobal.com/privacy</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.gratiaglobal.com/terms</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <priority>0.3</priority>
   </url>
 </urlset>

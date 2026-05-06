@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /.env
+Disallow: /.env.local
+Disallow: /node_modules/
 
 Sitemap: https://www.gratiaglobal.com/sitemap.xml
