@@ -1705,15 +1705,14 @@ body.is-loading { overflow: hidden; }
     padding: 6px 12px;
     min-height: 32px;
   }
-}
 
-  .about-reference-stats-grid,
-  .about-reference-approach-list,
-  .about-reference-team-grid,
-  .about-reference-benefits-grid,
-  .about-reference-cert-grid {
-    grid-template-columns: 1fr;
-  }
+   .about-reference-stats-grid,
+   .about-reference-approach-list,
+   .about-reference-team-grid,
+   .about-reference-benefits-grid,
+   .about-reference-cert-grid {
+     grid-template-columns: 1fr;
+   }
 
   .about-reference-stats-grid {
     gap: 10px;
