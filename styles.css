@@ -639,7 +639,7 @@ body.is-loading { overflow: hidden; }
   bottom: -28px;
   width: 280px;
   height: 380px;
-  background: url("assets/images/About/ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp") center / contain no-repeat;
+  background: url("assets/images/About/herbal-leaf-about-decoration-gratia-global.webp") center / contain no-repeat;
   opacity: 0.24;
 }
 
@@ -1686,13 +1686,16 @@ body.is-loading { overflow: hidden; }
 
   .about-reference-hero-actions {
     align-items: center;
+    justify-content: center;
     gap: 10px;
     margin-top: 16px;
   }
 
   .about-reference-hero-actions .button {
     width: 100%;
-    max-width: 280px;
+    max-width: 250px;
+    padding: 13px 20px;
+    font-size: 0.9rem;
   }
 
   .about-reference-hero-badges {
@@ -1856,10 +1859,11 @@ body.is-loading { overflow: hidden; }
 
   .about-reference-hero-actions {
     flex-direction: column;
-    align-items: stretch;
+    align-items: center;
   }
 
   .about-reference-hero-actions .button {
+    width: min(100%, 240px);
     text-align: center;
     justify-content: center;
   }
@@ -2653,6 +2657,46 @@ body.is-loading { overflow: hidden; }
   font-size: 1rem;
   font-weight: 800;
   letter-spacing: 0.01em;
+}
+
+.contact-toast {
+  position: fixed;
+  top: 18px;
+  left: 50%;
+  z-index: 9999;
+  width: min(calc(100% - 28px), 560px);
+  padding: 14px 18px;
+  border-radius: 14px;
+  font-size: 0.94rem;
+  font-weight: 800;
+  line-height: 1.5;
+  text-align: center;
+  color: #7c5110;
+  background: rgba(255, 252, 246, 0.96);
+  border: 1px solid rgba(201, 145, 29, 0.34);
+  box-shadow: 0 18px 42px rgba(59, 42, 16, 0.2);
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, -18px);
+  transition:
+    opacity 0.25s ease,
+    transform 0.25s ease;
+}
+
+.contact-toast.is-visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+.contact-toast-success {
+  color: #7a4f0e;
+  background: linear-gradient(135deg, rgba(255, 252, 244, 0.98), rgba(250, 235, 195, 0.96));
+}
+
+.contact-toast-error {
+  color: #a32525;
+  border-color: rgba(229, 62, 62, 0.3);
+  background: linear-gradient(135deg, rgba(255, 250, 250, 0.98), rgba(254, 226, 226, 0.96));
 }
 
 .contact-quick-action small {
@@ -6407,13 +6451,15 @@ input {
 
   .products-hero-actions {
     flex-direction: column;
-    align-items: stretch;
+    align-items: center;
   }
 
   .products-hero-actions .button {
     text-align: center;
     justify-content: center;
-    width: 100%;
+    width: min(100%, 250px);
+    padding: 13px 20px;
+    font-size: 0.9rem;
   }
 
   .products-hero-badges {
@@ -6511,8 +6557,9 @@ input {
   }
 
   .products-hero-actions .button {
-    padding: 12px 16px;
-    font-size: 0.88rem;
+    width: min(100%, 235px);
+    padding: 11px 16px;
+    font-size: 0.84rem;
   }
 
   .products-hero-badges {
