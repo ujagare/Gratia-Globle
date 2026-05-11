@@ -122,6 +122,10 @@ const ensureFormLoadedAt = (form) => {
 };
 
 const setFormMessage = (form, message, type) => {
+  if (form && form.matches("form.contact-form-grid")) {
+    showContactToast(message, type);
+  }
+
   let feedbackElement = form.querySelector(".form-feedback");
   if (!feedbackElement) {
     feedbackElement = document.createElement("p");
@@ -133,6 +137,28 @@ const setFormMessage = (form, message, type) => {
 
   feedbackElement.textContent = message;
   feedbackElement.style.color = type === "success" ? "#1f7a3a" : "#b3261e";
+};
+
+const showContactToast = (message, type) => {
+  let toast = document.getElementById("contactToast");
+
+  if (!toast) {
+    toast = document.createElement("div");
+    toast.id = "contactToast";
+    toast.className = "contact-toast";
+    toast.setAttribute("role", "status");
+    toast.setAttribute("aria-live", "polite");
+    document.body.appendChild(toast);
+  }
+
+  toast.className = `contact-toast contact-toast-${type}`;
+  toast.textContent = message;
+  toast.classList.add("is-visible");
+
+  window.clearTimeout(toast.hideTimer);
+  toast.hideTimer = window.setTimeout(() => {
+    toast.classList.remove("is-visible");
+  }, type === "success" ? 6000 : 4500);
 };
 
 const submitFormData = async (form) => {
