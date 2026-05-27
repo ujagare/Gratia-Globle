@@ -1161,6 +1161,11 @@ body.is-loading { overflow: hidden; }
   margin-top: 36px;
 }
 
+.about-reference-team-grid.about-reference-founder-grid {
+  grid-template-columns: minmax(0, 560px);
+  justify-content: center;
+}
+
 .about-reference-team-card {
   position: relative;
   overflow: hidden;
@@ -1229,6 +1234,41 @@ body.is-loading { overflow: hidden; }
   color: #5a4b33;
   font-size: 0.95rem;
   line-height: 1.75;
+}
+
+.about-reference-founder-copy {
+  padding: 34px 36px 38px;
+  text-align: center;
+}
+
+.about-reference-founder-details {
+  display: grid;
+  gap: 16px;
+  margin: 22px 0 0;
+}
+
+.about-reference-founder-details div {
+  display: grid;
+  gap: 6px;
+  padding: 16px 18px;
+  border: 1px solid rgba(203, 145, 35, 0.2);
+  border-radius: 16px;
+  background: rgba(255, 252, 245, 0.68);
+}
+
+.about-reference-founder-details dt {
+  color: #9c6814;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.about-reference-founder-details dd {
+  margin: 0;
+  color: #4e4029;
+  font-size: 1rem;
+  line-height: 1.65;
 }
 
 .about-reference-team-leaf {
