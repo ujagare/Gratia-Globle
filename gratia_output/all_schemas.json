@@ -1,0 +1,679 @@
+{
+  "organization": {
+    "@context": "https://schema.org",
+    "@type": [
+      "Organization",
+      "LocalBusiness"
+    ],
+    "@id": "https://www.gratiaglobal.com/#organization",
+    "name": "Gratia Global",
+    "description": "Gratia Global exports premium agro and herbal products from India. Bulk buyers, private label brands, and B2B importers trust us for HACCP & ISO certified quality. 20+ countries served. Free quote available.",
+    "url": "https://www.gratiaglobal.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gratiaglobal.com/assets/images/Logo.webp",
+      "width": 200,
+      "height": 60
+    },
+    "image": "https://www.gratiaglobal.com/assets/images/slider/curry-leaves-powder-exporter-india.webp",
+    "telephone": "+91 86009 49433",
+    "email": "info@gratiaglobal.com",
+    "foundingDate": "2014",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "value": 10
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "A-1, Export House",
+      "addressLocality": "Indore",
+      "addressRegion": "Madhya Pradesh",
+      "postalCode": "452010",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "22.7196",
+      "longitude": "75.8577"
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "09:30",
+        "closes": "18:30"
+      }
+    ],
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+91 86009 49433",
+        "contactType": "sales",
+        "areaServed": "Worldwide",
+        "availableLanguage": [
+          "English",
+          "Hindi"
+        ]
+      },
+      {
+        "@type": "ContactPoint",
+        "telephone": "+91 86009 49433",
+        "contactType": "customer support",
+        "availableLanguage": "English"
+      }
+    ],
+    "sameAs": [
+      "https://www.indiamart.com/gratia-global/",
+      "https://www.linkedin.com/company/gratia-global",
+      "https://wa.me/918600949433",
+      "https://www.tradeindia.com/gratia-global/"
+    ],
+    "areaServed": [
+      "Middle East",
+      "Europe",
+      "Southeast Asia",
+      "United Kingdom",
+      "United Arab Emirates",
+      "Singapore",
+      "Germany",
+      "Malaysia",
+      "Spain"
+    ],
+    "knowsAbout": [
+      "Herbal Powder Export",
+      "Agro Products Export",
+      "Curry Leaves Powder",
+      "Ashwagandha Powder",
+      "Turmeric Powder Export",
+      "Private Label Herbal Products",
+      "Bulk Spice Supply",
+      "Moringa Powder Export"
+    ],
+    "hasCredential": [
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "ISO 22000:2018"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "HACCP Certified"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "FSSAI Registered"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "APEDA Registered"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "USDA Organic Support"
+      }
+    ],
+    "slogan": "Premium Agro & Herbal Product Exporter from India"
+  },
+  "website": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://www.gratiaglobal.com/#website",
+    "url": "https://www.gratiaglobal.com",
+    "name": "Gratia Global",
+    "description": "Premium Agro & Herbal Product Exporter from India",
+    "publisher": {
+      "@id": "https://www.gratiaglobal.com/#organization"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://www.gratiaglobal.com/product.html?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  },
+  "faqPage": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do you support bulk and private label orders?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Gratia Global handles bulk quantities and also provides customized packaging and private labeling to match your brand and market requirements."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can we request product samples before ordering?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. We share product samples for approval so you can verify quality, texture, and specification before placing a final order."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which countries do you currently export to?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gratia Global exports across the Middle East, Europe, Southeast Asia, and beyond — serving 20+ countries including UAE, UK, Singapore, Germany, and Malaysia."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What quality certifications do you follow?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We maintain HACCP and ISO 22000:2018 standards. FSSAI, APEDA, and USDA Organic documentation support available."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is your minimum order quantity for export?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "MOQ depends on product category and packaging format. Our team shares a clear MOQ and quotation during the inquiry stage."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does it take from confirmation to dispatch?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most orders are dispatched within the agreed lead time after sample approval and documentation confirmation. Exact timelines shared in the final quote."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you assist with export documentation and compliance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Gratia Global supports complete export documentation including invoice, packing list, certificate of origin, and shipment compliance for smooth customs clearance."
+        }
+      }
+    ]
+  },
+  "productList": {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Gratia Global Export Products — Herbal Powders & Agro Products",
+    "description": "Premium herbal powders, spices and agro products for bulk export from India",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Curry Leaves Powder",
+          "description": "Premium quality curry leaves powder sourced from fresh curry leaves. Rich aroma, vibrant green color, and export-grade packaging for wholesale, private label, and bulk supply requirements worldwide.",
+          "image": "https://www.gratiaglobal.com/assets/images/curry-leaves-powder-bulk-exporter-india.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Herbal Powders",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ashwagandha Powder",
+          "description": "Pure ashwagandha (Withania somnifera) root powder for nutraceutical, wellness, and private label buyers. Carefully processed for maximum potency and export compliance.",
+          "image": "https://www.gratiaglobal.com/assets/images/ashwagandha-powder-herbal-exporter-india.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Herbal Powders",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Amla Powder",
+          "description": "Authentic amla (Indian gooseberry) powder rich in Vitamin C. For wellness brands, supplement importers, and natural product distributors who need authentic herbal ingredients.",
+          "image": "https://www.gratiaglobal.com/assets/images/amla-powder-exporter-india.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Herbal Powders",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Turmeric Powder",
+          "description": "High-curcumin turmeric powder for food brands, distributors, and importers. Bright color, stable quality, smooth shipment planning from India. Available in bulk and private label packaging.",
+          "image": "https://www.gratiaglobal.com/assets/images/turmeric-powder-bulk-exporter-india-gratia-global.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Herbal Powders",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Moringa Powder",
+          "description": "Pure moringa leaf powder — the superfood for nutraceutical and wellness brands. Rich in iron, calcium, and vitamins. Export-ready with complete documentation support.",
+          "image": "https://www.gratiaglobal.com/assets/images/moringa-powder-bulk-export-india-gratia-global.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Herbal Powders",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Onion Powder",
+          "description": "Fine texture onion powder for food industry use. Reliable taste and consistent quality for seasoning blends, ready-to-cook products, and industrial processing.",
+          "image": "https://www.gratiaglobal.com/assets/images/onion-powder-bulk-supplier-india.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Dry Vegetables",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Dry Onion Flakes",
+          "description": "Crispy, uniform dry onion flakes for food processing, soup mixes, and seasoning applications. Bulk export supply from Indore, India.",
+          "image": "https://www.gratiaglobal.com/assets/images/dry-onion-flakes-exporter-india.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Dry Vegetables",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Curry Leaves Whole",
+          "description": "Dried whole curry leaves with natural aroma preserved. For seasoning, culinary use, and herbal extract manufacturers. MOQ-flexible, bulk export from India.",
+          "image": "https://www.gratiaglobal.com/assets/images/curry-leaves-whole-exporter-india.webp",
+          "brand": {
+            "@type": "Brand",
+            "name": "Gratia Global"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Gratia Global",
+            "url": "https://www.gratiaglobal.com"
+          },
+          "category": "Herbal Products",
+          "url": "https://www.gratiaglobal.com/product.html",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.gratiaglobal.com/contact.html",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Gratia Global"
+            }
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "48",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        }
+      }
+    ]
+  },
+  "reviews": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.gratiaglobal.com/#org-reviews",
+    "name": "Gratia Global",
+    "url": "https://www.gratiaglobal.com",
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "David Morgan"
+        },
+        "reviewBody": "Gratia Global has been a reliable sourcing partner for our retail chain. Product quality is always consistent and shipments are on time.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "UK"
+        }
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fatima Al Noor"
+        },
+        "reviewBody": "Excellent packaging, pure products, and professional communication. Their team understands export documentation very well.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "UAE"
+        }
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Michael Chen"
+        },
+        "reviewBody": "From sample approval to final delivery, the complete process was smooth. We highly recommend Gratia Global for bulk requirements.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Singapore"
+        }
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "3",
+      "bestRating": "5"
+    }
+  },
+  "breadcrumbs": {
+    "index.html": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gratiaglobal.com/"
+        }
+      ]
+    },
+    "about.html": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gratiaglobal.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About Us",
+          "item": "https://www.gratiaglobal.com/about.html"
+        }
+      ]
+    },
+    "product.html": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gratiaglobal.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.gratiaglobal.com/product.html"
+        }
+      ]
+    },
+    "contact.html": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gratiaglobal.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Contact",
+          "item": "https://www.gratiaglobal.com/contact.html"
+        }
+      ]
+    }
+  },
+  "speakable": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Gratia Global | Agro & Herbal Product Exporter in India",
+    "description": "Gratia Global exports premium agro and herbal products from India — bulk buyers, private label brands, and B2B importers. HACCP & ISO certified. 20+ countries. Request a free quote today.",
+    "url": "https://www.gratiaglobal.com/",
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "xpath": [
+        "/html/head/title",
+        "/html/head/meta[@name='description']/@content"
+      ]
+    },
+    "about": {
+      "@id": "https://www.gratiaglobal.com/#organization"
+    },
+    "publisher": {
+      "@id": "https://www.gratiaglobal.com/#organization"
+    }
+  }
+}

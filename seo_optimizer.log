@@ -1,0 +1,1310 @@
+01:41:57  INFO      ╔════════════════════════════════════════════════════════════╗
+01:41:57  INFO      ║  GRATIA GLOBAL SEO OPTIMIZER — Starting                    ║
+01:41:57  INFO      ╚════════════════════════════════════════════════════════════╝
+01:41:57  INFO        Root: C:\Users\ujaga\OneDrive\Desktop\Gratia Globle
+01:41:57  INFO        Mode: DRY-RUN
+01:41:57  INFO        Tasks: images, optimize, lazy, alttags, meta, semantic, schema, sitemap, robots, opengraph, performance
+01:41:57  INFO        HTML files found: 18 → ['about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'terms.html', 'about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'terms.html', 'terms.html']
+01:41:57  INFO      ════════════════════════════════════════════════════════════
+01:41:57  INFO      TASK 1: Image Rename
+01:41:58  INFO        ✓ HTML updated: about.html
+01:41:58  INFO        ✓ HTML updated: contact.html
+01:41:58  INFO        ✓ HTML updated: index.html
+01:41:58  INFO        ✓ HTML updated: privacy.html
+01:41:58  INFO        ✓ HTML updated: product.html
+01:41:58  INFO        ✓ HTML updated: terms.html
+01:41:58  INFO        ✓ HTML updated: about.html
+01:41:58  INFO        ✓ HTML updated: contact.html
+01:41:58  INFO        ✓ HTML updated: index.html
+01:41:58  INFO        ✓ HTML updated: privacy.html
+01:41:58  INFO        ✓ HTML updated: product.html
+01:41:58  INFO        ✓ HTML updated: about.html
+01:41:58  INFO        ✓ HTML updated: contact.html
+01:41:58  INFO        ✓ HTML updated: index.html
+01:41:58  INFO        ✓ HTML updated: privacy.html
+01:41:59  INFO        ✓ HTML updated: product.html
+01:41:59  INFO        ✓ HTML updated: terms.html
+01:41:59  INFO        ✓ HTML updated: terms.html
+01:41:59  INFO        ✓ CSS updated: styles.css
+01:41:59  INFO        ✓ CSS updated: styles.css
+01:41:59  INFO        ✓ CSS updated: styles.css
+01:41:59  INFO        Rename: 3ff24925-35bf-4b76-abb2-825a02deeadd.webp  →  moringa-powder-bulk-export-india-gratia-global.webp
+01:41:59  INFO        Rename: a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp  →  ashwagandha-powder-herbal-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp  →  premium-herbal-export-products-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp  →  turmeric-powder-bulk-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp  →  lonche-pickle-export-quality-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp  →  horse-gram-pulses-bulk-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp  →  tea-leaves-harvested-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp  →  herbal-powder-bowl-premium-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp  →  warehouse-storage-logistics-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213833-removebg-preview.webp  →  global-export-countries-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213857-removebg-preview.webp  →  happy-global-clients-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213921-removebg-preview.webp  →  premium-products-catalog-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213937-removebg-preview.webp  →  export-experience-years-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214003-removebg-preview.webp  →  mission-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214033-removebg-preview.webp  →  vision-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214117-removebg-preview.webp  →  quality-assurance-about-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214137-removebg-preview.webp  →  trusted-network-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214155-removebg-preview.webp  →  export-standards-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214216-removebg-preview.webp  →  global-delivery-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214232-removebg-preview.webp  →  transparent-communication-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214252-removebg-preview.webp  →  partnership-focus-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215105-removebg-preview.webp  →  fssai-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215123-removebg-preview.webp  →  usda-organic-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215153-removebg-preview.webp  →  gmp-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215212-removebg-preview.webp  →  apeda-registered-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp  →  herbal-leaf-green-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp  →  herbal-leaf-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp  →  herbal-botanical-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp  →  global-export-contact-visual-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp  →  premium-herbal-ingredients-export-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp  →  export-contact-decoration-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot 2026-04-13 235355-Photoroom.webp  →  office-address-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_011404-removebg-preview.webp  →  business-hours-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_011616-removebg-preview.webp  →  contact-subject-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp  →  contact-message-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled.webp  →  contact-phone-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__2_-removebg-preview.webp  →  quick-response-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__3_-removebg-preview.webp  →  contact-name-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__4_-removebg-preview.webp  →  contact-form-decoration-gratia-global.webp
+01:41:59  INFO        Rename: Untitled__1_-removebg-preview.webp  →  contact-email-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled__2_-removebg-preview.webp  →  whatsapp-support-icon-gratia-global.webp
+01:41:59  INFO        Rename: 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp  →  inquiry-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp  →  natural-products-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp  →  premium-quality-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp  →  global-reach-export-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp  →  quality-assurance-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp  →  certified-products-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp  →  customer-satisfaction-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp  →  sampling-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp  →  packaging-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp  →  shipping-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp  →  delivery-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp  →  sustainable-practices-icon-clean-gratia-global.webp
+01:41:59  INFO        Rename: 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp  →  all-products-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp  →  herbal-powders-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp  →  dry-vegetables-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp  →  pickles-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp  →  pulses-grains-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp  →  herbal-product-category-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp  →  premium-herbal-powders-spices-bowls-gratia-global.webp
+01:41:59  INFO        Rename: 3ff24925-35bf-4b76-abb2-825a02deeadd.webp  →  moringa-powder-bulk-export-india-gratia-global.webp
+01:41:59  INFO        Rename: a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp  →  ashwagandha-powder-herbal-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp  →  premium-herbal-export-products-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp  →  turmeric-powder-bulk-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp  →  lonche-pickle-export-quality-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp  →  horse-gram-pulses-bulk-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp  →  tea-leaves-harvested-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp  →  herbal-powder-bowl-premium-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp  →  warehouse-storage-logistics-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213833-removebg-preview.webp  →  global-export-countries-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213857-removebg-preview.webp  →  happy-global-clients-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213921-removebg-preview.webp  →  premium-products-catalog-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213937-removebg-preview.webp  →  export-experience-years-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214003-removebg-preview.webp  →  mission-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214033-removebg-preview.webp  →  vision-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214117-removebg-preview.webp  →  quality-assurance-about-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214137-removebg-preview.webp  →  trusted-network-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214155-removebg-preview.webp  →  export-standards-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214216-removebg-preview.webp  →  global-delivery-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214232-removebg-preview.webp  →  transparent-communication-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214252-removebg-preview.webp  →  partnership-focus-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215105-removebg-preview.webp  →  fssai-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215123-removebg-preview.webp  →  usda-organic-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215153-removebg-preview.webp  →  gmp-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215212-removebg-preview.webp  →  apeda-registered-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp  →  herbal-leaf-green-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp  →  herbal-leaf-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp  →  herbal-botanical-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp  →  global-export-contact-visual-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp  →  premium-herbal-ingredients-export-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp  →  export-contact-decoration-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot 2026-04-13 235355-Photoroom.webp  →  office-address-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_011404-removebg-preview.webp  →  business-hours-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_011616-removebg-preview.webp  →  contact-subject-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp  →  contact-message-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled.webp  →  contact-phone-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__2_-removebg-preview.webp  →  quick-response-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__3_-removebg-preview.webp  →  contact-name-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__4_-removebg-preview.webp  →  contact-form-decoration-gratia-global.webp
+01:41:59  INFO        Rename: Untitled__1_-removebg-preview.webp  →  contact-email-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled__2_-removebg-preview.webp  →  whatsapp-support-icon-gratia-global.webp
+01:41:59  INFO        Rename: 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp  →  inquiry-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp  →  natural-products-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp  →  premium-quality-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp  →  global-reach-export-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp  →  quality-assurance-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp  →  certified-products-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp  →  customer-satisfaction-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp  →  sampling-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp  →  packaging-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp  →  shipping-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp  →  delivery-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp  →  sustainable-practices-icon-clean-gratia-global.webp
+01:41:59  INFO        Rename: 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp  →  all-products-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp  →  herbal-powders-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp  →  dry-vegetables-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp  →  pickles-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp  →  pulses-grains-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp  →  herbal-product-category-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp  →  premium-herbal-powders-spices-bowls-gratia-global.webp
+01:41:59  INFO        Rename: 3ff24925-35bf-4b76-abb2-825a02deeadd.webp  →  moringa-powder-bulk-export-india-gratia-global.webp
+01:41:59  INFO        Rename: a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp  →  ashwagandha-powder-herbal-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp  →  premium-herbal-export-products-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp  →  turmeric-powder-bulk-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp  →  lonche-pickle-export-quality-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp  →  horse-gram-pulses-bulk-exporter-india-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp  →  tea-leaves-harvested-india-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp  →  herbal-powder-bowl-premium-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp  →  warehouse-storage-logistics-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213833-removebg-preview.webp  →  global-export-countries-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213857-removebg-preview.webp  →  happy-global-clients-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213921-removebg-preview.webp  →  premium-products-catalog-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_213937-removebg-preview.webp  →  export-experience-years-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214003-removebg-preview.webp  →  mission-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214033-removebg-preview.webp  →  vision-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214117-removebg-preview.webp  →  quality-assurance-about-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214137-removebg-preview.webp  →  trusted-network-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214155-removebg-preview.webp  →  export-standards-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214216-removebg-preview.webp  →  global-delivery-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214232-removebg-preview.webp  →  transparent-communication-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_214252-removebg-preview.webp  →  partnership-focus-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215105-removebg-preview.webp  →  fssai-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215123-removebg-preview.webp  →  usda-organic-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215153-removebg-preview.webp  →  gmp-certified-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-13_215212-removebg-preview.webp  →  apeda-registered-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp  →  herbal-leaf-green-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp  →  herbal-leaf-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp  →  herbal-botanical-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp  →  global-export-contact-visual-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp  →  premium-herbal-ingredients-export-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp  →  export-contact-decoration-gratia-global.webp
+01:41:59  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot 2026-04-13 235355-Photoroom.webp  →  office-address-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_011404-removebg-preview.webp  →  business-hours-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_011616-removebg-preview.webp  →  contact-subject-icon-gratia-global.webp
+01:41:59  INFO        Rename: Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp  →  contact-message-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled.webp  →  contact-phone-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__2_-removebg-preview.webp  →  quick-response-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__3_-removebg-preview.webp  →  contact-name-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled_design__4_-removebg-preview.webp  →  contact-form-decoration-gratia-global.webp
+01:41:59  INFO        Rename: Untitled__1_-removebg-preview.webp  →  contact-email-icon-gratia-global.webp
+01:41:59  INFO        Rename: Untitled__2_-removebg-preview.webp  →  whatsapp-support-icon-gratia-global.webp
+01:41:59  INFO        Rename: 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp  →  inquiry-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp  →  natural-products-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp  →  premium-quality-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp  →  global-reach-export-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp  →  quality-assurance-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp  →  certified-products-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp  →  customer-satisfaction-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp  →  sampling-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp  →  packaging-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp  →  shipping-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp  →  delivery-process-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp  →  sustainable-practices-icon-clean-gratia-global.webp
+01:41:59  INFO        Rename: 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp  →  all-products-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp  →  herbal-powders-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp  →  dry-vegetables-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp  →  pickles-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp  →  pulses-grains-category-icon-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp  →  herbal-product-category-decoration-gratia-global.webp
+01:41:59  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp  →  premium-herbal-powders-spices-bowls-gratia-global.webp
+01:41:59  INFO        Summary: 207 renamed, 18 HTML files updated, 192 skipped
+01:41:59  INFO      ════════════════════════════════════════════════════════════
+01:41:59  INFO      TASK 2: Image Optimization
+01:42:00  INFO        [DRY-RUN] 2.webp: 1536x1024, 25KB
+01:42:00  INFO        [DRY-RUN] 228c1eb9-33dd-4898-972b-15d223f4b04f.webp: 1402x1122, 149KB
+01:42:00  INFO        [DRY-RUN] 29a50b58-5a90-4e8a-929b-6c07008af3fb.webp: 1774x887, 80KB
+01:42:00  INFO        [DRY-RUN] 3ff24925-35bf-4b76-abb2-825a02deeadd.webp: 1254x1254, 207KB
+01:42:00  INFO        [DRY-RUN] 4e458263-b92f-447e-b01f-b59db8c089ef.webp: 1451x1084, 154KB
+01:42:00  INFO        [DRY-RUN] 7f91dc7b-f9b3-41e1-9073-b2a0375efa6b.webp: 1195x1316, 145KB
+01:42:00  INFO        [DRY-RUN] 9e70aa23-c161-42e8-a875-60cedc1f2692.webp: 2205x713, 205KB → resize to 1920px wide
+01:42:00  INFO        [DRY-RUN] a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp: 1254x1254, 202KB
+01:42:00  INFO        [DRY-RUN] amla-powder-exporter-india.webp: 1451x1084, 154KB
+01:42:00  INFO        [DRY-RUN] ashwagandha-powder-herbal-exporter-india.webp: 1402x1122, 149KB
+01:42:00  INFO        [DRY-RUN] c251c9e9-40d3-4c67-aea5-d53a0d447074.webp: 1672x941, 51KB
+01:42:00  INFO        [DRY-RUN] c5e02f3a-2c64-430f-ab49-3a45c1eccd6d.webp: 1536x1024, 163KB
+01:42:00  INFO        [DRY-RUN] c976fa92-5795-4a98-a81e-9c8cd57e3b62.webp: 1405x1119, 111KB
+01:42:00  INFO        [DRY-RUN] cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp: 1672x279, 13KB
+01:42:00  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp: 1536x1024, 339KB
+01:42:00  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp: 1254x1254, 160KB
+01:42:00  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp: 1122x1402, 107KB
+01:42:00  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp: 1254x1254, 152KB
+01:42:00  INFO        [DRY-RUN] curry-leaves-powder-bulk-exporter-india.webp: 1536x1024, 163KB
+01:42:00  INFO        [DRY-RUN] d3af7f5a-e522-4341-9022-e55584dc6882.webp: 1672x941, 225KB
+01:42:00  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:00  INFO        [DRY-RUN] hero bckgroud image (1).webp: 1774x887, 17KB
+01:42:01  INFO        [DRY-RUN] hero bckgroud image.webp: 1774x887, 17KB
+01:42:01  INFO        [DRY-RUN] Logo-removebg-preview.webp: 500x500, 25KB
+01:42:01  INFO        [DRY-RUN] Logo.webp: 500x500, 25KB
+01:42:01  INFO        [DRY-RUN] onion-powder-bulk-supplier-india.webp: 1405x1119, 111KB
+01:42:01  INFO        [DRY-RUN] turmeric-powder-bulk-exporter-india.webp: 1195x1316, 145KB
+01:42:01  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp: 1402x1122, 105KB
+01:42:01  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp: 1254x1254, 148KB
+01:42:01  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp: 1536x1024, 171KB
+01:42:01  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp: 408x612, 64KB
+01:42:01  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_213833-removebg-preview.webp: 264x263, 11KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_213857-removebg-preview.webp: 245x241, 9KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_213921-removebg-preview.webp: 214x221, 6KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_213937-removebg-preview.webp: 257x219, 10KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_214003-removebg-preview.webp: 286x293, 10KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_214033-removebg-preview.webp: 271x147, 8KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_214117-removebg-preview.webp: 183x195, 8KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_214137-removebg-preview.webp: 169x189, 6KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_214155-removebg-preview.webp: 202x179, 7KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_215105-removebg-preview.webp: 310x174, 10KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_215123-removebg-preview.webp: 253x251, 14KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_215153-removebg-preview.webp: 247x244, 19KB
+01:42:01  INFO        [DRY-RUN] Screenshot_2026-04-13_215212-removebg-preview.webp: 225x218, 9KB
+01:42:01  INFO        [DRY-RUN] 1.webp: 329x404, 29KB
+01:42:01  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp: 500x500, 20KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp: 500x500, 35KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp: 1536x1024, 116KB
+01:42:02  INFO        [DRY-RUN] 2.webp: 1536x1024, 25KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp: 500x500, 33KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp: 500x500, 25KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp: 1371x1147, 107KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp: 2086x754, 222KB → resize to 1920px wide
+01:42:02  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp: 408x612, 64KB
+01:42:02  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp: 500x500, 15KB
+01:42:02  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__11_48_58_PM-removebg-preview.webp: 831x300, 60KB
+01:42:02  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:02  INFO        [DRY-RUN] Screenshot_2026-04-14_011404-removebg-preview.webp: 397x418, 13KB
+01:42:02  INFO        [DRY-RUN] Screenshot_2026-04-14_011616-removebg-preview.webp: 460x542, 13KB
+01:42:02  INFO        [DRY-RUN] Untitled (2).webp: 348x328, 13KB
+01:42:02  INFO        [DRY-RUN] Untitled_design__2_-removebg-preview.webp: 261x263, 11KB
+01:42:02  INFO        [DRY-RUN] Untitled_design__4_-removebg-preview.webp: 444x562, 66KB
+01:42:02  INFO        [DRY-RUN] Untitled_design__5_-removebg-preview.webp: 183x189, 5KB
+01:42:02  INFO        [DRY-RUN] Untitled__1_-removebg-preview.webp: 558x447, 11KB
+01:42:02  INFO        [DRY-RUN] Untitled__2_-removebg-preview.webp: 348x328, 11KB
+01:42:02  INFO        [DRY-RUN] android-chrome-192x192.png: 192x192, 67KB
+01:42:02  INFO        [DRY-RUN] android-chrome-512x512.png: 512x512, 376KB
+01:42:02  INFO        [DRY-RUN] apple-touch-icon.png: 180x180, 59KB
+01:42:02  INFO        [DRY-RUN] amla-powder-mobile-exporter-india.webp: 852x1846, 101KB
+01:42:02  INFO        [DRY-RUN] ashwagandha-powder-mobile-exporter-india.webp: 853x1844, 54KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_26_23 AM.webp: 853x1844, 139KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_36_26 AM - Copy.webp: 853x1722, 137KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_36_26 AM.webp: 853x1844, 140KB
+01:42:02  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_42_24 AM.webp: 852x1846, 101KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_45_57 AM.webp: 853x1844, 54KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_48_14 AM.webp: 853x1844, 72KB
+01:42:03  INFO        [DRY-RUN] curry-leaves-powder-mobile-exporter-india.webp: 853x1844, 139KB
+01:42:03  INFO        [DRY-RUN] onion-powder-mobile-supplier-india.webp: 853x1844, 140KB
+01:42:03  INFO        [DRY-RUN] turmeric-powder-mobile-exporter-india.webp: 853x1844, 72KB
+01:42:03  INFO        [DRY-RUN] 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp: 521x478, 24KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp: 500x500, 25KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp: 500x500, 23KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp: 500x500, 33KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp: 500x500, 27KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp: 500x500, 25KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp: 500x500, 37KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp: 500x500, 31KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp: 500x500, 31KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_35_05 PM.webp: 500x500, 27KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_35_44 PM.webp: 500x500, 29KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_37_52 PM.webp: 500x500, 28KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_39_40 PM.webp: 1024x1024, 96KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp: 1536x1024, 81KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp: 1536x1024, 76KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp: 1536x1024, 74KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp: 612x408, 22KB
+01:42:03  INFO        [DRY-RUN] ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp: 500x500, 33KB
+01:42:03  INFO        [DRY-RUN] 09bd2a62-3744-48fa-a12a-296a5b26eea9.webp: 1560x1008, 152KB
+01:42:03  INFO        [DRY-RUN] 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp: 500x500, 10KB
+01:42:03  INFO        [DRY-RUN] bg emove.webp: 622x401, 58KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 03_56_13 PM.webp: 1536x1024, 467KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp: 500x500, 16KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp: 500x500, 15KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp: 500x500, 11KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp: 500x500, 15KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp: 500x500, 17KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp: 1720x914, 136KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_45_49 PM.webp: 1589x915, 21KB
+01:42:03  INFO        [DRY-RUN] golden-hand-drawn-floral-outline-set.webp: 2000x1333, 414KB → resize to 1920px wide
+01:42:03  INFO        [DRY-RUN] amla-powder-export-quality-india.webp: 1672x941, 93KB
+01:42:03  INFO        [DRY-RUN] ashwagandha-powder-herbal-exporter-india.webp: 1672x941, 72KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_05_10 AM.webp: 1672x941, 115KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_09_40 AM.webp: 1672x941, 157KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_11_54 AM.webp: 1672x941, 93KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_18_19 AM.webp: 1672x941, 72KB
+01:42:03  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_20_23 AM.webp: 1672x941, 79KB
+01:42:03  INFO        [DRY-RUN] curry-leaves-powder-exporter-india.webp: 1672x941, 115KB
+01:42:04  INFO        [DRY-RUN] onion-powder-bulk-supplier-india.webp: 1672x941, 157KB
+01:42:04  INFO        [DRY-RUN] turmeric-powder-bulk-exporter-india.webp: 1672x941, 79KB
+01:42:04  INFO        [DRY-RUN] client-relations-lead.jpg: 900x1100, 106KB
+01:42:04  INFO        [DRY-RUN] quality-lead.jpg: 900x1100, 87KB
+01:42:04  INFO        [DRY-RUN] sourcing-lead.jpg: 900x1100, 104KB
+01:42:04  INFO        [DRY-RUN] strategy-lead.jpg: 900x1100, 169KB
+01:42:04  INFO        [DRY-RUN] 2.webp: 1536x1024, 25KB
+01:42:04  INFO        [DRY-RUN] 228c1eb9-33dd-4898-972b-15d223f4b04f.webp: 1402x1122, 149KB
+01:42:04  INFO        [DRY-RUN] 29a50b58-5a90-4e8a-929b-6c07008af3fb.webp: 1774x887, 80KB
+01:42:04  INFO        [DRY-RUN] 3ff24925-35bf-4b76-abb2-825a02deeadd.webp: 1254x1254, 207KB
+01:42:04  INFO        [DRY-RUN] 4e458263-b92f-447e-b01f-b59db8c089ef.webp: 1451x1084, 154KB
+01:42:04  INFO        [DRY-RUN] 7f91dc7b-f9b3-41e1-9073-b2a0375efa6b.webp: 1195x1316, 145KB
+01:42:04  INFO        [DRY-RUN] 9e70aa23-c161-42e8-a875-60cedc1f2692.webp: 2205x713, 205KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp: 1254x1254, 202KB
+01:42:04  INFO        [DRY-RUN] amla-powder-exporter-india.webp: 1451x1084, 154KB
+01:42:04  INFO        [DRY-RUN] ashwagandha-powder-herbal-exporter-india.webp: 1402x1122, 149KB
+01:42:04  INFO        [DRY-RUN] c251c9e9-40d3-4c67-aea5-d53a0d447074.webp: 1672x941, 51KB
+01:42:04  INFO        [DRY-RUN] c5e02f3a-2c64-430f-ab49-3a45c1eccd6d.webp: 1536x1024, 163KB
+01:42:04  INFO        [DRY-RUN] c976fa92-5795-4a98-a81e-9c8cd57e3b62.webp: 1405x1119, 111KB
+01:42:04  INFO        [DRY-RUN] cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp: 1672x279, 13KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp: 1536x1024, 339KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp: 1254x1254, 160KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp: 1122x1402, 107KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp: 1254x1254, 152KB
+01:42:04  INFO        [DRY-RUN] curry-leaves-powder-bulk-exporter-india.webp: 1536x1024, 163KB
+01:42:04  INFO        [DRY-RUN] d3af7f5a-e522-4341-9022-e55584dc6882.webp: 1672x941, 225KB
+01:42:04  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] hero bckgroud image (1).webp: 1774x887, 17KB
+01:42:04  INFO        [DRY-RUN] hero bckgroud image.webp: 1774x887, 17KB
+01:42:04  INFO        [DRY-RUN] Logo-removebg-preview.webp: 500x500, 25KB
+01:42:04  INFO        [DRY-RUN] Logo.webp: 500x500, 25KB
+01:42:04  INFO        [DRY-RUN] onion-powder-bulk-supplier-india.webp: 1405x1119, 111KB
+01:42:04  INFO        [DRY-RUN] turmeric-powder-bulk-exporter-india.webp: 1195x1316, 145KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp: 1402x1122, 105KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp: 1254x1254, 148KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp: 1536x1024, 171KB
+01:42:04  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp: 408x612, 64KB
+01:42:04  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_213833-removebg-preview.webp: 264x263, 11KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_213857-removebg-preview.webp: 245x241, 9KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_213921-removebg-preview.webp: 214x221, 6KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_213937-removebg-preview.webp: 257x219, 10KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_214003-removebg-preview.webp: 286x293, 10KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_214033-removebg-preview.webp: 271x147, 8KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_214117-removebg-preview.webp: 183x195, 8KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_214137-removebg-preview.webp: 169x189, 6KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_214155-removebg-preview.webp: 202x179, 7KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_215105-removebg-preview.webp: 310x174, 10KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_215123-removebg-preview.webp: 253x251, 14KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_215153-removebg-preview.webp: 247x244, 19KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-13_215212-removebg-preview.webp: 225x218, 9KB
+01:42:04  INFO        [DRY-RUN] 1.webp: 329x404, 29KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp: 500x500, 20KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp: 500x500, 35KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp: 1536x1024, 116KB
+01:42:04  INFO        [DRY-RUN] 2.webp: 1536x1024, 25KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp: 500x500, 33KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp: 500x500, 25KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp: 1371x1147, 107KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp: 2086x754, 222KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp: 408x612, 64KB
+01:42:04  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp: 500x500, 15KB
+01:42:04  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__11_48_58_PM-removebg-preview.webp: 831x300, 60KB
+01:42:04  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-14_011404-removebg-preview.webp: 397x418, 13KB
+01:42:04  INFO        [DRY-RUN] Screenshot_2026-04-14_011616-removebg-preview.webp: 460x542, 13KB
+01:42:04  INFO        [DRY-RUN] Untitled (2).webp: 348x328, 13KB
+01:42:04  INFO        [DRY-RUN] Untitled_design__2_-removebg-preview.webp: 261x263, 11KB
+01:42:04  INFO        [DRY-RUN] Untitled_design__4_-removebg-preview.webp: 444x562, 66KB
+01:42:04  INFO        [DRY-RUN] Untitled_design__5_-removebg-preview.webp: 183x189, 5KB
+01:42:04  INFO        [DRY-RUN] Untitled__1_-removebg-preview.webp: 558x447, 11KB
+01:42:04  INFO        [DRY-RUN] Untitled__2_-removebg-preview.webp: 348x328, 11KB
+01:42:04  INFO        [DRY-RUN] android-chrome-192x192.png: 192x192, 67KB
+01:42:04  INFO        [DRY-RUN] android-chrome-512x512.png: 512x512, 376KB
+01:42:04  INFO        [DRY-RUN] apple-touch-icon.png: 180x180, 59KB
+01:42:04  INFO        [DRY-RUN] amla-powder-mobile-exporter-india.webp: 852x1846, 101KB
+01:42:04  INFO        [DRY-RUN] ashwagandha-powder-mobile-exporter-india.webp: 853x1844, 54KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_26_23 AM.webp: 853x1844, 139KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_36_26 AM - Copy.webp: 853x1722, 137KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_36_26 AM.webp: 853x1844, 140KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_42_24 AM.webp: 852x1846, 101KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_45_57 AM.webp: 853x1844, 54KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_48_14 AM.webp: 853x1844, 72KB
+01:42:04  INFO        [DRY-RUN] curry-leaves-powder-mobile-exporter-india.webp: 853x1844, 139KB
+01:42:04  INFO        [DRY-RUN] onion-powder-mobile-supplier-india.webp: 853x1844, 140KB
+01:42:04  INFO        [DRY-RUN] turmeric-powder-mobile-exporter-india.webp: 853x1844, 72KB
+01:42:04  INFO        [DRY-RUN] 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp: 521x478, 24KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp: 500x500, 25KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp: 500x500, 23KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp: 500x500, 33KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp: 500x500, 27KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp: 500x500, 25KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp: 500x500, 37KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp: 500x500, 31KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp: 500x500, 31KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_35_05 PM.webp: 500x500, 27KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_35_44 PM.webp: 500x500, 29KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_37_52 PM.webp: 500x500, 28KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_39_40 PM.webp: 1024x1024, 96KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp: 1536x1024, 81KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp: 1536x1024, 76KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp: 1536x1024, 74KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp: 612x408, 22KB
+01:42:04  INFO        [DRY-RUN] ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp: 500x500, 33KB
+01:42:04  INFO        [DRY-RUN] 09bd2a62-3744-48fa-a12a-296a5b26eea9.webp: 1560x1008, 152KB
+01:42:04  INFO        [DRY-RUN] 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp: 500x500, 10KB
+01:42:04  INFO        [DRY-RUN] bg emove.webp: 622x401, 58KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 03_56_13 PM.webp: 1536x1024, 467KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp: 500x500, 16KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp: 500x500, 15KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp: 500x500, 11KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp: 500x500, 15KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp: 500x500, 17KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp: 1720x914, 136KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_45_49 PM.webp: 1589x915, 21KB
+01:42:04  INFO        [DRY-RUN] golden-hand-drawn-floral-outline-set.webp: 2000x1333, 414KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] amla-powder-export-quality-india.webp: 1672x941, 93KB
+01:42:04  INFO        [DRY-RUN] ashwagandha-powder-herbal-exporter-india.webp: 1672x941, 72KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_05_10 AM.webp: 1672x941, 115KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_09_40 AM.webp: 1672x941, 157KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_11_54 AM.webp: 1672x941, 93KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_18_19 AM.webp: 1672x941, 72KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_20_23 AM.webp: 1672x941, 79KB
+01:42:04  INFO        [DRY-RUN] curry-leaves-powder-exporter-india.webp: 1672x941, 115KB
+01:42:04  INFO        [DRY-RUN] onion-powder-bulk-supplier-india.webp: 1672x941, 157KB
+01:42:04  INFO        [DRY-RUN] turmeric-powder-bulk-exporter-india.webp: 1672x941, 79KB
+01:42:04  INFO        [DRY-RUN] client-relations-lead.jpg: 900x1100, 106KB
+01:42:04  INFO        [DRY-RUN] quality-lead.jpg: 900x1100, 87KB
+01:42:04  INFO        [DRY-RUN] sourcing-lead.jpg: 900x1100, 104KB
+01:42:04  INFO        [DRY-RUN] strategy-lead.jpg: 900x1100, 169KB
+01:42:04  INFO        [DRY-RUN] 2.webp: 1536x1024, 25KB
+01:42:04  INFO        [DRY-RUN] 228c1eb9-33dd-4898-972b-15d223f4b04f.webp: 1402x1122, 149KB
+01:42:04  INFO        [DRY-RUN] 29a50b58-5a90-4e8a-929b-6c07008af3fb.webp: 1774x887, 80KB
+01:42:04  INFO        [DRY-RUN] 3ff24925-35bf-4b76-abb2-825a02deeadd.webp: 1254x1254, 207KB
+01:42:04  INFO        [DRY-RUN] 4e458263-b92f-447e-b01f-b59db8c089ef.webp: 1451x1084, 154KB
+01:42:04  INFO        [DRY-RUN] 7f91dc7b-f9b3-41e1-9073-b2a0375efa6b.webp: 1195x1316, 145KB
+01:42:04  INFO        [DRY-RUN] 9e70aa23-c161-42e8-a875-60cedc1f2692.webp: 2205x713, 205KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp: 1254x1254, 202KB
+01:42:04  INFO        [DRY-RUN] amla-powder-exporter-india.webp: 1451x1084, 154KB
+01:42:04  INFO        [DRY-RUN] ashwagandha-powder-herbal-exporter-india.webp: 1402x1122, 149KB
+01:42:04  INFO        [DRY-RUN] c251c9e9-40d3-4c67-aea5-d53a0d447074.webp: 1672x941, 51KB
+01:42:04  INFO        [DRY-RUN] c5e02f3a-2c64-430f-ab49-3a45c1eccd6d.webp: 1536x1024, 163KB
+01:42:04  INFO        [DRY-RUN] c976fa92-5795-4a98-a81e-9c8cd57e3b62.webp: 1405x1119, 111KB
+01:42:04  INFO        [DRY-RUN] cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp: 1672x279, 13KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp: 1536x1024, 339KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp: 1254x1254, 160KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp: 1122x1402, 107KB
+01:42:04  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp: 1254x1254, 152KB
+01:42:04  INFO        [DRY-RUN] curry-leaves-powder-bulk-exporter-india.webp: 1536x1024, 163KB
+01:42:04  INFO        [DRY-RUN] d3af7f5a-e522-4341-9022-e55584dc6882.webp: 1672x941, 225KB
+01:42:04  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:04  INFO        [DRY-RUN] hero bckgroud image (1).webp: 1774x887, 17KB
+01:42:04  INFO        [DRY-RUN] hero bckgroud image.webp: 1774x887, 17KB
+01:42:04  INFO        [DRY-RUN] Logo-removebg-preview.webp: 500x500, 25KB
+01:42:04  INFO        [DRY-RUN] Logo.webp: 500x500, 25KB
+01:42:04  INFO        [DRY-RUN] onion-powder-bulk-supplier-india.webp: 1405x1119, 111KB
+01:42:05  INFO        [DRY-RUN] turmeric-powder-bulk-exporter-india.webp: 1195x1316, 145KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp: 1402x1122, 105KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp: 1254x1254, 148KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp: 1536x1024, 171KB
+01:42:05  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp: 408x612, 64KB
+01:42:05  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_213833-removebg-preview.webp: 264x263, 11KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_213857-removebg-preview.webp: 245x241, 9KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_213921-removebg-preview.webp: 214x221, 6KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_213937-removebg-preview.webp: 257x219, 10KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_214003-removebg-preview.webp: 286x293, 10KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_214033-removebg-preview.webp: 271x147, 8KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_214117-removebg-preview.webp: 183x195, 8KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_214137-removebg-preview.webp: 169x189, 6KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_214155-removebg-preview.webp: 202x179, 7KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_215105-removebg-preview.webp: 310x174, 10KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_215123-removebg-preview.webp: 253x251, 14KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_215153-removebg-preview.webp: 247x244, 19KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-13_215212-removebg-preview.webp: 225x218, 9KB
+01:42:05  INFO        [DRY-RUN] 1.webp: 329x404, 29KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp: 500x500, 20KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp: 500x500, 35KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp: 1536x1024, 116KB
+01:42:05  INFO        [DRY-RUN] 2.webp: 1536x1024, 25KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp: 500x500, 33KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp: 500x500, 25KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp: 1371x1147, 107KB
+01:42:05  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp: 2086x754, 222KB → resize to 1920px wide
+01:42:05  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp: 408x612, 64KB
+01:42:05  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp: 500x500, 15KB
+01:42:05  INFO        [DRY-RUN] ChatGPT_Image_Apr_13__2026__11_48_58_PM-removebg-preview.webp: 831x300, 60KB
+01:42:05  INFO        [DRY-RUN] f008e0e4-5123-402e-a802-7cbba72ff28c.webp: 1934x1365, 578KB → resize to 1920px wide
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-14_011404-removebg-preview.webp: 397x418, 13KB
+01:42:05  INFO        [DRY-RUN] Screenshot_2026-04-14_011616-removebg-preview.webp: 460x542, 13KB
+01:42:05  INFO        [DRY-RUN] Untitled (2).webp: 348x328, 13KB
+01:42:05  INFO        [DRY-RUN] Untitled_design__2_-removebg-preview.webp: 261x263, 11KB
+01:42:05  INFO        [DRY-RUN] Untitled_design__4_-removebg-preview.webp: 444x562, 66KB
+01:42:05  INFO        [DRY-RUN] Untitled_design__5_-removebg-preview.webp: 183x189, 5KB
+01:42:06  INFO        [DRY-RUN] Untitled__1_-removebg-preview.webp: 558x447, 11KB
+01:42:06  INFO        [DRY-RUN] Untitled__2_-removebg-preview.webp: 348x328, 11KB
+01:42:06  INFO        [DRY-RUN] android-chrome-192x192.png: 192x192, 67KB
+01:42:06  INFO        [DRY-RUN] android-chrome-512x512.png: 512x512, 376KB
+01:42:06  INFO        [DRY-RUN] apple-touch-icon.png: 180x180, 59KB
+01:42:06  INFO        [DRY-RUN] amla-powder-mobile-exporter-india.webp: 852x1846, 101KB
+01:42:06  INFO        [DRY-RUN] ashwagandha-powder-mobile-exporter-india.webp: 853x1844, 54KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_26_23 AM.webp: 853x1844, 139KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_36_26 AM - Copy.webp: 853x1722, 137KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_36_26 AM.webp: 853x1844, 140KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_42_24 AM.webp: 852x1846, 101KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_45_57 AM.webp: 853x1844, 54KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_48_14 AM.webp: 853x1844, 72KB
+01:42:06  INFO        [DRY-RUN] curry-leaves-powder-mobile-exporter-india.webp: 853x1844, 139KB
+01:42:06  INFO        [DRY-RUN] onion-powder-mobile-supplier-india.webp: 853x1844, 140KB
+01:42:06  INFO        [DRY-RUN] turmeric-powder-mobile-exporter-india.webp: 853x1844, 72KB
+01:42:06  INFO        [DRY-RUN] 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp: 521x478, 24KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp: 500x500, 25KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp: 500x500, 23KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp: 500x500, 33KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp: 500x500, 27KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp: 500x500, 25KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp: 500x500, 37KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp: 500x500, 31KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp: 500x500, 31KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_35_05 PM.webp: 500x500, 27KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_35_44 PM.webp: 500x500, 29KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_37_52 PM.webp: 500x500, 28KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 12, 2026, 11_39_40 PM.webp: 1024x1024, 96KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp: 1536x1024, 81KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp: 1536x1024, 76KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp: 1536x1024, 74KB
+01:42:06  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp: 612x408, 22KB
+01:42:06  INFO        [DRY-RUN] ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp: 500x500, 33KB
+01:42:06  INFO        [DRY-RUN] 09bd2a62-3744-48fa-a12a-296a5b26eea9.webp: 1560x1008, 152KB
+01:42:06  INFO        [DRY-RUN] 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp: 500x500, 10KB
+01:42:06  INFO        [DRY-RUN] bg emove.webp: 622x401, 58KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 03_56_13 PM.webp: 1536x1024, 467KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp: 500x500, 16KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp: 500x500, 15KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp: 500x500, 11KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp: 500x500, 15KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp: 500x500, 17KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp: 1720x914, 136KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 13, 2026, 04_45_49 PM.webp: 1589x915, 21KB
+01:42:07  INFO        [DRY-RUN] golden-hand-drawn-floral-outline-set.webp: 2000x1333, 414KB → resize to 1920px wide
+01:42:07  INFO        [DRY-RUN] amla-powder-export-quality-india.webp: 1672x941, 93KB
+01:42:07  INFO        [DRY-RUN] ashwagandha-powder-herbal-exporter-india.webp: 1672x941, 72KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_05_10 AM.webp: 1672x941, 115KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_09_40 AM.webp: 1672x941, 157KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_11_54 AM.webp: 1672x941, 93KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_18_19 AM.webp: 1672x941, 72KB
+01:42:07  INFO        [DRY-RUN] ChatGPT Image Apr 22, 2026, 03_20_23 AM.webp: 1672x941, 79KB
+01:42:07  INFO        [DRY-RUN] curry-leaves-powder-exporter-india.webp: 1672x941, 115KB
+01:42:07  INFO        [DRY-RUN] onion-powder-bulk-supplier-india.webp: 1672x941, 157KB
+01:42:07  INFO        [DRY-RUN] turmeric-powder-bulk-exporter-india.webp: 1672x941, 79KB
+01:42:07  INFO        [DRY-RUN] client-relations-lead.jpg: 900x1100, 106KB
+01:42:07  INFO        [DRY-RUN] quality-lead.jpg: 900x1100, 87KB
+01:42:07  INFO        [DRY-RUN] sourcing-lead.jpg: 900x1100, 104KB
+01:42:07  INFO        [DRY-RUN] strategy-lead.jpg: 900x1100, 169KB
+01:42:07  INFO        Summary: 372 optimized, saved ~0KB, 27 skipped
+01:42:07  INFO      ════════════════════════════════════════════════════════════
+01:42:07  INFO      TASK 3: Lazy Loading
+01:42:08  INFO        Summary: 0 images got lazy loading, 0 files changed
+01:42:08  INFO      ════════════════════════════════════════════════════════════
+01:42:08  INFO      TASK 4: Alt Tags
+01:42:09  INFO        Summary: 0 alt tags fixed, 435 already OK, 0 files changed
+01:42:09  INFO      ════════════════════════════════════════════════════════════
+01:42:09  INFO      TASK 5: Meta Tags
+01:42:09  INFO        [DRY-RUN] Would write: about.html
+01:42:09  INFO        [DRY-RUN] Would write: contact.html
+01:42:09  INFO        [DRY-RUN] Would write: index.html
+01:42:09  WARNING     No config for: privacy.html — skipping meta update
+01:42:09  WARNING     No config for: product.html — skipping meta update
+01:42:09  WARNING     No config for: terms.html — skipping meta update
+01:42:09  INFO        [DRY-RUN] Would write: about.html
+01:42:09  INFO        [DRY-RUN] Would write: contact.html
+01:42:09  INFO        [DRY-RUN] Would write: index.html
+01:42:09  WARNING     No config for: privacy.html — skipping meta update
+01:42:09  WARNING     No config for: product.html — skipping meta update
+01:42:10  INFO        [DRY-RUN] Would write: about.html
+01:42:10  INFO        [DRY-RUN] Would write: contact.html
+01:42:10  INFO        [DRY-RUN] Would write: index.html
+01:42:10  WARNING     No config for: privacy.html — skipping meta update
+01:42:10  WARNING     No config for: product.html — skipping meta update
+01:42:10  WARNING     No config for: terms.html — skipping meta update
+01:42:10  WARNING     No config for: terms.html — skipping meta update
+01:42:10  INFO        Summary: 9 pages updated with meta tags
+01:42:10  INFO      ════════════════════════════════════════════════════════════
+01:42:10  INFO      TASK 6: Semantic Tags
+01:42:10  INFO        [DRY-RUN] Would write: about.html
+01:42:10  INFO        [DRY-RUN] Would write: contact.html
+01:42:10  INFO        [DRY-RUN] Would write: index.html
+01:42:10  INFO        [DRY-RUN] Would write: privacy.html
+01:42:10  INFO        [DRY-RUN] Would write: product.html
+01:42:10  INFO        [DRY-RUN] Would write: terms.html
+01:42:10  INFO        [DRY-RUN] Would write: about.html
+01:42:11  INFO        [DRY-RUN] Would write: contact.html
+01:42:11  INFO        [DRY-RUN] Would write: index.html
+01:42:11  INFO        [DRY-RUN] Would write: privacy.html
+01:42:11  INFO        [DRY-RUN] Would write: product.html
+01:42:11  INFO        [DRY-RUN] Would write: about.html
+01:42:11  INFO        [DRY-RUN] Would write: contact.html
+01:42:11  INFO        [DRY-RUN] Would write: index.html
+01:42:11  INFO        [DRY-RUN] Would write: privacy.html
+01:42:11  INFO        [DRY-RUN] Would write: product.html
+01:42:11  INFO        [DRY-RUN] Would write: terms.html
+01:42:11  INFO        [DRY-RUN] Would write: terms.html
+01:42:11  INFO        Summary: 18 files updated with semantic improvements
+01:42:11  INFO      ════════════════════════════════════════════════════════════
+01:42:11  INFO      TASK 7: Schema Markup (JSON-LD)
+01:42:12  INFO        [DRY-RUN] Would write: about.html
+01:42:12  INFO        ✓ Schema injected: about.html (2 schemas)
+01:42:12  INFO        [DRY-RUN] Would write: contact.html
+01:42:12  INFO        ✓ Schema injected: contact.html (3 schemas)
+01:42:12  INFO        [DRY-RUN] Would write: index.html
+01:42:12  INFO        ✓ Schema injected: index.html (4 schemas)
+01:42:12  WARNING     No schema config for: privacy.html
+01:42:12  WARNING     No schema config for: product.html
+01:42:12  WARNING     No schema config for: terms.html
+01:42:12  INFO        [DRY-RUN] Would write: about.html
+01:42:12  INFO        ✓ Schema injected: about.html (2 schemas)
+01:42:12  INFO        [DRY-RUN] Would write: contact.html
+01:42:12  INFO        ✓ Schema injected: contact.html (3 schemas)
+01:42:12  INFO        [DRY-RUN] Would write: index.html
+01:42:12  INFO        ✓ Schema injected: index.html (4 schemas)
+01:42:12  WARNING     No schema config for: privacy.html
+01:42:12  WARNING     No schema config for: product.html
+01:42:12  INFO        [DRY-RUN] Would write: about.html
+01:42:12  INFO        ✓ Schema injected: about.html (2 schemas)
+01:42:12  INFO        [DRY-RUN] Would write: contact.html
+01:42:12  INFO        ✓ Schema injected: contact.html (3 schemas)
+01:42:12  INFO        [DRY-RUN] Would write: index.html
+01:42:12  INFO        ✓ Schema injected: index.html (4 schemas)
+01:42:12  WARNING     No schema config for: privacy.html
+01:42:12  WARNING     No schema config for: product.html
+01:42:12  WARNING     No schema config for: terms.html
+01:42:12  WARNING     No schema config for: terms.html
+01:42:12  INFO        Summary: 9 pages updated with schema
+01:42:12  INFO      ════════════════════════════════════════════════════════════
+01:42:12  INFO      TASK 8: Sitemap.xml
+01:42:13  INFO        [DRY-RUN] Would create: C:\Users\ujaga\OneDrive\Desktop\Gratia Globle\sitemap.xml
+01:42:13  INFO        Summary: 18 URLs in sitemap
+01:42:13  INFO      ════════════════════════════════════════════════════════════
+01:42:13  INFO      TASK 9: Robots.txt
+01:42:13  INFO        robots.txt already has Sitemap directive — OK
+01:42:13  INFO      ════════════════════════════════════════════════════════════
+01:42:13  INFO      TASK 10: Open Graph Verification
+01:42:14  INFO        Summary: 9 pages checked, 0 OG tag gaps found (fixed by meta task)
+01:42:14  INFO      ════════════════════════════════════════════════════════════
+01:42:14  INFO      BONUS: Performance Hints (preconnect / dns-prefetch)
+01:42:14  INFO        [DRY-RUN] Would write: about.html
+01:42:14  INFO        [DRY-RUN] Would write: contact.html
+01:42:14  INFO        [DRY-RUN] Would write: index.html
+01:42:14  INFO        [DRY-RUN] Would write: privacy.html
+01:42:14  INFO        [DRY-RUN] Would write: product.html
+01:42:14  INFO        [DRY-RUN] Would write: terms.html
+01:42:14  INFO        [DRY-RUN] Would write: about.html
+01:42:14  INFO        [DRY-RUN] Would write: contact.html
+01:42:15  INFO        [DRY-RUN] Would write: index.html
+01:42:15  INFO        [DRY-RUN] Would write: privacy.html
+01:42:15  INFO        [DRY-RUN] Would write: product.html
+01:42:15  INFO        [DRY-RUN] Would write: about.html
+01:42:15  INFO        [DRY-RUN] Would write: contact.html
+01:42:15  INFO        [DRY-RUN] Would write: index.html
+01:42:15  INFO        [DRY-RUN] Would write: privacy.html
+01:42:15  INFO        [DRY-RUN] Would write: product.html
+01:42:15  INFO        [DRY-RUN] Would write: terms.html
+01:42:15  INFO        [DRY-RUN] Would write: terms.html
+01:42:15  INFO        Summary: 18 files updated with performance hints
+01:42:15  INFO      
+  ✅  SEO Optimization complete!
+01:44:45  INFO      ╔════════════════════════════════════════════════════════════╗
+01:44:45  INFO      ║  GRATIA GLOBAL SEO OPTIMIZER — Starting                    ║
+01:44:45  INFO      ╚════════════════════════════════════════════════════════════╝
+01:44:45  INFO        Root: C:\Users\ujaga\OneDrive\Desktop\Gratia Globle
+01:44:45  INFO        Mode: LIVE
+01:44:45  INFO        Tasks: images, optimize, lazy, alttags, meta, semantic, schema, sitemap, robots, opengraph, performance
+01:44:46  INFO        HTML files found: 18 → ['about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'terms.html', 'about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'terms.html', 'terms.html']
+01:44:46  INFO      ════════════════════════════════════════════════════════════
+01:44:46  INFO      TASK 1: Image Rename
+01:44:46  INFO        ✓ HTML updated: about.html
+01:44:46  INFO        ✓ HTML updated: contact.html
+01:44:46  INFO        ✓ HTML updated: index.html
+01:44:46  INFO        ✓ HTML updated: privacy.html
+01:44:46  INFO        ✓ HTML updated: product.html
+01:44:46  INFO        ✓ HTML updated: terms.html
+01:44:46  INFO        ✓ HTML updated: about.html
+01:44:46  INFO        ✓ HTML updated: contact.html
+01:44:46  INFO        ✓ HTML updated: index.html
+01:44:46  INFO        ✓ HTML updated: privacy.html
+01:44:46  INFO        ✓ HTML updated: product.html
+01:44:46  INFO        ✓ HTML updated: about.html
+01:44:46  INFO        ✓ HTML updated: contact.html
+01:44:46  INFO        ✓ HTML updated: index.html
+01:44:46  INFO        ✓ HTML updated: privacy.html
+01:44:46  INFO        ✓ HTML updated: product.html
+01:44:46  INFO        ✓ HTML updated: terms.html
+01:44:46  INFO        ✓ HTML updated: terms.html
+01:44:46  INFO        ✓ CSS updated: styles.css
+01:44:46  INFO        ✓ CSS updated: styles.css
+01:44:46  INFO        ✓ CSS updated: styles.css
+01:44:46  INFO        Rename: 3ff24925-35bf-4b76-abb2-825a02deeadd.webp  →  moringa-powder-bulk-export-india-gratia-global.webp
+01:44:46  INFO        Rename: a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp  →  ashwagandha-powder-herbal-exporter-india-gratia-global.webp
+01:44:46  INFO        Rename: ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp  →  premium-herbal-export-products-india-gratia-global.webp
+01:44:46  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp  →  turmeric-powder-bulk-exporter-india-gratia-global.webp
+01:44:46  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp  →  lonche-pickle-export-quality-india-gratia-global.webp
+01:44:46  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp  →  horse-gram-pulses-bulk-exporter-india-gratia-global.webp
+01:44:46  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:46  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp  →  tea-leaves-harvested-india-gratia-global.webp
+01:44:46  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp  →  herbal-powder-bowl-premium-gratia-global.webp
+01:44:46  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp  →  warehouse-storage-logistics-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213833-removebg-preview.webp  →  global-export-countries-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213857-removebg-preview.webp  →  happy-global-clients-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213921-removebg-preview.webp  →  premium-products-catalog-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213937-removebg-preview.webp  →  export-experience-years-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214003-removebg-preview.webp  →  mission-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214033-removebg-preview.webp  →  vision-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214117-removebg-preview.webp  →  quality-assurance-about-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214137-removebg-preview.webp  →  trusted-network-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214155-removebg-preview.webp  →  export-standards-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214216-removebg-preview.webp  →  global-delivery-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214232-removebg-preview.webp  →  transparent-communication-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214252-removebg-preview.webp  →  partnership-focus-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215105-removebg-preview.webp  →  fssai-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215123-removebg-preview.webp  →  usda-organic-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215153-removebg-preview.webp  →  gmp-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215212-removebg-preview.webp  →  apeda-registered-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp  →  herbal-leaf-green-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp  →  herbal-leaf-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp  →  herbal-botanical-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp  →  global-export-contact-visual-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp  →  premium-herbal-ingredients-export-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp  →  export-contact-decoration-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot 2026-04-13 235355-Photoroom.webp  →  office-address-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_011404-removebg-preview.webp  →  business-hours-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_011616-removebg-preview.webp  →  contact-subject-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp  →  contact-message-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled.webp  →  contact-phone-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__2_-removebg-preview.webp  →  quick-response-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__3_-removebg-preview.webp  →  contact-name-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__4_-removebg-preview.webp  →  contact-form-decoration-gratia-global.webp
+01:44:47  INFO        Rename: Untitled__1_-removebg-preview.webp  →  contact-email-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled__2_-removebg-preview.webp  →  whatsapp-support-icon-gratia-global.webp
+01:44:47  INFO        Rename: 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp  →  inquiry-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp  →  natural-products-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp  →  premium-quality-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp  →  global-reach-export-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp  →  quality-assurance-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp  →  certified-products-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp  →  customer-satisfaction-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp  →  sampling-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp  →  packaging-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp  →  shipping-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp  →  delivery-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp  →  sustainable-practices-icon-clean-gratia-global.webp
+01:44:47  INFO        Rename: 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp  →  all-products-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp  →  herbal-powders-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp  →  dry-vegetables-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp  →  pickles-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp  →  pulses-grains-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp  →  herbal-product-category-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp  →  premium-herbal-powders-spices-bowls-gratia-global.webp
+01:44:47  INFO        Rename: 3ff24925-35bf-4b76-abb2-825a02deeadd.webp  →  moringa-powder-bulk-export-india-gratia-global.webp
+01:44:47  INFO        Rename: a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp  →  ashwagandha-powder-herbal-exporter-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp  →  premium-herbal-export-products-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp  →  turmeric-powder-bulk-exporter-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp  →  lonche-pickle-export-quality-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp  →  horse-gram-pulses-bulk-exporter-india-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp  →  tea-leaves-harvested-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp  →  herbal-powder-bowl-premium-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp  →  warehouse-storage-logistics-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213833-removebg-preview.webp  →  global-export-countries-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213857-removebg-preview.webp  →  happy-global-clients-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213921-removebg-preview.webp  →  premium-products-catalog-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213937-removebg-preview.webp  →  export-experience-years-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214003-removebg-preview.webp  →  mission-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214033-removebg-preview.webp  →  vision-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214117-removebg-preview.webp  →  quality-assurance-about-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214137-removebg-preview.webp  →  trusted-network-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214155-removebg-preview.webp  →  export-standards-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214216-removebg-preview.webp  →  global-delivery-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214232-removebg-preview.webp  →  transparent-communication-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214252-removebg-preview.webp  →  partnership-focus-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215105-removebg-preview.webp  →  fssai-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215123-removebg-preview.webp  →  usda-organic-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215153-removebg-preview.webp  →  gmp-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215212-removebg-preview.webp  →  apeda-registered-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp  →  herbal-leaf-green-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp  →  herbal-leaf-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp  →  herbal-botanical-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp  →  global-export-contact-visual-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp  →  premium-herbal-ingredients-export-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp  →  export-contact-decoration-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot 2026-04-13 235355-Photoroom.webp  →  office-address-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_011404-removebg-preview.webp  →  business-hours-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_011616-removebg-preview.webp  →  contact-subject-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp  →  contact-message-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled.webp  →  contact-phone-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__2_-removebg-preview.webp  →  quick-response-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__3_-removebg-preview.webp  →  contact-name-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__4_-removebg-preview.webp  →  contact-form-decoration-gratia-global.webp
+01:44:47  INFO        Rename: Untitled__1_-removebg-preview.webp  →  contact-email-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled__2_-removebg-preview.webp  →  whatsapp-support-icon-gratia-global.webp
+01:44:47  INFO        Rename: 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp  →  inquiry-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp  →  natural-products-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp  →  premium-quality-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp  →  global-reach-export-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp  →  quality-assurance-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp  →  certified-products-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp  →  customer-satisfaction-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp  →  sampling-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp  →  packaging-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp  →  shipping-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp  →  delivery-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp  →  sustainable-practices-icon-clean-gratia-global.webp
+01:44:47  INFO        Rename: 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp  →  all-products-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp  →  herbal-powders-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp  →  dry-vegetables-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp  →  pickles-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp  →  pulses-grains-category-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp  →  herbal-product-category-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp  →  premium-herbal-powders-spices-bowls-gratia-global.webp
+01:44:47  INFO        Rename: 3ff24925-35bf-4b76-abb2-825a02deeadd.webp  →  moringa-powder-bulk-export-india-gratia-global.webp
+01:44:47  INFO        Rename: a10c733c-bb1a-4846-b8f9-37b7b9a7c0a0.webp  →  ashwagandha-powder-herbal-exporter-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 02_11_46 PM.webp  →  premium-herbal-export-products-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_29_51 PM.webp  →  turmeric-powder-bulk-exporter-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_17 PM.webp  →  lonche-pickle-export-quality-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_26 PM.webp  →  horse-gram-pulses-bulk-exporter-india-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp  →  tea-leaves-harvested-india-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp  →  herbal-powder-bowl-premium-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp  →  warehouse-storage-logistics-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213833-removebg-preview.webp  →  global-export-countries-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213857-removebg-preview.webp  →  happy-global-clients-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213921-removebg-preview.webp  →  premium-products-catalog-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_213937-removebg-preview.webp  →  export-experience-years-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214003-removebg-preview.webp  →  mission-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214033-removebg-preview.webp  →  vision-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214117-removebg-preview.webp  →  quality-assurance-about-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214137-removebg-preview.webp  →  trusted-network-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214155-removebg-preview.webp  →  export-standards-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214216-removebg-preview.webp  →  global-delivery-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214232-removebg-preview.webp  →  transparent-communication-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_214252-removebg-preview.webp  →  partnership-focus-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215105-removebg-preview.webp  →  fssai-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215123-removebg-preview.webp  →  usda-organic-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215153-removebg-preview.webp  →  gmp-certified-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-13_215212-removebg-preview.webp  →  apeda-registered-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_44_00 PM.webp  →  herbal-leaf-green-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp  →  herbal-leaf-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_02_45 AM.webp  →  herbal-botanical-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_21_35 PM.webp  →  global-export-contact-visual-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 13, 2026, 11_48_58 PM.webp  →  premium-herbal-ingredients-export-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp  →  herbal-leaf-about-decoration-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT_Image_Apr_13__2026__11_34_33_PM-removebg-preview.webp  →  export-contact-decoration-gratia-global.webp
+01:44:47  INFO        Rename: f008e0e4-5123-402e-a802-7cbba72ff28c.webp  →  herbal-plant-natural-element-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot 2026-04-13 235355-Photoroom.webp  →  office-address-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_011404-removebg-preview.webp  →  business-hours-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_011616-removebg-preview.webp  →  contact-subject-icon-gratia-global.webp
+01:44:47  INFO        Rename: Screenshot_2026-04-14_012606-removebg-preview-removebg-preview.webp  →  contact-message-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled.webp  →  contact-phone-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__2_-removebg-preview.webp  →  quick-response-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__3_-removebg-preview.webp  →  contact-name-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled_design__4_-removebg-preview.webp  →  contact-form-decoration-gratia-global.webp
+01:44:47  INFO        Rename: Untitled__1_-removebg-preview.webp  →  contact-email-icon-gratia-global.webp
+01:44:47  INFO        Rename: Untitled__2_-removebg-preview.webp  →  whatsapp-support-icon-gratia-global.webp
+01:44:47  INFO        Rename: 3f6bf610-f742-4101-be0b-a7f49a5e78b6.webp  →  inquiry-process-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_35 PM.webp  →  natural-products-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_30_56 PM.webp  →  premium-quality-icon-gratia-global.webp
+01:44:47  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_02 PM.webp  →  sustainable-practices-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_08 PM.webp  →  global-reach-export-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_14 PM.webp  →  bulk-supply-logistics-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_20 PM.webp  →  quality-assurance-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_28 PM.webp  →  certified-products-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 12, 2026, 11_31_37 PM.webp  →  customer-satisfaction-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_37_37 AM.webp  →  sampling-process-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_41_04 AM.webp  →  packaging-process-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_42_35 AM.webp  →  shipping-process-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 12_45_04 AM.webp  →  delivery-process-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT_Image_Apr_12__2026__11_31_02_PM-removebg-preview.webp  →  sustainable-practices-icon-clean-gratia-global.webp
+01:44:48  INFO        Rename: 8b6bb8bb-6e14-4666-99bf-2014a5f6e910.webp  →  all-products-category-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_21_57 PM.webp  →  herbal-powders-category-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_22_58 PM.webp  →  dry-vegetables-category-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_23_49 PM.webp  →  pickles-category-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_24_32 PM.webp  →  pulses-grains-category-icon-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_39_48 PM.webp  →  herbal-product-category-decoration-gratia-global.webp
+01:44:48  INFO        Rename: ChatGPT Image Apr 13, 2026, 04_42_36 PM.webp  →  premium-herbal-powders-spices-bowls-gratia-global.webp
+01:44:48  INFO        Summary: 207 renamed, 18 HTML files updated, 192 skipped
+01:44:48  INFO      ════════════════════════════════════════════════════════════
+01:44:48  INFO      TASK 2: Image Optimization
+01:44:49  INFO        ✓ 2.webp: 24KB → 26KB (saved 0KB)
+01:44:50  INFO        ✓ 228c1eb9-33dd-4898-972b-15d223f4b04f.webp: 148KB → 159KB (saved 0KB)
+01:44:51  INFO        ✓ 29a50b58-5a90-4e8a-929b-6c07008af3fb.webp: 79KB → 84KB (saved 0KB)
+01:44:53  INFO        ✓ 4e458263-b92f-447e-b01f-b59db8c089ef.webp: 153KB → 162KB (saved 0KB)
+01:44:54  INFO        ✓ 7f91dc7b-f9b3-41e1-9073-b2a0375efa6b.webp: 145KB → 155KB (saved 0KB)
+01:44:55  INFO        ✓ 9e70aa23-c161-42e8-a875-60cedc1f2692.webp: 204KB → 182KB (saved 22KB)
+01:44:56  INFO        ✓ amla-powder-exporter-india.webp: 153KB → 162KB (saved 0KB)
+01:44:58  INFO        ✓ ashwagandha-powder-herbal-exporter-india-gratia-global.webp: 202KB → 219KB (saved 0KB)
+01:44:59  INFO        ✓ ashwagandha-powder-herbal-exporter-india.webp: 148KB → 159KB (saved 0KB)
+01:45:00  INFO        ✓ c251c9e9-40d3-4c67-aea5-d53a0d447074.webp: 50KB → 55KB (saved 0KB)
+01:45:02  INFO        ✓ c5e02f3a-2c64-430f-ab49-3a45c1eccd6d.webp: 163KB → 177KB (saved 0KB)
+01:45:03  INFO        ✓ c976fa92-5795-4a98-a81e-9c8cd57e3b62.webp: 111KB → 117KB (saved 0KB)
+01:45:03  INFO        ✓ cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp: 13KB → 13KB (saved 0KB)
+01:45:04  INFO        ✓ curry-leaves-powder-bulk-exporter-india.webp: 163KB → 177KB (saved 0KB)
+01:45:06  INFO        ✓ d3af7f5a-e522-4341-9022-e55584dc6882.webp: 224KB → 245KB (saved 0KB)
+01:46:17  INFO        ✓ herbal-plant-natural-element-gratia-global.webp: 578KB → 589KB (saved 0KB)
+01:46:18  INFO        ✓ hero bckgroud image (1).webp: 17KB → 17KB (saved 0KB)
+01:46:18  INFO        ✓ hero bckgroud image.webp: 17KB → 17KB (saved 0KB)
+01:46:20  INFO        ✓ horse-gram-pulses-bulk-exporter-india-gratia-global.webp: 151KB → 161KB (saved 0KB)
+01:46:33  INFO        ✓ Logo-removebg-preview.webp: 24KB → 24KB (saved 0KB)
+01:46:46  INFO        ✓ Logo.webp: 24KB → 24KB (saved 0KB)
+01:46:48  INFO        ✓ lonche-pickle-export-quality-india-gratia-global.webp: 106KB → 114KB (saved 0KB)
+01:46:49  INFO        ✓ moringa-powder-bulk-export-india-gratia-global.webp: 207KB → 223KB (saved 0KB)
+01:46:50  INFO        ✓ onion-powder-bulk-supplier-india.webp: 111KB → 117KB (saved 0KB)
+01:47:25  INFO        ✓ premium-herbal-export-products-india-gratia-global.webp: 339KB → 341KB (saved 0KB)
+01:47:27  INFO        ✓ turmeric-powder-bulk-exporter-india-gratia-global.webp: 159KB → 169KB (saved 0KB)
+01:47:28  INFO        ✓ turmeric-powder-bulk-exporter-india.webp: 145KB → 155KB (saved 0KB)
+01:47:34  INFO        ✓ apeda-registered-gratia-global.webp: 8KB → 9KB (saved 0KB)
+01:47:41  INFO        ✓ export-experience-years-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+01:47:45  INFO        ✓ export-standards-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+01:47:51  INFO        ✓ fssai-certified-gratia-global.webp: 9KB → 9KB (saved 0KB)
+01:47:58  INFO        ✓ global-export-countries-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+01:48:08  INFO        ✓ gmp-certified-gratia-global.webp: 19KB → 19KB (saved 0KB)
+01:48:14  INFO        ✓ happy-global-clients-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+01:48:34  INFO        ✓ herbal-leaf-about-decoration-gratia-global.webp: 64KB → 65KB (saved 0KB)
+01:49:47  INFO        ✓ herbal-plant-natural-element-gratia-global.webp: 578KB → 589KB (saved 0KB)
+01:49:48  INFO        ✓ herbal-powder-bowl-premium-gratia-global.webp: 147KB → 158KB (saved 0KB)
+01:49:55  INFO        ✓ mission-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+01:49:58  INFO        ✓ premium-products-catalog-icon-gratia-global.webp: 5KB → 5KB (saved 0KB)
+01:50:02  INFO        ✓ quality-assurance-about-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+01:50:04  INFO        ✓ tea-leaves-harvested-india-gratia-global.webp: 104KB → 114KB (saved 0KB)
+01:50:07  INFO        ✓ trusted-network-icon-gratia-global.webp: 6KB → 6KB (saved 0KB)
+01:50:14  INFO        ✓ usda-organic-certified-gratia-global.webp: 14KB → 13KB (saved 0KB)
+01:50:17  INFO        ✓ vision-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+01:50:19  INFO        ✓ warehouse-storage-logistics-gratia-global.webp: 170KB → 183KB (saved 0KB)
+01:50:24  INFO        ✓ 1.webp: 29KB → 29KB (saved 0KB)
+01:50:32  INFO        ✓ herbal-botanical-decoration-gratia-global.webp: 115KB → 121KB (saved 0KB)
+01:50:46  INFO        ✓ herbal-leaf-decoration-gratia-global.webp: 34KB → 36KB (saved 0KB)
+01:51:00  INFO        ✓ herbal-leaf-green-decoration-gratia-global.webp: 19KB → 20KB (saved 0KB)
+01:51:01  INFO        ✓ 2.webp: 24KB → 26KB (saved 0KB)
+01:51:16  INFO        ✓ bulk-supply-logistics-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+01:51:26  INFO        ✓ business-hours-icon-gratia-global.webp: 12KB → 12KB (saved 0KB)
+01:51:35  INFO        ✓ ChatGPT_Image_Apr_13__2026__11_48_58_PM-removebg-preview.webp: 60KB → 66KB (saved 0KB)
+01:51:50  INFO        ✓ contact-email-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+01:52:09  INFO        ✓ contact-form-decoration-gratia-global.webp: 66KB → 68KB (saved 0KB)
+01:52:25  INFO        ✓ contact-subject-icon-gratia-global.webp: 12KB → 12KB (saved 0KB)
+01:52:40  INFO        ✓ export-contact-decoration-gratia-global.webp: 15KB → 16KB (saved 0KB)
+01:52:41  INFO        ✓ global-export-contact-visual-gratia-global.webp: 107KB → 112KB (saved 0KB)
+01:53:01  INFO        ✓ herbal-leaf-about-decoration-gratia-global.webp: 64KB → 65KB (saved 0KB)
+01:54:20  INFO        ✓ herbal-plant-natural-element-gratia-global.webp: 578KB → 589KB (saved 0KB)
+01:54:21  INFO        ✓ premium-herbal-ingredients-export-gratia-global.webp: 222KB → 226KB (saved 0KB)
+01:54:27  INFO        ✓ quick-response-icon-gratia-global.webp: 11KB → 10KB (saved 0KB)
+01:54:45  INFO        ✓ sustainable-practices-icon-gratia-global.webp: 33KB → 33KB (saved 0KB)
+01:54:54  INFO        ✓ Untitled (2).webp: 13KB → 13KB (saved 0KB)
+01:54:58  INFO        ✓ Untitled_design__5_-removebg-preview.webp: 5KB → 5KB (saved 0KB)
+01:55:07  INFO        ✓ whatsapp-support-icon-gratia-global.webp: 11KB → 11KB (saved 0KB)
+01:55:07  INFO        ✓ android-chrome-192x192.png: 66KB → 50KB (saved 16KB)
+01:55:07  INFO        ✓ android-chrome-512x512.png: 376KB → 264KB (saved 112KB)
+01:55:08  INFO        ✓ apple-touch-icon.png: 59KB → 45KB (saved 14KB)
+01:55:09  INFO        ✓ amla-powder-mobile-exporter-india.webp: 100KB → 110KB (saved 0KB)
+01:55:10  INFO        ✓ ashwagandha-powder-mobile-exporter-india.webp: 54KB → 57KB (saved 0KB)
+01:55:11  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_26_23 AM.webp: 138KB → 152KB (saved 0KB)
+01:55:13  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_36_26 AM - Copy.webp: 136KB → 147KB (saved 0KB)
+01:55:14  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_36_26 AM.webp: 140KB → 152KB (saved 0KB)
+01:55:15  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_42_24 AM.webp: 100KB → 110KB (saved 0KB)
+01:55:16  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_45_57 AM.webp: 54KB → 57KB (saved 0KB)
+01:55:17  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_48_14 AM.webp: 71KB → 76KB (saved 0KB)
+01:55:19  INFO        ✓ curry-leaves-powder-mobile-exporter-india.webp: 138KB → 152KB (saved 0KB)
+01:55:20  INFO        ✓ onion-powder-mobile-supplier-india.webp: 140KB → 152KB (saved 0KB)
+01:55:21  INFO        ✓ turmeric-powder-mobile-exporter-india.webp: 71KB → 76KB (saved 0KB)
+01:55:36  INFO        ✓ bulk-supply-logistics-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+01:55:54  INFO        ✓ certified-products-icon-gratia-global.webp: 31KB → 33KB (saved 0KB)
+01:56:11  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_35_05 PM.webp: 26KB → 27KB (saved 0KB)
+01:56:26  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_35_44 PM.webp: 28KB → 29KB (saved 0KB)
+01:56:41  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_37_52 PM.webp: 27KB → 29KB (saved 0KB)
+01:57:05  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_39_40 PM.webp: 95KB → 95KB (saved 0KB)
+01:57:24  INFO        ✓ customer-satisfaction-icon-gratia-global.webp: 30KB → 32KB (saved 0KB)
+01:57:39  INFO        ✓ delivery-process-icon-gratia-global.webp: 21KB → 22KB (saved 0KB)
+01:57:54  INFO        ✓ global-reach-export-icon-gratia-global.webp: 26KB → 28KB (saved 0KB)
+01:58:10  INFO        ✓ inquiry-process-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+01:58:24  INFO        ✓ natural-products-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+01:58:33  INFO        ✓ packaging-process-icon-gratia-global.webp: 75KB → 79KB (saved 0KB)
+01:58:48  INFO        ✓ premium-quality-icon-gratia-global.webp: 22KB → 23KB (saved 0KB)
+01:59:06  INFO        ✓ quality-assurance-icon-gratia-global.webp: 37KB → 38KB (saved 0KB)
+01:59:15  INFO        ✓ sampling-process-icon-gratia-global.webp: 80KB → 82KB (saved 0KB)
+01:59:24  INFO        ✓ shipping-process-icon-gratia-global.webp: 74KB → 77KB (saved 0KB)
+01:59:42  INFO        ✓ sustainable-practices-icon-clean-gratia-global.webp: 33KB → 33KB (saved 0KB)
+01:59:59  INFO        ✓ sustainable-practices-icon-gratia-global.webp: 33KB → 33KB (saved 0KB)
+02:00:00  INFO        ✓ 09bd2a62-3744-48fa-a12a-296a5b26eea9.webp: 152KB → 167KB (saved 0KB)
+02:00:16  INFO        ✓ all-products-category-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:00:32  INFO        ✓ bg emove.webp: 58KB → 63KB (saved 0KB)
+02:01:14  INFO        ✓ ChatGPT Image Apr 13, 2026, 03_56_13 PM.webp: 467KB → 488KB (saved 0KB)
+02:01:14  INFO        ✓ ChatGPT Image Apr 13, 2026, 04_45_49 PM.webp: 21KB → 22KB (saved 0KB)
+02:01:28  INFO        ✓ dry-vegetables-category-icon-gratia-global.webp: 15KB → 15KB (saved 0KB)
+02:02:25  INFO        ✓ golden-hand-drawn-floral-outline-set.webp: 413KB → 575KB (saved 0KB)
+02:02:38  INFO        ✓ herbal-powders-category-icon-gratia-global.webp: 15KB → 16KB (saved 0KB)
+02:02:52  INFO        ✓ herbal-product-category-decoration-gratia-global.webp: 16KB → 17KB (saved 0KB)
+02:03:06  INFO        ✓ pickles-category-icon-gratia-global.webp: 11KB → 11KB (saved 0KB)
+02:03:07  INFO        ✓ premium-herbal-powders-spices-bowls-gratia-global.webp: 135KB → 147KB (saved 0KB)
+02:03:20  INFO        ✓ pulses-grains-category-icon-gratia-global.webp: 14KB → 15KB (saved 0KB)
+02:03:21  INFO        ✓ amla-powder-export-quality-india.webp: 92KB → 100KB (saved 0KB)
+02:03:22  INFO        ✓ ashwagandha-powder-herbal-exporter-india.webp: 72KB → 76KB (saved 0KB)
+02:03:24  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_05_10 AM.webp: 115KB → 126KB (saved 0KB)
+02:03:25  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_09_40 AM.webp: 157KB → 173KB (saved 0KB)
+02:03:26  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_11_54 AM.webp: 92KB → 100KB (saved 0KB)
+02:03:27  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_18_19 AM.webp: 72KB → 76KB (saved 0KB)
+02:03:28  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_20_23 AM.webp: 78KB → 81KB (saved 0KB)
+02:03:30  INFO        ✓ curry-leaves-powder-exporter-india.webp: 115KB → 126KB (saved 0KB)
+02:03:31  INFO        ✓ onion-powder-bulk-supplier-india.webp: 157KB → 173KB (saved 0KB)
+02:03:32  INFO        ✓ turmeric-powder-bulk-exporter-india.webp: 78KB → 81KB (saved 0KB)
+02:03:32  INFO        ✓ client-relations-lead.jpg: 105KB → 87KB (saved 18KB)
+02:03:33  INFO        ✓ quality-lead.jpg: 86KB → 70KB (saved 15KB)
+02:03:33  INFO        ✓ sourcing-lead.jpg: 103KB → 87KB (saved 16KB)
+02:03:33  INFO        ✓ strategy-lead.jpg: 169KB → 143KB (saved 25KB)
+02:03:34  INFO        ✓ 2.webp: 24KB → 26KB (saved 0KB)
+02:03:35  INFO        ✓ 228c1eb9-33dd-4898-972b-15d223f4b04f.webp: 148KB → 159KB (saved 0KB)
+02:03:36  INFO        ✓ 29a50b58-5a90-4e8a-929b-6c07008af3fb.webp: 79KB → 84KB (saved 0KB)
+02:03:38  INFO        ✓ 4e458263-b92f-447e-b01f-b59db8c089ef.webp: 153KB → 162KB (saved 0KB)
+02:03:39  INFO        ✓ 7f91dc7b-f9b3-41e1-9073-b2a0375efa6b.webp: 145KB → 155KB (saved 0KB)
+02:03:41  INFO        ✓ 9e70aa23-c161-42e8-a875-60cedc1f2692.webp: 204KB → 182KB (saved 22KB)
+02:03:42  INFO        ✓ amla-powder-exporter-india.webp: 153KB → 162KB (saved 0KB)
+02:03:44  INFO        ✓ ashwagandha-powder-herbal-exporter-india-gratia-global.webp: 202KB → 219KB (saved 0KB)
+02:03:45  INFO        ✓ ashwagandha-powder-herbal-exporter-india.webp: 148KB → 159KB (saved 0KB)
+02:03:46  INFO        ✓ c251c9e9-40d3-4c67-aea5-d53a0d447074.webp: 50KB → 55KB (saved 0KB)
+02:03:47  INFO        ✓ c5e02f3a-2c64-430f-ab49-3a45c1eccd6d.webp: 163KB → 177KB (saved 0KB)
+02:03:49  INFO        ✓ c976fa92-5795-4a98-a81e-9c8cd57e3b62.webp: 111KB → 117KB (saved 0KB)
+02:03:49  INFO        ✓ cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp: 13KB → 13KB (saved 0KB)
+02:03:50  INFO        ✓ curry-leaves-powder-bulk-exporter-india.webp: 163KB → 177KB (saved 0KB)
+02:03:52  INFO        ✓ d3af7f5a-e522-4341-9022-e55584dc6882.webp: 224KB → 245KB (saved 0KB)
+02:05:05  INFO        ✓ herbal-plant-natural-element-gratia-global.webp: 578KB → 589KB (saved 0KB)
+02:05:06  INFO        ✓ hero bckgroud image (1).webp: 17KB → 17KB (saved 0KB)
+02:05:06  INFO        ✓ hero bckgroud image.webp: 17KB → 17KB (saved 0KB)
+02:05:08  INFO        ✓ horse-gram-pulses-bulk-exporter-india-gratia-global.webp: 151KB → 161KB (saved 0KB)
+02:05:19  INFO        ✓ Logo-removebg-preview.webp: 24KB → 24KB (saved 0KB)
+02:05:31  INFO        ✓ Logo.webp: 24KB → 24KB (saved 0KB)
+02:05:32  INFO        ✓ lonche-pickle-export-quality-india-gratia-global.webp: 106KB → 114KB (saved 0KB)
+02:05:33  INFO        ✓ moringa-powder-bulk-export-india-gratia-global.webp: 207KB → 223KB (saved 0KB)
+02:05:35  INFO        ✓ onion-powder-bulk-supplier-india.webp: 111KB → 117KB (saved 0KB)
+02:06:08  INFO        ✓ premium-herbal-export-products-india-gratia-global.webp: 339KB → 341KB (saved 0KB)
+02:06:09  INFO        ✓ turmeric-powder-bulk-exporter-india-gratia-global.webp: 159KB → 169KB (saved 0KB)
+02:06:11  INFO        ✓ turmeric-powder-bulk-exporter-india.webp: 145KB → 155KB (saved 0KB)
+02:06:16  INFO        ✓ apeda-registered-gratia-global.webp: 8KB → 9KB (saved 0KB)
+02:06:22  INFO        ✓ export-experience-years-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:06:26  INFO        ✓ export-standards-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+02:06:32  INFO        ✓ fssai-certified-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:06:39  INFO        ✓ global-export-countries-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+02:06:49  INFO        ✓ gmp-certified-gratia-global.webp: 19KB → 19KB (saved 0KB)
+02:06:55  INFO        ✓ happy-global-clients-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:07:15  INFO        ✓ herbal-leaf-about-decoration-gratia-global.webp: 64KB → 65KB (saved 0KB)
+02:19:46  INFO      ╔════════════════════════════════════════════════════════════╗
+02:19:46  INFO      ║  GRATIA GLOBAL SEO OPTIMIZER — Starting                    ║
+02:19:46  INFO      ╚════════════════════════════════════════════════════════════╝
+02:19:46  INFO        Root: C:\Users\ujaga\OneDrive\Desktop\Gratia Globle
+02:19:46  INFO        Mode: LIVE
+02:19:46  INFO        Tasks: images, optimize, lazy, alttags, meta, semantic, schema, sitemap, robots, opengraph, performance
+02:19:46  INFO        HTML files found: 18 → ['about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'terms.html', 'about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'about.html', 'contact.html', 'index.html', 'privacy.html', 'product.html', 'terms.html', 'terms.html']
+02:19:46  INFO      ════════════════════════════════════════════════════════════
+02:19:46  INFO      TASK 1: Image Rename
+02:19:49  INFO        Summary: 0 renamed, 0 HTML files updated, 399 skipped
+02:19:49  INFO      ════════════════════════════════════════════════════════════
+02:19:49  INFO      TASK 2: Image Optimization
+02:19:50  INFO        ✓ 2.webp: 26KB → 24KB (saved 1KB)
+02:19:50  INFO        ✓ 228c1eb9-33dd-4898-972b-15d223f4b04f.webp: 159KB → 151KB (saved 8KB)
+02:19:51  INFO        ✓ 29a50b58-5a90-4e8a-929b-6c07008af3fb.webp: 84KB → 81KB (saved 3KB)
+02:19:52  INFO        ✓ 4e458263-b92f-447e-b01f-b59db8c089ef.webp: 162KB → 155KB (saved 6KB)
+02:19:53  INFO        ✓ 7f91dc7b-f9b3-41e1-9073-b2a0375efa6b.webp: 155KB → 150KB (saved 5KB)
+02:19:54  INFO        ✓ 9e70aa23-c161-42e8-a875-60cedc1f2692.webp: 182KB → 174KB (saved 8KB)
+02:19:55  INFO        ✓ amla-powder-exporter-india.webp: 162KB → 155KB (saved 6KB)
+02:19:56  INFO        ✓ ashwagandha-powder-herbal-exporter-india-gratia-global.webp: 219KB → 211KB (saved 7KB)
+02:19:57  INFO        ✓ ashwagandha-powder-herbal-exporter-india.webp: 159KB → 151KB (saved 8KB)
+02:19:57  INFO        ✓ c251c9e9-40d3-4c67-aea5-d53a0d447074.webp: 55KB → 53KB (saved 1KB)
+02:19:58  INFO        ✓ c5e02f3a-2c64-430f-ab49-3a45c1eccd6d.webp: 177KB → 170KB (saved 7KB)
+02:19:59  INFO        ✓ c976fa92-5795-4a98-a81e-9c8cd57e3b62.webp: 117KB → 111KB (saved 5KB)
+02:19:59  INFO        ✓ cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp: 13KB → 12KB (saved 0KB)
+02:20:00  INFO        ✓ curry-leaves-powder-bulk-exporter-india.webp: 177KB → 170KB (saved 7KB)
+02:20:01  INFO        ✓ d3af7f5a-e522-4341-9022-e55584dc6882.webp: 245KB → 242KB (saved 3KB)
+02:21:01  INFO        ✓ herbal-plant-natural-element-gratia-global.webp: 589KB → 580KB (saved 8KB)
+02:21:02  INFO        ✓ hero bckgroud image (1).webp: 17KB → 16KB (saved 0KB)
+02:21:02  INFO        ✓ hero bckgroud image.webp: 17KB → 16KB (saved 0KB)
+02:21:03  INFO        ✓ horse-gram-pulses-bulk-exporter-india-gratia-global.webp: 161KB → 156KB (saved 4KB)
+02:21:16  INFO        ✓ Logo-removebg-preview.webp: 24KB → 24KB (saved 0KB)
+02:21:30  INFO        ✓ Logo.webp: 24KB → 24KB (saved 0KB)
+02:21:31  INFO        ✓ lonche-pickle-export-quality-india-gratia-global.webp: 114KB → 107KB (saved 6KB)
+02:21:33  INFO        ✓ moringa-powder-bulk-export-india-gratia-global.webp: 223KB → 218KB (saved 5KB)
+02:21:34  INFO        ✓ onion-powder-bulk-supplier-india.webp: 117KB → 111KB (saved 5KB)
+02:22:08  INFO        ✓ premium-herbal-export-products-india-gratia-global.webp: 341KB → 337KB (saved 3KB)
+02:22:09  INFO        ✓ turmeric-powder-bulk-exporter-india-gratia-global.webp: 169KB → 162KB (saved 6KB)
+02:22:10  INFO        ✓ turmeric-powder-bulk-exporter-india.webp: 155KB → 150KB (saved 5KB)
+02:22:15  INFO        ✓ apeda-registered-gratia-global.webp: 9KB → 8KB (saved 0KB)
+02:22:20  INFO        ✓ export-experience-years-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:22:24  INFO        ✓ export-standards-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+02:22:31  INFO        ✓ fssai-certified-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:22:39  INFO        ✓ global-export-countries-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+02:22:49  INFO        ✓ gmp-certified-gratia-global.webp: 19KB → 19KB (saved 0KB)
+02:22:55  INFO        ✓ happy-global-clients-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:23:13  INFO        ✓ herbal-leaf-about-decoration-gratia-global.webp: 65KB → 64KB (saved 0KB)
+02:23:14  INFO        ✓ herbal-powder-bowl-premium-gratia-global.webp: 147KB → 158KB (saved 0KB)
+02:23:22  INFO        ✓ mission-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+02:23:26  INFO        ✓ premium-products-catalog-icon-gratia-global.webp: 5KB → 5KB (saved 0KB)
+02:23:30  INFO        ✓ quality-assurance-about-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+02:23:31  INFO        ✓ tea-leaves-harvested-india-gratia-global.webp: 104KB → 114KB (saved 0KB)
+02:23:35  INFO        ✓ trusted-network-icon-gratia-global.webp: 6KB → 6KB (saved 0KB)
+02:23:42  INFO        ✓ usda-organic-certified-gratia-global.webp: 14KB → 13KB (saved 0KB)
+02:23:47  INFO        ✓ vision-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+02:23:48  INFO        ✓ warehouse-storage-logistics-gratia-global.webp: 170KB → 183KB (saved 0KB)
+02:23:56  INFO        ✓ 1.webp: 29KB → 29KB (saved 0KB)
+02:24:04  INFO        ✓ herbal-botanical-decoration-gratia-global.webp: 115KB → 121KB (saved 0KB)
+02:24:19  INFO        ✓ herbal-leaf-decoration-gratia-global.webp: 34KB → 36KB (saved 0KB)
+02:24:31  INFO        ✓ herbal-leaf-green-decoration-gratia-global.webp: 19KB → 20KB (saved 0KB)
+02:24:32  INFO        ✓ 2.webp: 24KB → 26KB (saved 0KB)
+02:24:47  INFO        ✓ bulk-supply-logistics-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+02:24:56  INFO        ✓ business-hours-icon-gratia-global.webp: 12KB → 12KB (saved 0KB)
+02:25:04  INFO        ✓ ChatGPT_Image_Apr_13__2026__11_48_58_PM-removebg-preview.webp: 60KB → 66KB (saved 0KB)
+02:25:18  INFO        ✓ contact-email-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+02:25:35  INFO        ✓ contact-form-decoration-gratia-global.webp: 66KB → 68KB (saved 0KB)
+02:25:50  INFO        ✓ contact-subject-icon-gratia-global.webp: 12KB → 12KB (saved 0KB)
+02:26:03  INFO        ✓ export-contact-decoration-gratia-global.webp: 15KB → 16KB (saved 0KB)
+02:26:04  INFO        ✓ global-export-contact-visual-gratia-global.webp: 107KB → 112KB (saved 0KB)
+02:26:22  INFO        ✓ herbal-leaf-about-decoration-gratia-global.webp: 64KB → 65KB (saved 0KB)
+02:27:21  INFO        ✓ herbal-plant-natural-element-gratia-global.webp: 578KB → 589KB (saved 0KB)
+02:27:22  INFO        ✓ premium-herbal-ingredients-export-gratia-global.webp: 222KB → 226KB (saved 0KB)
+02:27:28  INFO        ✓ quick-response-icon-gratia-global.webp: 11KB → 10KB (saved 0KB)
+02:27:44  INFO        ✓ sustainable-practices-icon-gratia-global.webp: 33KB → 33KB (saved 0KB)
+02:27:53  INFO        ✓ Untitled (2).webp: 13KB → 13KB (saved 0KB)
+02:27:56  INFO        ✓ Untitled_design__5_-removebg-preview.webp: 5KB → 5KB (saved 0KB)
+02:28:05  INFO        ✓ whatsapp-support-icon-gratia-global.webp: 11KB → 11KB (saved 0KB)
+02:28:05  INFO        ✓ android-chrome-192x192.png: 66KB → 50KB (saved 16KB)
+02:28:06  INFO        ✓ android-chrome-512x512.png: 376KB → 264KB (saved 112KB)
+02:28:06  INFO        ✓ apple-touch-icon.png: 59KB → 45KB (saved 14KB)
+02:28:07  INFO        ✓ amla-powder-mobile-exporter-india.webp: 100KB → 110KB (saved 0KB)
+02:28:08  INFO        ✓ ashwagandha-powder-mobile-exporter-india.webp: 54KB → 57KB (saved 0KB)
+02:28:09  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_26_23 AM.webp: 138KB → 152KB (saved 0KB)
+02:28:11  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_36_26 AM - Copy.webp: 136KB → 147KB (saved 0KB)
+02:28:12  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_36_26 AM.webp: 140KB → 152KB (saved 0KB)
+02:28:13  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_42_24 AM.webp: 100KB → 110KB (saved 0KB)
+02:28:14  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_45_57 AM.webp: 54KB → 57KB (saved 0KB)
+02:28:15  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_48_14 AM.webp: 71KB → 76KB (saved 0KB)
+02:28:17  INFO        ✓ curry-leaves-powder-mobile-exporter-india.webp: 138KB → 152KB (saved 0KB)
+02:28:18  INFO        ✓ onion-powder-mobile-supplier-india.webp: 140KB → 152KB (saved 0KB)
+02:28:19  INFO        ✓ turmeric-powder-mobile-exporter-india.webp: 71KB → 76KB (saved 0KB)
+02:28:34  INFO        ✓ bulk-supply-logistics-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+02:28:50  INFO        ✓ certified-products-icon-gratia-global.webp: 31KB → 33KB (saved 0KB)
+02:29:05  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_35_05 PM.webp: 26KB → 27KB (saved 0KB)
+02:29:20  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_35_44 PM.webp: 28KB → 29KB (saved 0KB)
+02:29:34  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_37_52 PM.webp: 27KB → 29KB (saved 0KB)
+02:29:53  INFO        ✓ ChatGPT Image Apr 12, 2026, 11_39_40 PM.webp: 95KB → 95KB (saved 0KB)
+02:30:08  INFO        ✓ customer-satisfaction-icon-gratia-global.webp: 30KB → 32KB (saved 0KB)
+02:30:21  INFO        ✓ delivery-process-icon-gratia-global.webp: 21KB → 22KB (saved 0KB)
+02:30:38  INFO        ✓ global-reach-export-icon-gratia-global.webp: 26KB → 28KB (saved 0KB)
+02:30:52  INFO        ✓ inquiry-process-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+02:31:07  INFO        ✓ natural-products-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+02:31:15  INFO        ✓ packaging-process-icon-gratia-global.webp: 75KB → 79KB (saved 0KB)
+02:31:30  INFO        ✓ premium-quality-icon-gratia-global.webp: 22KB → 23KB (saved 0KB)
+02:31:46  INFO        ✓ quality-assurance-icon-gratia-global.webp: 37KB → 38KB (saved 0KB)
+02:31:54  INFO        ✓ sampling-process-icon-gratia-global.webp: 80KB → 82KB (saved 0KB)
+02:32:02  INFO        ✓ shipping-process-icon-gratia-global.webp: 74KB → 77KB (saved 0KB)
+02:32:18  INFO        ✓ sustainable-practices-icon-clean-gratia-global.webp: 33KB → 33KB (saved 0KB)
+02:32:33  INFO        ✓ sustainable-practices-icon-gratia-global.webp: 33KB → 33KB (saved 0KB)
+02:32:34  INFO        ✓ 09bd2a62-3744-48fa-a12a-296a5b26eea9.webp: 152KB → 167KB (saved 0KB)
+02:32:47  INFO        ✓ all-products-category-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:33:02  INFO        ✓ bg emove.webp: 58KB → 63KB (saved 0KB)
+02:33:39  INFO        ✓ ChatGPT Image Apr 13, 2026, 03_56_13 PM.webp: 467KB → 488KB (saved 0KB)
+02:33:40  INFO        ✓ ChatGPT Image Apr 13, 2026, 04_45_49 PM.webp: 21KB → 22KB (saved 0KB)
+02:33:54  INFO        ✓ dry-vegetables-category-icon-gratia-global.webp: 15KB → 15KB (saved 0KB)
+02:34:52  INFO        ✓ golden-hand-drawn-floral-outline-set.webp: 413KB → 575KB (saved 0KB)
+02:35:04  INFO        ✓ herbal-powders-category-icon-gratia-global.webp: 15KB → 16KB (saved 0KB)
+02:35:18  INFO        ✓ herbal-product-category-decoration-gratia-global.webp: 16KB → 17KB (saved 0KB)
+02:35:32  INFO        ✓ pickles-category-icon-gratia-global.webp: 11KB → 11KB (saved 0KB)
+02:35:33  INFO        ✓ premium-herbal-powders-spices-bowls-gratia-global.webp: 135KB → 147KB (saved 0KB)
+02:35:47  INFO        ✓ pulses-grains-category-icon-gratia-global.webp: 14KB → 15KB (saved 0KB)
+02:35:48  INFO        ✓ amla-powder-export-quality-india.webp: 92KB → 100KB (saved 0KB)
+02:35:49  INFO        ✓ ashwagandha-powder-herbal-exporter-india.webp: 72KB → 76KB (saved 0KB)
+02:35:50  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_05_10 AM.webp: 115KB → 126KB (saved 0KB)
+02:35:52  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_09_40 AM.webp: 157KB → 173KB (saved 0KB)
+02:35:53  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_11_54 AM.webp: 92KB → 100KB (saved 0KB)
+02:35:54  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_18_19 AM.webp: 72KB → 76KB (saved 0KB)
+02:35:55  INFO        ✓ ChatGPT Image Apr 22, 2026, 03_20_23 AM.webp: 78KB → 81KB (saved 0KB)
+02:35:56  INFO        ✓ curry-leaves-powder-exporter-india.webp: 115KB → 126KB (saved 0KB)
+02:35:58  INFO        ✓ onion-powder-bulk-supplier-india.webp: 157KB → 173KB (saved 0KB)
+02:35:59  INFO        ✓ turmeric-powder-bulk-exporter-india.webp: 78KB → 81KB (saved 0KB)
+02:35:59  INFO        ✓ client-relations-lead.jpg: 105KB → 87KB (saved 18KB)
+02:35:59  INFO        ✓ quality-lead.jpg: 86KB → 70KB (saved 15KB)
+02:36:00  INFO        ✓ sourcing-lead.jpg: 103KB → 87KB (saved 16KB)
+02:36:00  INFO        ✓ strategy-lead.jpg: 169KB → 143KB (saved 25KB)
+02:36:00  INFO        ✓ 2.webp: 26KB → 24KB (saved 1KB)
+02:36:02  INFO        ✓ 228c1eb9-33dd-4898-972b-15d223f4b04f.webp: 159KB → 151KB (saved 8KB)
+02:36:03  INFO        ✓ 29a50b58-5a90-4e8a-929b-6c07008af3fb.webp: 84KB → 81KB (saved 3KB)
+02:36:04  INFO        ✓ 4e458263-b92f-447e-b01f-b59db8c089ef.webp: 162KB → 155KB (saved 6KB)
+02:36:05  INFO        ✓ 7f91dc7b-f9b3-41e1-9073-b2a0375efa6b.webp: 155KB → 150KB (saved 5KB)
+02:36:07  INFO        ✓ 9e70aa23-c161-42e8-a875-60cedc1f2692.webp: 182KB → 174KB (saved 8KB)
+02:36:08  INFO        ✓ amla-powder-exporter-india.webp: 162KB → 155KB (saved 6KB)
+02:36:10  INFO        ✓ ashwagandha-powder-herbal-exporter-india-gratia-global.webp: 219KB → 211KB (saved 7KB)
+02:36:11  INFO        ✓ ashwagandha-powder-herbal-exporter-india.webp: 159KB → 151KB (saved 8KB)
+02:36:12  INFO        ✓ c251c9e9-40d3-4c67-aea5-d53a0d447074.webp: 55KB → 53KB (saved 1KB)
+02:36:13  INFO        ✓ c5e02f3a-2c64-430f-ab49-3a45c1eccd6d.webp: 177KB → 170KB (saved 7KB)
+02:36:15  INFO        ✓ c976fa92-5795-4a98-a81e-9c8cd57e3b62.webp: 117KB → 111KB (saved 5KB)
+02:36:15  INFO        ✓ cb72a214-a50f-4b2f-8ab9-809fa028af5f.webp: 13KB → 12KB (saved 0KB)
+02:36:16  INFO        ✓ curry-leaves-powder-bulk-exporter-india.webp: 177KB → 170KB (saved 7KB)
+02:36:18  INFO        ✓ d3af7f5a-e522-4341-9022-e55584dc6882.webp: 245KB → 242KB (saved 3KB)
+02:37:19  INFO        ✓ herbal-plant-natural-element-gratia-global.webp: 589KB → 580KB (saved 8KB)
+02:37:19  INFO        ✓ hero bckgroud image (1).webp: 17KB → 16KB (saved 0KB)
+02:37:20  INFO        ✓ hero bckgroud image.webp: 17KB → 16KB (saved 0KB)
+02:37:21  INFO        ✓ horse-gram-pulses-bulk-exporter-india-gratia-global.webp: 161KB → 156KB (saved 4KB)
+02:37:33  INFO        ✓ Logo-removebg-preview.webp: 24KB → 24KB (saved 0KB)
+02:37:46  INFO        ✓ Logo.webp: 24KB → 24KB (saved 0KB)
+02:37:48  INFO        ✓ lonche-pickle-export-quality-india-gratia-global.webp: 114KB → 107KB (saved 6KB)
+02:37:49  INFO        ✓ moringa-powder-bulk-export-india-gratia-global.webp: 223KB → 218KB (saved 5KB)
+02:37:50  INFO        ✓ onion-powder-bulk-supplier-india.webp: 117KB → 111KB (saved 5KB)
+02:38:19  INFO        ✓ premium-herbal-export-products-india-gratia-global.webp: 341KB → 337KB (saved 3KB)
+02:38:20  INFO        ✓ turmeric-powder-bulk-exporter-india-gratia-global.webp: 169KB → 162KB (saved 6KB)
+02:38:21  INFO        ✓ turmeric-powder-bulk-exporter-india.webp: 155KB → 150KB (saved 5KB)
+02:38:25  INFO        ✓ apeda-registered-gratia-global.webp: 9KB → 8KB (saved 0KB)
+02:38:31  INFO        ✓ export-experience-years-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:38:35  INFO        ✓ export-standards-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+02:38:41  INFO        ✓ fssai-certified-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:38:48  INFO        ✓ global-export-countries-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+02:38:57  INFO        ✓ gmp-certified-gratia-global.webp: 19KB → 19KB (saved 0KB)
+02:39:03  INFO        ✓ happy-global-clients-icon-gratia-global.webp: 9KB → 9KB (saved 0KB)
+02:39:20  INFO        ✓ herbal-leaf-about-decoration-gratia-global.webp: 65KB → 64KB (saved 0KB)
+02:39:22  INFO        ✓ herbal-powder-bowl-premium-gratia-global.webp: 147KB → 158KB (saved 0KB)
+02:39:29  INFO        ✓ mission-icon-gratia-global.webp: 10KB → 10KB (saved 0KB)
+02:39:33  INFO        ✓ premium-products-catalog-icon-gratia-global.webp: 5KB → 5KB (saved 0KB)
+02:39:37  INFO        ✓ quality-assurance-about-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+02:39:39  INFO        ✓ tea-leaves-harvested-india-gratia-global.webp: 104KB → 114KB (saved 0KB)
+02:39:42  INFO        ✓ trusted-network-icon-gratia-global.webp: 6KB → 6KB (saved 0KB)
+02:39:50  INFO        ✓ usda-organic-certified-gratia-global.webp: 14KB → 13KB (saved 0KB)
+02:39:54  INFO        ✓ vision-icon-gratia-global.webp: 7KB → 7KB (saved 0KB)
+02:39:56  INFO        ✓ warehouse-storage-logistics-gratia-global.webp: 170KB → 183KB (saved 0KB)
+02:40:04  INFO        ✓ 1.webp: 29KB → 29KB (saved 0KB)
+02:40:12  INFO        ✓ herbal-botanical-decoration-gratia-global.webp: 115KB → 121KB (saved 0KB)
+02:40:27  INFO        ✓ herbal-leaf-decoration-gratia-global.webp: 34KB → 36KB (saved 0KB)
+02:40:41  INFO        ✓ herbal-leaf-green-decoration-gratia-global.webp: 19KB → 20KB (saved 0KB)
+02:40:42  INFO        ✓ 2.webp: 24KB → 26KB (saved 0KB)
+02:40:59  INFO        ✓ bulk-supply-logistics-icon-gratia-global.webp: 24KB → 25KB (saved 0KB)
+02:41:11  INFO        ✓ business-hours-icon-gratia-global.webp: 12KB → 12KB (saved 0KB)
+02:41:19  INFO        ✓ ChatGPT_Image_Apr_13__2026__11_48_58_PM-removebg-preview.webp: 60KB → 66KB (saved 0KB)

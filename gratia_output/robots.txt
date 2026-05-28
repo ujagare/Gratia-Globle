@@ -1,0 +1,28 @@
+# robots.txt — Gratia Global
+# Generated: 2026-05-28
+
+User-agent: *
+Allow: /
+Disallow: /assets/private/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# Allow image crawling for Google Images
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+# Respectful crawl delays for SEO bots
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+# Sitemap location
+Sitemap: https://www.gratiaglobal.com/sitemap.xml

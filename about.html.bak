@@ -1,0 +1,1019 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Gratia Global | Trusted Herbal & Agro Export Company in India</title>
+    <meta
+      name="description"
+      content="Gratia Global is a trusted herbal and agro export company in India. ISO 22000, HACCP &amp; FSSAI certified. Serving B2B buyers worldwide. Learn about our story."
+    />
+    <meta name="keywords" content="about Gratia Global, herbal export company India, agro exporter India, ISO certified herbal exporter, HACCP certified export company, trusted export company Indore, B2B herbal supplier India" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="author" content="Gratia Global" />
+    <meta name="theme-color" content="#a67c2d" />
+    <link rel="icon" href="assets/images/Favicon/favicon.ico" sizes="any" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/images/Favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/images/Favicon/favicon-16x16.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/images/Favicon/apple-touch-icon.png"
+    />
+    <link rel="manifest" href="assets/images/Favicon/site.webmanifest" />
+    <link rel="canonical" href="https://www.gratiaglobal.com/about" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gratia Global" />
+    <meta property="og:locale" content="en_IN" />
+    <meta property="og:title" content="About Gratia Global | Trusted Herbal & Agro Export Company in India" />
+    <meta
+      property="og:description"
+      content="Discover Gratia Global's story, quality standards, and trusted global export capabilities."
+    />
+    <meta property="og:url" content="https://www.gratiaglobal.com/about" />
+    <meta
+      property="og:image"
+      content="https://www.gratiaglobal.com/assets/images/Logo.webp"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://www.gratiaglobal.com/about" />
+    <meta name="twitter:title" content="About Gratia Global | Trusted Herbal & Agro Export Company in India" />
+    <meta name="twitter:description"
+      content="ISO 22000, HACCP &amp; FSSAI certified herbal export company from India. Know our journey and quality standards."
+    />
+    <meta
+      name="twitter:image"
+      content="https://www.gratiaglobal.com/assets/images/Logo.webp"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "AboutPage",
+        "name": "About Gratia Global | Trusted Herbal & Agro Export Company in India",
+        "url": "https://www.gratiaglobal.com/about",
+        "description": "Gratia Global is an ISO 22000:2018 & HACCP certified herbal and agro export company in India with 10+ years of excellence, exporting to 20+ countries worldwide.",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "Gratia Global",
+          "url": "https://www.gratiaglobal.com/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Gratia Global",
+          "url": "https://www.gratiaglobal.com/",
+          "telephone": "+918600949433",
+          "email": "info@gratiaglobal.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.gratiaglobal.com/assets/images/Logo.webp"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "A-1, Export House",
+            "addressLocality": "Indore",
+            "addressRegion": "Madhya Pradesh",
+            "postalCode": "452010",
+            "addressCountry": "IN"
+          },
+          "hasCredential": [
+            { "@type": "EducationalOccupationalCredential", "name": "ISO 22000:2018 Certified" },
+            { "@type": "EducationalOccupationalCredential", "name": "HACCP Certified" },
+            { "@type": "EducationalOccupationalCredential", "name": "FSSAI Licensed" },
+            { "@type": "EducationalOccupationalCredential", "name": "APEDA Registered" }
+          ]
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.gratiaglobal.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "About Us",
+            "item": "https://www.gratiaglobal.com/about"
+          }
+        ]
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&family=Marcellus&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2KMCPYZSN7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-2KMCPYZSN7");
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MC3XDZSM");
+    </script>
+
+    <!-- Umami Analytics -->
+    <script>
+      (() => {
+        const umamiWebsiteId = "REPLACE_WITH_UMAMI_WEBSITE_ID";
+        if (!umamiWebsiteId || umamiWebsiteId.includes("REPLACE_WITH_")) {
+          return;
+        }
+
+        const script = document.createElement("script");
+        script.defer = true;
+        script.src = "https://cloud.umami.is/script.js";
+        script.dataset.websiteId = umamiWebsiteId;
+        document.head.appendChild(script);
+      })();
+    </script>
+    <!-- Sentry Error Tracking -->
+    <script>
+      (() => {
+        const sentryDsn = "REPLACE_WITH_SENTRY_DSN";
+        if (!sentryDsn || sentryDsn.includes("REPLACE_WITH_")) {
+          return;
+        }
+
+        const script = document.createElement("script");
+        script.src = "https://browser.sentry-cdn.com/8.33.1/bundle.tracing.min.js";
+        script.crossOrigin = "anonymous";
+        script.onload = () => {
+          if (window.Sentry) {
+            window.Sentry.init({
+              dsn: sentryDsn,
+              tracesSampleRate: 1.0,
+            });
+          }
+        };
+        document.head.appendChild(script);
+      })();
+    </script>
+  </head>
+  <body class="about-page-body">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MC3XDZSM"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+
+    <header class="site-header" role="banner">
+      <div class="container header-row">
+        <a href="index.html#home" class="brand" aria-label="Gratia Global Home">
+          <img loading="lazy"
+            src="assets/images/Logo.webp"
+            alt="Gratia Global Logo"
+            class="brand-logo"
+          />
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="index.html#home">Home</a>
+          <a class="is-active" href="about.html">About Us</a>
+          <a href="product.html">Products</a>
+          <a href="index.html#services">Services</a>
+          <a href="contact.html">Contact Us</a>
+        </nav>
+
+        <a class="button button-gold header-cta" href="contact.html">
+          Get a Quote
+          <span aria-hidden="true">&#8594;</span>
+        </a>
+
+        <button
+          class="mobile-nav-toggle"
+          id="mobileNavToggle"
+          type="button"
+          aria-label="Open navigation menu"
+          aria-expanded="false"
+          aria-controls="mobileNavOverlay"
+        >
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+        </button>
+      </div>
+    </header>
+
+    <div class="mobile-nav-overlay" id="mobileNavOverlay" aria-hidden="true">
+      <div class="mobile-nav-backdrop" id="mobileNavBackdrop"></div>
+      <nav class="mobile-nav-panel" aria-label="Mobile Navigation">
+        <div class="mobile-nav-header">
+          <a href="index.html#home" class="mobile-nav-brand" aria-label="Gratia Global Home">
+            <img loading="lazy" src="assets/images/Logo.webp" alt="Gratia Global Logo" class="mobile-nav-logo" />
+            <div class="mobile-nav-brand-text">
+              <strong>Gratia Global</strong>
+              <small>Premium Agro &amp; Herbal Exports</small>
+            </div>
+          </a>
+          <button
+            class="mobile-nav-close"
+            id="mobileNavClose"
+            type="button"
+            aria-label="Close navigation menu"
+          >
+            <span></span><span></span>
+          </button>
+        </div>
+
+        <div class="mobile-nav-divider"></div>
+
+        <ul class="mobile-nav-links" role="list">
+          <li>
+            <a href="index.html#home" class="mobile-nav-link">
+              <span class="mobile-nav-link-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5z"/><polyline points="9 21 9 14 15 14 15 21"/></svg>
+              </span>
+              <span>Home</span>
+              <span class="mobile-nav-link-arrow">&#8594;</span>
+            </a>
+          </li>
+          <li>
+            <a href="about.html" class="mobile-nav-link is-active">
+              <span class="mobile-nav-link-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M20 21a8 8 0 0 0-16 0"/></svg>
+              </span>
+              <span>About Us</span>
+              <span class="mobile-nav-link-arrow">&#8594;</span>
+            </a>
+          </li>
+          <li>
+            <a href="product.html" class="mobile-nav-link">
+              <span class="mobile-nav-link-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+              </span>
+              <span>Products</span>
+              <span class="mobile-nav-link-arrow">&#8594;</span>
+            </a>
+          </li>
+          <li>
+            <a href="index.html#services" class="mobile-nav-link">
+              <span class="mobile-nav-link-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+              </span>
+              <span>Services</span>
+              <span class="mobile-nav-link-arrow">&#8594;</span>
+            </a>
+          </li>
+          <li>
+            <a href="contact.html" class="mobile-nav-link">
+              <span class="mobile-nav-link-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+              </span>
+              <span>Contact Us</span>
+              <span class="mobile-nav-link-arrow">&#8594;</span>
+            </a>
+          </li>
+        </ul>
+
+        <div class="mobile-nav-cta">
+          <a class="button button-gold mobile-nav-cta-btn" href="contact.html">
+            Get a Quote &nbsp;&#8594;
+          </a>
+        </div>
+
+        <div class="mobile-nav-contact">
+          <a href="tel:+918600949433" class="mobile-nav-contact-item"><span class="mobile-nav-contact-icon">&#128222;</span><span>+91 86009 49433</span></a>
+          <a href="mailto:info@gratiaglobal.com" class="mobile-nav-contact-item">
+            <span class="mobile-nav-contact-icon">&#9993;</span>
+            <span>info@gratiaglobal.com</span>
+          </a>
+        </div>
+
+        <div class="mobile-nav-socials">
+          <a href="contact.html#contact-form" aria-label="Facebook" class="mobile-nav-social">
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 9h2V6h-2c-1.7 0-3 1.3-3 3v2H9v3h2v7h3v-7h2.2l.8-3H14V9c0-.6.4-1 1-1z"/></svg>
+          </a>
+          <a href="contact.html#contact-form" aria-label="Instagram" class="mobile-nav-social">
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10c2.8 0 5 2.2 5 5v10c0 2.8-2.2 5-5 5H7c-2.8 0-5-2.2-5-5V7c0-2.8 2.2-5 5-5zm0 2C5.3 4 4 5.3 4 7v10c0 1.7 1.3 3 3 3h10c1.7 0 3-1.3 3-3V7c0-1.7-1.3-3-3-3H7zm5 3.3A4.7 4.7 0 1 1 7.3 12 4.7 4.7 0 0 1 12 7.3zm0 2A2.7 2.7 0 1 0 14.7 12 2.7 2.7 0 0 0 12 9.3zM17.9 6.1a1.2 1.2 0 1 1-1.2 1.2 1.2 1.2 0 0 1 1.2-1.2z"/></svg>
+          </a>
+          <a href="contact.html#contact-form" aria-label="LinkedIn" class="mobile-nav-social">
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 8.5V19h3V8.5h-3zM8 4.5A1.75 1.75 0 1 0 8 8a1.75 1.75 0 0 0 0-3.5zM13 8.5V19h3v-5.7c0-1.5.3-3 2.2-3s1.9 1.7 1.9 3.1V19h3v-5.9c0-3.1-.7-5.6-4.2-5.6-1.7 0-2.9.9-3.4 1.8H15V8.5h-2z"/></svg>
+          </a>
+          <a href="https://wa.me/918600949433" aria-label="WhatsApp" class="mobile-nav-social">
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a9.9 9.9 0 0 0-8.6 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.2c-.2.6-1.1 1.1-1.5 1.1s-1.2.1-2.8-.5-2.8-1.5-3.9-2.8c-1.1-1.3-1.7-2.9-1.8-3.1s-.2-1 .2-1.4.8-.5 1.1-.5h.8c.2 0 .5-.1.8.5.3.6 1.1 2.4 1.2 2.6s.1.4 0 .6-.2.4-.3.6-.4.4-.2.7c.1.3.7 1.2 1.5 1.9 1 .8 1.8 1.1 2.1 1.2.3.1.5.1.7-.1.2-.2.9-1.1 1.1-1.5.2-.4.4-.3.7-.2.3.1 1.8.8 2.1 1s.5.2.6.3c.1.1.1.7-.1 1.3z"/></svg>
+          </a>
+        </div>
+
+        <img loading="lazy" class="mobile-nav-leaf mobile-nav-leaf-tl" src="assets/images/Clip art/ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp" alt="Decorative leaf" aria-hidden="true" />
+        <img loading="lazy" class="mobile-nav-leaf mobile-nav-leaf-br" src="assets/images/Clip art/ChatGPT Image Apr 12, 2026, 11_45_59 PM.webp" alt="Decorative leaf" aria-hidden="true" />
+      </nav>
+    </div>
+
+    <main class="about-page about-reference-page" role="main">
+      <section class="about-reference-hero">
+        <img loading="lazy"
+          class="about-reference-leaf about-reference-leaf-left"
+          src="assets/images/About/ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp"
+          alt="Decorative leaf"
+        />
+        <img loading="lazy"
+          class="about-reference-leaf about-reference-leaf-right"
+          src="assets/images/About/ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp"
+          alt="Decorative leaf"
+        />
+
+        <div class="container about-reference-hero-grid">
+            <div class="about-reference-copy reveal">
+              <p class="eyebrow">About Gratia Global</p>
+              <h1>
+                Purpose-Driven Indian Export Company<br />
+                <span class="about-reference-title-line"
+                  >built for <span>Global Trust</span></span
+                >
+              </h1>
+              <div class="about-reference-divider"></div>
+              <p>
+                Gratia Global brings high-quality, under-recognized Indian
+                products to the global stage with the professionalism,
+                consistency, and positioning they truly deserve.
+              </p>
+              <div class="about-reference-hero-actions">
+                <a class="button button-gold" href="#story">
+                  Discover Our Standard
+                  <span aria-hidden="true">&#8594;</span>
+                </a>
+                <a class="button about-reference-hero-outline-button" href="contact.html">
+                  Partner With Us
+                </a>
+              </div>
+              <div class="about-reference-hero-badges" aria-label="Company strengths">
+                <span>Ethical Sourcing</span>
+                <span>Quality Discipline</span>
+                <span>Global Reliability</span>
+              </div>
+            </div>
+
+            <div class="about-reference-visual reveal">
+              <img loading="lazy"
+                class="about-reference-gold-clip"
+                src="assets/images/Product/golden-hand-drawn-floral-outline-set.webp"
+                alt="Gold botanical clip art decoration"
+                aria-hidden="true"
+              />
+              <div class="about-reference-frame"></div>
+              <img loading="lazy"
+                class="about-reference-image-clipart"
+                src="assets/images/About/f008e0e4-5123-402e-a802-7cbba72ff28c.webp"
+                alt="Natural herbal plant element"
+              />
+              <div class="about-reference-image-shell">
+                <img loading="lazy"
+                  src="assets/images/f008e0e4-5123-402e-a802-7cbba72ff28c.webp"
+                  alt="Gratia Global export facility with truck dispatch"
+                />
+                <div class="about-reference-hero-badge">
+                  <strong>India</strong>
+                  <span>to Global Markets</span>
+                </div>
+              </div>
+            </div>
+        </div>
+      </section>
+
+      <section class="about-reference-stats">
+        <div class="container about-reference-stats-grid">
+          <article class="about-reference-stat reveal">
+            <img loading="lazy"
+              src="assets/images/About/Screenshot_2026-04-13_213833-removebg-preview.webp"
+              alt="Global export reach icon"
+            />
+            <div>
+              <strong>20+</strong>
+              <span>Countries Exported</span>
+            </div>
+          </article>
+
+          <article class="about-reference-stat reveal">
+            <img loading="lazy"
+              src="assets/images/About/Screenshot_2026-04-13_213857-removebg-preview.webp"
+              alt="Happy global clients icon"
+            />
+            <div>
+              <strong>500+</strong>
+              <span>Happy Clients</span>
+            </div>
+          </article>
+
+          <article class="about-reference-stat reveal">
+            <img loading="lazy"
+              src="assets/images/About/Screenshot_2026-04-13_213921-removebg-preview.webp"
+              alt="Premium product catalog icon"
+            />
+            <div>
+              <strong>100+</strong>
+              <span>Premium Products</span>
+            </div>
+          </article>
+
+          <article class="about-reference-stat reveal">
+            <img loading="lazy"
+              src="assets/images/About/Screenshot_2026-04-13_213937-removebg-preview.webp"
+              alt="Years of export experience icon"
+            />
+            <div>
+              <strong>10+</strong>
+              <span>Years of Excellence</span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="about-reference-story" id="story">
+        <div class="container about-reference-story-grid">
+          <div class="about-reference-collage reveal">
+            <img loading="lazy"
+              class="about-reference-collage-main"
+              src="assets/images/About/ChatGPT Image Apr 13, 2026, 09_32_49 PM.webp"
+              alt="Tea leaves being carefully harvested"
+            />
+            <img loading="lazy"
+              class="about-reference-collage-top"
+              src="assets/images/About/ChatGPT Image Apr 13, 2026, 09_34_49 PM.webp"
+              alt="Premium herbal powder in bowl"
+            />
+            <img loading="lazy"
+              class="about-reference-collage-bottom"
+              src="assets/images/About/ChatGPT Image Apr 13, 2026, 09_36_13 PM.webp"
+              alt="Warehouse storage and logistics support"
+            />
+          </div>
+
+          <article class="about-reference-story-copy reveal">
+            <h2>Who We Are</h2>
+            <div class="about-reference-divider"></div>
+            <p>
+              Rooted in India&apos;s rich sourcing ecosystem and supported by
+              modern quality frameworks, we act as a strategic bridge between
+              trusted producers and international buyers who value consistency,
+              authenticity, and long-term reliability.
+            </p>
+            <p>
+              What sets us apart is not just what we export, but how we
+              position, present, and deliver it. We go beyond traditional
+              trading by combining market intelligence, product positioning, and
+              global distribution expertise to transform potential into
+              performance.
+            </p>
+
+            <ul class="about-reference-checks">
+              <li>
+                Trusted producer relationships across India&apos;s sourcing
+                ecosystem
+              </li>
+              <li>Modern quality frameworks for consistent export readiness</li>
+              <li>Strategic product positioning for the right global markets</li>
+              <li>Long-term reliability for international buyers and partners</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="about-reference-values">
+        <div class="container">
+          <div class="about-reference-values-panel">
+            <article class="about-reference-value reveal">
+              <div class="about-reference-value-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214003-removebg-preview.webp"
+                  alt="Company mission icon"
+                />
+              </div>
+              <div class="about-reference-value-copy">
+                <span>01</span>
+                <h3>Our Mission</h3>
+                <p>
+                  To deliver premium-grade Indian products to global markets
+                  through quality discipline, ethical sourcing, and operational
+                  excellence.
+                </p>
+              </div>
+            </article>
+
+            <article class="about-reference-value reveal">
+              <div class="about-reference-value-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214033-removebg-preview.webp"
+                  alt="Company vision icon"
+                />
+              </div>
+              <div class="about-reference-value-copy">
+                <span>02</span>
+                <h3>Our Vision</h3>
+                <p>
+                  To establish Gratia Global as a globally trusted export brand
+                  known for consistency, credibility, and strategic
+                  partnerships.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-reference-approach">
+        <div class="container about-reference-approach-grid">
+          <article class="about-reference-approach-copy reveal">
+            <p class="eyebrow">Our Approach</p>
+            <h2>Value Creation Beyond Conventional Exporting</h2>
+            <div class="about-reference-divider"></div>
+            <p>
+              We identify products with real potential, enhance their global
+              readiness through thoughtful positioning and presentation, and
+              align them with markets where they can create maximum impact.
+            </p>
+            <p>
+              Every product must tell a story of quality, origin, and trust.
+              This allows us to build long-term brand value, not just short-term
+              transactions.
+            </p>
+          </article>
+
+          <div class="about-reference-approach-list reveal">
+            <article>
+              <span>01</span>
+              <h3>Potential First</h3>
+              <p>We select products for real global value, not only demand.</p>
+            </article>
+            <article>
+              <span>02</span>
+              <h3>Global Readiness</h3>
+              <p>We refine presentation, positioning, and buyer communication.</p>
+            </article>
+            <article>
+              <span>03</span>
+              <h3>Market Alignment</h3>
+              <p>We connect each product with suitable international markets.</p>
+            </article>
+            <article>
+              <span>04</span>
+              <h3>Brand Value</h3>
+              <p>We focus on durable partnerships instead of quick transactions.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-reference-benefits">
+        <div class="container">
+          <p class="eyebrow centered">Why Choose Gratia Global</p>
+          <h2 class="section-title reveal">Trust Built Into Every Shipment</h2>
+          <div class="about-reference-divider about-reference-divider-centered"></div>
+
+          <div class="about-reference-benefits-grid">
+            <article class="about-reference-benefit reveal">
+              <div class="about-reference-benefit-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214117-removebg-preview.webp"
+                  alt="Premium Quality assurance icon"
+                />
+              </div>
+              <h3>Quality Assurance</h3>
+              <p>
+                Consistent quality assurance with clearly defined benchmarks.
+              </p>
+            </article>
+
+            <article class="about-reference-benefit reveal">
+              <div class="about-reference-benefit-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214137-removebg-preview.webp"
+                  alt="Sustainable sourcing practices icon"
+                />
+              </div>
+              <h3>Trusted Network</h3>
+              <p>
+                Carefully curated suppliers selected for reliability and
+                accountability.
+              </p>
+            </article>
+
+            <article class="about-reference-benefit reveal">
+              <div class="about-reference-benefit-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214155-removebg-preview.webp"
+                  alt="Customized business solutions icon"
+                />
+              </div>
+              <h3>Export Standards</h3>
+              <p>
+                Product and process alignment with international export
+                expectations.
+              </p>
+            </article>
+
+            <article class="about-reference-benefit reveal">
+              <div class="about-reference-benefit-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214216-removebg-preview.webp"
+                  alt="Timely export delivery icon"
+                />
+              </div>
+              <h3>Global Delivery</h3>
+              <p>
+                Reliable, timely shipment planning with disciplined execution.
+              </p>
+            </article>
+
+            <article class="about-reference-benefit reveal">
+              <div class="about-reference-benefit-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214232-removebg-preview.webp"
+                  alt="Transparent business process icon"
+                />
+              </div>
+              <h3>Clear Communication</h3>
+              <p>
+                Transparent, proactive updates across sourcing, production, and
+                dispatch.
+              </p>
+            </article>
+
+            <article class="about-reference-benefit reveal">
+              <div class="about-reference-benefit-icon">
+                <img loading="lazy"
+                  src="assets/images/About/Screenshot_2026-04-13_214252-removebg-preview.webp"
+                  alt="Customer-first support icon"
+                />
+              </div>
+              <h3>Partnership Focus</h3>
+              <p>
+                Competitive, sustainable pricing designed for long-term
+                business.
+              </p>
+            </article>
+          </div>
+
+          <div class="about-reference-gold-statement reveal">
+            <span aria-hidden="true">"</span>
+            <p>
+              At Gratia Global, we do not just fulfil orders. We build trust
+              with every shipment.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-reference-team">
+        <img loading="lazy"
+          class="about-reference-leaf about-reference-team-leaf"
+          src="assets/images/About/ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp"
+          alt="Decorative leaf"
+          aria-hidden="true"
+        />
+
+        <div class="container">
+          <p class="eyebrow centered">Our Team</p>
+          <h2 class="section-title reveal">The People Behind Our Promise</h2>
+          <p class="about-reference-team-intro reveal">
+            A focused team managing strategy, sourcing, quality, communication,
+            and global delivery with discipline at every step.
+          </p>
+
+          <div class="about-reference-team-grid">
+            <article class="about-reference-team-card reveal">
+              <div class="about-reference-team-image">
+                <img loading="lazy"
+                  src="assets/images/team/strategy-lead.jpg"
+                  alt="Representative founder and export strategy portrait"
+                />
+              </div>
+              <div class="about-reference-team-copy">
+                <span>Leadership</span>
+                <h3>Founder &amp; Export Strategy</h3>
+                <p>
+                  Guides product positioning, international partnerships, and
+                  long-term growth direction for Gratia Global.
+                </p>
+              </div>
+            </article>
+
+            <article class="about-reference-team-card reveal">
+              <div class="about-reference-team-image">
+                <img loading="lazy"
+                  src="assets/images/team/quality-lead.jpg"
+                  alt="Representative quality and compliance portrait"
+                />
+              </div>
+              <div class="about-reference-team-copy">
+                <span>Quality</span>
+                <h3>Quality &amp; Compliance Lead</h3>
+                <p>
+                  Oversees quality benchmarks, documentation discipline, and
+                  export-readiness checks before shipment.
+                </p>
+              </div>
+            </article>
+
+            <article class="about-reference-team-card reveal">
+              <div class="about-reference-team-image">
+                <img loading="lazy"
+                  src="assets/images/team/sourcing-lead.jpg"
+                  alt="Representative sourcing and supplier network portrait"
+                />
+              </div>
+              <div class="about-reference-team-copy">
+                <span>Sourcing</span>
+                <h3>Sourcing &amp; Supplier Network</h3>
+                <p>
+                  Builds trusted producer relationships and selects products
+                  with genuine global potential.
+                </p>
+              </div>
+            </article>
+
+            <article class="about-reference-team-card reveal">
+              <div class="about-reference-team-image">
+                <img loading="lazy"
+                  src="assets/images/team/client-relations-lead.jpg"
+                  alt="Representative client relations and logistics portrait"
+                />
+              </div>
+              <div class="about-reference-team-copy">
+                <span>Execution</span>
+                <h3>Client Relations &amp; Logistics</h3>
+                <p>
+                  Coordinates buyer communication, shipment planning, and
+                  smooth delivery from inquiry to dispatch.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-reference-certs">
+        <img loading="lazy"
+          class="about-reference-leaf about-reference-leaf-bottom-left"
+          src="assets/images/About/ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp"
+          alt="Decorative leaf"
+        />
+        <img loading="lazy"
+          class="about-reference-leaf about-reference-leaf-bottom-right"
+          src="assets/images/About/ChatGPT_Image_Apr_13__2026__10_27_54_PM-removebg-preview.webp"
+          alt="Decorative leaf"
+        />
+
+        <div class="container">
+          <p class="eyebrow centered">Certifications</p>
+          <h2 class="section-title reveal">Quality You Can Trust</h2>
+          <div class="about-reference-divider about-reference-divider-centered"></div>
+
+          <div class="about-reference-cert-grid">
+            <article class="about-reference-cert-card reveal about-reference-cert-text">
+              <span>ISO</span>
+              <strong>22000:2018</strong>
+            </article>
+            <article class="about-reference-cert-card reveal about-reference-cert-text">
+              <span>HACCP</span>
+              <strong>Certified</strong>
+            </article>
+            <article class="about-reference-cert-card reveal">
+              <img loading="lazy"
+                src="assets/images/About/Screenshot_2026-04-13_215105-removebg-preview.webp"
+                alt="FSSAI certified"
+              />
+            </article>
+            <article class="about-reference-cert-card reveal">
+              <img loading="lazy"
+                src="assets/images/About/Screenshot_2026-04-13_215123-removebg-preview.webp"
+                alt="USDA Organic"
+              />
+            </article>
+            <article class="about-reference-cert-card reveal">
+              <img loading="lazy"
+                src="assets/images/About/Screenshot_2026-04-13_215153-removebg-preview.webp"
+                alt="GMP certified"
+              />
+            </article>
+            <article class="about-reference-cert-card reveal">
+              <img loading="lazy"
+                src="assets/images/About/Screenshot_2026-04-13_215212-removebg-preview.webp"
+                alt="APEDA registered"
+              />
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="testimonials-section">
+        <div class="container">
+          <p class="eyebrow centered">Testimonials</p>
+          <h2 class="section-title reveal">Voices From Our Global Buyers</h2>
+          <p class="testimonials-intro reveal">
+            Long-term partners share how our quality consistency, documentation,
+            and reliable delivery have helped their businesses grow.
+          </p>
+
+          <div class="testimonials-swiper swiper reveal">
+            <div class="swiper-wrapper">
+              <article class="testimonial-card swiper-slide">
+                <div class="testimonial-stars" aria-label="5 star rating">
+                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                </div>
+                <p>
+                  "Gratia Global has been a reliable sourcing partner for our retail
+                  chain. Product quality is always consistent and shipments are on
+                  time."
+                </p>
+                <div class="testimonial-author">
+                  <strong>David Morgan</strong>
+                  <span>Procurement Head, UK</span>
+                </div>
+              </article>
+
+              <article class="testimonial-card swiper-slide">
+                <div class="testimonial-stars" aria-label="5 star rating">
+                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                </div>
+                <p>
+                  "Excellent packaging, pure products, and professional communication.
+                  Their team understands export documentation very well."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Fatima Al Noor</strong>
+                  <span>Import Manager, UAE</span>
+                </div>
+              </article>
+
+              <article class="testimonial-card swiper-slide">
+                <div class="testimonial-stars" aria-label="5 star rating">
+                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                </div>
+                <p>
+                  "From sample approval to final delivery, the complete process was
+                  smooth. We highly recommend Gratia Global for bulk requirements."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Michael Chen</strong>
+                  <span>Distributor, Singapore</span>
+                </div>
+              </article>
+
+              <article class="testimonial-card swiper-slide">
+                <div class="testimonial-stars" aria-label="5 star rating">
+                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                </div>
+                <p>
+                  "Their response speed and transparency stand out. We always get
+                  accurate shipment timelines and complete export paperwork support."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Sofia Ramirez</strong>
+                  <span>Category Manager, Spain</span>
+                </div>
+              </article>
+            </div>
+
+            <div class="testimonials-swiper-controls">
+              <button
+                class="testimonials-swiper-button testimonials-swiper-button-prev"
+                type="button"
+                aria-label="Previous testimonial"
+              >
+                &#8592;
+              </button>
+              <div class="testimonials-swiper-pagination"></div>
+              <button
+                class="testimonials-swiper-button testimonials-swiper-button-next"
+                type="button"
+                aria-label="Next testimonial"
+              >
+                &#8594;
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="container footer-grid">
+        <div class="footer-branding">
+          <a
+            href="index.html#home"
+            class="brand footer-brand"
+            aria-label="Gratia Global Home"
+          >
+            <img loading="lazy"
+              src="assets/images/Logo.webp"
+              alt="Gratia Global Logo"
+              class="brand-logo footer-brand-logo"
+            />
+          </a>
+          <p>
+            Exporting premium agro and herbal products worldwide with trust,
+            quality, and consistent delivery standards.
+          </p>
+          <div class="social-row">
+            <a href="contact.html#contact-form" aria-label="Facebook">
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 9h2V6h-2c-1.7 0-3 1.3-3 3v2H9v3h2v7h3v-7h2.2l.8-3H14V9c0-.6.4-1 1-1z"/></svg>
+            </a>
+            <a href="contact.html#contact-form" aria-label="Instagram">
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10c2.8 0 5 2.2 5 5v10c0 2.8-2.2 5-5 5H7c-2.8 0-5-2.2-5-5V7c0-2.8 2.2-5 5-5zm0 2C5.3 4 4 5.3 4 7v10c0 1.7 1.3 3 3 3h10c1.7 0 3-1.3 3-3V7c0-1.7-1.3-3-3-3H7zm5 3.3A4.7 4.7 0 1 1 7.3 12 4.7 4.7 0 0 1 12 7.3zm0 2A2.7 2.7 0 1 0 14.7 12 2.7 2.7 0 0 0 12 9.3zM17.9 6.1a1.2 1.2 0 1 1-1.2 1.2 1.2 1.2 0 0 1 1.2-1.2z"/></svg>
+            </a>
+            <a href="contact.html#contact-form" aria-label="LinkedIn">
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 8.5V19h3V8.5h-3zM8 4.5A1.75 1.75 0 1 0 8 8a1.75 1.75 0 0 0 0-3.5zM13 8.5V19h3v-5.7c0-1.5.3-3 2.2-3s1.9 1.7 1.9 3.1V19h3v-5.9c0-3.1-.7-5.6-4.2-5.6-1.7 0-2.9.9-3.4 1.8H15V8.5h-2z"/></svg>
+            </a>
+            <a href="https://wa.me/918600949433" aria-label="WhatsApp">
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a9.9 9.9 0 0 0-8.6 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.2c-.2.6-1.1 1.1-1.5 1.1s-1.2.1-2.8-.5-2.8-1.5-3.9-2.8c-1.1-1.3-1.7-2.9-1.8-3.1s-.2-1 .2-1.4.8-.5 1.1-.5h.8c.2 0 .5-.1.8.5.3.6 1.1 2.4 1.2 2.6s.1.4 0 .6-.2.4-.3.6-.4.4-.2.7c.1.3.7 1.2 1.5 1.9 1 .8 1.8 1.1 2.1 1.2.3.1.5.1.7-.1.2-.2.9-1.1 1.1-1.5.2-.4.4-.3.7-.2.3.1 1.8.8 2.1 1s.5.2.6.3c.1.1.1.7-.1 1.3z"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <nav aria-label="Footer Quick Links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="index.html#home">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="product.html">Products</a></li>
+            <li><a href="index.html#services">Services</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+          </ul>
+        </nav>
+
+        <section aria-labelledby="about-footer-products-title">
+          <h3 id="about-footer-products-title">Our Products</h3>
+          <ul>
+            <li><a href="product.html">Herbal Powders</a></li>
+            <li><a href="product.html">Spices &amp; Herbs</a></li>
+            <li><a href="product.html">Dry Vegetables</a></li>
+            <li><a href="product.html">Pickles</a></li>
+            <li><a href="product.html">Pulses &amp; Grains</a></li>
+          </ul>
+        </section>
+
+        <section aria-labelledby="about-footer-contact-title">
+          <h3 id="about-footer-contact-title">Contact Info</h3>
+          <address>
+            <ul class="contact-list">
+              <li>
+                <span class="footer-contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.2 2.3 3.3 4.4 5.6 5.6l1.9-1.9c.2-.2.5-.3.8-.2 1 .3 2 .4 3.1.4.4 0 .7.3.7.7V19c0 .4-.3.8-.7.8C10.5 19.8 4.2 13.5 4.2 5.7c0-.4.3-.7.7-.7h3.6c.4 0 .7.3.7.7 0 1.1.1 2.1.4 3.1.1.3 0 .6-.2.8l-1.8 1.2z"/></svg></span><a href="tel:+918600949433">+91 86009 49433</a>
+              </li>
+              <li>
+                <span class="footer-contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 6h16c1.1 0 2 .9 2 2v8c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2zm0 2v.2l8 5.3 8-5.3V8H4zm16 8V10l-7.4 4.9c-.3.2-.7.2-1 0L4 10v6h16z"/></svg></span
+                ><a href="mailto:info@gratiaglobal.com">info@gratiaglobal.com</a>
+              </li>
+              <li>
+                <span class="footer-contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.3c-1.3 0-2.3-1-2.3-2.3S10.7 6.7 12 6.7s2.3 1 2.3 2.3-1 2.3-2.3 2.3z"/></svg></span
+                ><a href="https://maps.google.com/?q=A-1%20Export%20House%20Indore%20Madhya%20Pradesh%20India">A-1, Export House, Indore, Madhya Pradesh, India</a>
+              </li>
+            </ul>
+          </address>
+        </section>
+
+      </div>
+    </footer>
+
+    <script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+    <script type="module" src="motion-init.js"></script>
+    <script src="gsap-scroll-animations.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
