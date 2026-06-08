@@ -2459,6 +2459,7 @@ body.is-loading { overflow: hidden; }
   width: fit-content;
   min-width: 272px;
   margin-top: 2px;
+  border: 0;
 }
 
 .contact-form-note {
