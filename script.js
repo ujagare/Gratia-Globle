@@ -23,7 +23,9 @@ const eagerImageSelectors = [
   ".contact-hero-image-wrap img",
 ];
 const eagerImages = new Set(
-  eagerImageSelectors.flatMap((selector) => Array.from(document.querySelectorAll(selector))),
+  eagerImageSelectors.flatMap((selector) =>
+    Array.from(document.querySelectorAll(selector)),
+  ),
 );
 
 siteImages.forEach((image) => {
@@ -45,7 +47,8 @@ const updateHeroBackgroundSources = () => {
   heroBackgrounds.forEach((background) => {
     const desktopImage = background.getAttribute("data-desktop-image");
     const mobileImage = background.getAttribute("data-mobile-image");
-    const selectedImage = useMobileImages && mobileImage ? mobileImage : desktopImage;
+    const selectedImage =
+      useMobileImages && mobileImage ? mobileImage : desktopImage;
 
     if (selectedImage) {
       background.style.backgroundImage = `url("${selectedImage}")`;
@@ -102,7 +105,9 @@ document.querySelectorAll(".reveal").forEach((element) => {
   observer.observe(element);
 });
 
-const allTrackedForms = document.querySelectorAll("form.newsletter-form, form.contact-form-grid");
+const allTrackedForms = document.querySelectorAll(
+  "form.newsletter-form, form.contact-form-grid",
+);
 
 const ensureFormLoadedAt = (form) => {
   const formLoadedAtInput = form.querySelector('input[name="form_loaded_at"]');
@@ -117,7 +122,9 @@ const ensureFormLoadedAt = (form) => {
 
   if (Number.isNaN(Number(formLoadedAtInput.value))) {
     const parsedDate = Date.parse(formLoadedAtInput.value);
-    formLoadedAtInput.value = String(Number.isNaN(parsedDate) ? Date.now() : parsedDate);
+    formLoadedAtInput.value = String(
+      Number.isNaN(parsedDate) ? Date.now() : parsedDate,
+    );
   }
 };
 
@@ -156,9 +163,12 @@ const showContactToast = (message, type) => {
   toast.classList.add("is-visible");
 
   window.clearTimeout(toast.hideTimer);
-  toast.hideTimer = window.setTimeout(() => {
-    toast.classList.remove("is-visible");
-  }, type === "success" ? 6000 : 4500);
+  toast.hideTimer = window.setTimeout(
+    () => {
+      toast.classList.remove("is-visible");
+    },
+    type === "success" ? 6000 : 4500,
+  );
 };
 
 const submitFormData = async (form) => {
@@ -187,7 +197,10 @@ const submitFormData = async (form) => {
   }
 
   if (!response.ok) {
-    const message = payload && payload.error ? payload.error : "Form submit failed. Please try again.";
+    const message =
+      payload && payload.error
+        ? payload.error
+        : "Form submit failed. Please try again.";
     throw new Error(message);
   }
 
@@ -214,7 +227,11 @@ newsletterForms.forEach((newsletterForm) => {
     if (!isValidEmail) {
       input.setCustomValidity("Please enter a valid email address.");
       input.reportValidity();
-      setFormMessage(newsletterForm, "Please enter a valid email address.", "error");
+      setFormMessage(
+        newsletterForm,
+        "Please enter a valid email address.",
+        "error",
+      );
       return;
     }
 
@@ -234,7 +251,11 @@ newsletterForms.forEach((newsletterForm) => {
       await submitFormData(newsletterForm);
       newsletterForm.reset();
       ensureFormLoadedAt(newsletterForm);
-      setFormMessage(newsletterForm, "Thank you. You have been subscribed successfully.", "success");
+      setFormMessage(
+        newsletterForm,
+        "Thank you. You have been subscribed successfully.",
+        "success",
+      );
     } catch (error) {
       setFormMessage(newsletterForm, error.message, "error");
     } finally {
@@ -266,7 +287,11 @@ if (contactForm) {
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       emailInput.setCustomValidity("Please enter a valid email address.");
       emailInput.reportValidity();
-      setFormMessage(contactForm, "Please enter a valid email address.", "error");
+      setFormMessage(
+        contactForm,
+        "Please enter a valid email address.",
+        "error",
+      );
       return;
     }
 
@@ -287,7 +312,11 @@ if (contactForm) {
       await submitFormData(contactForm);
       contactForm.reset();
       ensureFormLoadedAt(contactForm);
-      setFormMessage(contactForm, "Your message has been sent successfully.", "success");
+      setFormMessage(
+        contactForm,
+        "Your message has been sent successfully.",
+        "success",
+      );
     } catch (error) {
       setFormMessage(contactForm, error.message, "error");
     } finally {
@@ -329,7 +358,9 @@ faqAccordionItems.forEach((item) => {
 const heroSwiperElement = document.querySelector(".hero-swiper");
 
 if (heroSwiperElement && window.Swiper && window.gsap) {
-  const heroSlides = Array.from(heroSwiperElement.querySelectorAll(".hero-slide"));
+  const heroSlides = Array.from(
+    heroSwiperElement.querySelectorAll(".hero-slide"),
+  );
 
   heroSlides.forEach((slide) => {
     const heroCopy = slide.querySelector(".hero-copy");
@@ -339,7 +370,10 @@ if (heroSwiperElement && window.Swiper && window.gsap) {
     }
 
     Array.from(heroCopy.children).forEach((child) => {
-      if (child.parentElement && child.parentElement.classList.contains("hero-copy-clip")) {
+      if (
+        child.parentElement &&
+        child.parentElement.classList.contains("hero-copy-clip")
+      ) {
         return;
       }
 
@@ -433,7 +467,9 @@ if (heroSwiperElement && window.Swiper && window.gsap) {
   }
 }
 
-const testimonialsSwiperElement = document.querySelector(".testimonials-swiper");
+const testimonialsSwiperElement = document.querySelector(
+  ".testimonials-swiper",
+);
 
 if (testimonialsSwiperElement && window.Swiper) {
   new window.Swiper(testimonialsSwiperElement, {
@@ -540,3 +576,43 @@ if (testimonialsSwiperElement && window.Swiper) {
     }
   });
 })();
+
+// Animated Counter for Stats
+function animateCounter(element) {
+  const target = parseInt(element.getAttribute("data-target"));
+  const duration = 2000; // 2 seconds
+  const increment = target / (duration / 16); // 60fps
+  let current = 0;
+
+  const timer = setInterval(() => {
+    current += increment;
+    if (current >= target) {
+      current = target;
+      clearInterval(timer);
+    }
+    element.textContent = Math.floor(current);
+  }, 16);
+}
+
+// Intersection Observer for Counter Animation
+const counterObserver = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting && !entry.target.classList.contains("counted")) {
+        entry.target.classList.add("counted");
+        animateCounter(entry.target);
+      }
+    });
+  },
+  {
+    threshold: 0.5,
+  },
+);
+
+// Observe all counter elements
+document.addEventListener("DOMContentLoaded", () => {
+  const counters = document.querySelectorAll(".counter");
+  counters.forEach((counter) => {
+    counterObserver.observe(counter);
+  });
+});

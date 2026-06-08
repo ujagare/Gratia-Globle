@@ -8,7 +8,10 @@
       name="description"
       content="Gratia Global exports premium agro and herbal products from India — bulk buyers, private label brands, and B2B importers. Request a free quote today."
     />
-    <meta name="keywords" content="herbal powder exporter India, agro products export India, bulk curry leaves powder, turmeric powder bulk supplier, amla powder exporter, ashwagandha powder export, onion powder supplier India, herbal products B2B export, private label herbal products, Gratia Global" />
+    <meta
+      name="keywords"
+      content="herbal powder exporter India, agro products export India, bulk curry leaves powder, turmeric powder bulk supplier, amla powder exporter, ashwagandha powder export, onion powder supplier India, herbal products B2B export, private label herbal products, Gratia Global"
+    />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="author" content="Gratia Global" />
     <meta name="theme-color" content="#a67c2d" />
@@ -50,7 +53,10 @@
     />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Gratia Global - Premium Herbal &amp; Agro Product Exporter from India" />
+    <meta
+      property="og:image:alt"
+      content="Gratia Global - Premium Herbal &amp; Agro Product Exporter from India"
+    />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content="https://www.gratiaglobal.com/" />
     <meta
@@ -86,10 +92,10 @@
         },
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "A-1, Export House",
-          "addressLocality": "Indore",
-          "addressRegion": "Madhya Pradesh",
-          "postalCode": "452010",
+          "streetAddress": "Bhugaon",
+          "addressLocality": "Pune",
+          "addressRegion": "Maharashtra",
+          "postalCode": "411042",
           "addressCountry": "IN"
         },
         "sameAs": [
@@ -208,7 +214,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Featured Premium Products",
-          "url": "https://www.gratiaglobal.com/products",
+        "url": "https://www.gratiaglobal.com/products",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -326,7 +332,10 @@
     <link rel="stylesheet" href="styles.css" />
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2KMCPYZSN7"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-2KMCPYZSN7"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -375,7 +384,8 @@
         }
 
         const script = document.createElement("script");
-        script.src = "https://browser.sentry-cdn.com/8.33.1/bundle.tracing.min.js";
+        script.src =
+          "https://browser.sentry-cdn.com/8.33.1/bundle.tracing.min.js";
         script.crossOrigin = "anonymous";
         script.onload = () => {
           if (window.Sentry) {
@@ -401,8 +411,12 @@
     </noscript>
 
     <!-- ═══ PREMIUM LUXURY PRELOADER ═══ -->
-    <div class="preloader" id="sitePreloader" aria-hidden="true" aria-label="Loading">
-
+    <div
+      class="preloader"
+      id="sitePreloader"
+      aria-hidden="true"
+      aria-label="Loading"
+    >
       <!-- Curtain split panels -->
       <div class="preloader-curtain-top"></div>
       <div class="preloader-curtain-bottom"></div>
@@ -421,33 +435,39 @@
         <span class="preloader-count" id="preloaderCount">1<sup>%</sup></span>
         <div class="preloader-sep"></div>
         <span class="preloader-name">Gratia Global</span>
-        <span class="preloader-tagline">Natural &bull; Organic &bull; Trusted</span>
+        <span class="preloader-tagline"
+          >Natural &bull; Organic &bull; Trusted</span
+        >
       </div>
 
       <!-- Bottom label -->
       <span class="preloader-label">Loading &mdash; Please wait</span>
-
     </div>
     <script>
       (function () {
-        document.body.classList.add('is-loading');
-        var el    = document.getElementById('preloaderCount');
-        var pre   = document.getElementById('sitePreloader');
+        document.body.classList.add("is-loading");
+        var el = document.getElementById("preloaderCount");
+        var pre = document.getElementById("sitePreloader");
         var count = 1;
-        var done  = false;
+        var done = false;
 
         function setCount(n) {
-          if (el) el.innerHTML = n + '<sup>%</sup>';
+          if (el) el.innerHTML = n + "<sup>%</sup>";
         }
 
         var timer = setInterval(function () {
           if (done) return;
-          var step = count < 60 ? Math.floor(Math.random() * 5) + 2
-                   : count < 90 ? Math.floor(Math.random() * 3) + 1
-                   : 1;
+          var step =
+            count < 60
+              ? Math.floor(Math.random() * 5) + 2
+              : count < 90
+                ? Math.floor(Math.random() * 3) + 1
+                : 1;
           count = Math.min(count + step, 100);
           setCount(count);
-          if (count >= 100) { clearInterval(timer); }
+          if (count >= 100) {
+            clearInterval(timer);
+          }
         }, 12);
 
         function hide() {
@@ -456,26 +476,31 @@
           setCount(100);
           setTimeout(function () {
             if (pre) {
-              pre.classList.add('is-hidden');
-              document.body.classList.remove('is-loading');
-              setTimeout(function () { pre.style.display = 'none'; }, 250);
+              pre.classList.add("is-hidden");
+              document.body.classList.remove("is-loading");
+              setTimeout(function () {
+                pre.style.display = "none";
+              }, 250);
             }
           }, 120);
         }
 
-        if (document.readyState === 'complete') { setTimeout(hide, 120); }
-        else { window.addEventListener('load', function () { setTimeout(hide, 120); }); }
+        if (document.readyState === "complete") {
+          setTimeout(hide, 120);
+        } else {
+          window.addEventListener("load", function () {
+            setTimeout(hide, 120);
+          });
+        }
         setTimeout(hide, 900);
       })();
     </script>
 
-
-
-
     <header class="site-header" role="banner">
       <div class="container header-row">
         <a href="#home" class="brand" aria-label="Gratia Global Home">
-          <img loading="lazy"
+          <img
+            loading="lazy"
             src="assets/images/Logo.webp"
             alt="Gratia Global Logo"
             class="brand-logo"
@@ -517,8 +542,17 @@
       <nav class="mobile-nav-panel" aria-label="Mobile Navigation">
         <!-- Panel Header -->
         <div class="mobile-nav-header">
-          <a href="#home" class="mobile-nav-brand" aria-label="Gratia Global Home">
-            <img loading="lazy" src="assets/images/Logo.webp" alt="Gratia Global Logo" class="mobile-nav-logo" />
+          <a
+            href="#home"
+            class="mobile-nav-brand"
+            aria-label="Gratia Global Home"
+          >
+            <img
+              loading="lazy"
+              src="assets/images/Logo.webp"
+              alt="Gratia Global Logo"
+              class="mobile-nav-logo"
+            />
             <div class="mobile-nav-brand-text">
               <strong>Gratia Global</strong>
               <small>Premium Agro &amp; Herbal Exports</small>
@@ -542,7 +576,21 @@
           <li>
             <a href="#home" class="mobile-nav-link is-active">
               <span class="mobile-nav-link-icon">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5z"/><polyline points="9 21 9 14 15 14 15 21"/></svg>
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5z"
+                  />
+                  <polyline points="9 21 9 14 15 14 15 21" />
+                </svg>
               </span>
               <span>Home</span>
               <span class="mobile-nav-link-arrow">&#8594;</span>
@@ -551,7 +599,19 @@
           <li>
             <a href="about.html" class="mobile-nav-link">
               <span class="mobile-nav-link-icon">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M20 21a8 8 0 0 0-16 0"/></svg>
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <circle cx="12" cy="8" r="4" />
+                  <path d="M20 21a8 8 0 0 0-16 0" />
+                </svg>
               </span>
               <span>About Us</span>
               <span class="mobile-nav-link-arrow">&#8594;</span>
@@ -560,7 +620,22 @@
           <li>
             <a href="product.html" class="mobile-nav-link">
               <span class="mobile-nav-link-icon">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"
+                  />
+                  <polyline points="3.27 6.96 12 12.01 20.73 6.96" />
+                  <line x1="12" y1="22.08" x2="12" y2="12" />
+                </svg>
               </span>
               <span>Products</span>
               <span class="mobile-nav-link-arrow">&#8594;</span>
@@ -569,7 +644,20 @@
           <li>
             <a href="#services" class="mobile-nav-link">
               <span class="mobile-nav-link-icon">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M12 2L2 7l10 5 10-5-10-5z" />
+                  <path d="M2 17l10 5 10-5" />
+                  <path d="M2 12l10 5 10-5" />
+                </svg>
               </span>
               <span>Services</span>
               <span class="mobile-nav-link-arrow">&#8594;</span>
@@ -578,7 +666,21 @@
           <li>
             <a href="contact.html" class="mobile-nav-link">
               <span class="mobile-nav-link-icon">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                  />
+                  <polyline points="22,6 12,13 2,6" />
+                </svg>
               </span>
               <span>Contact Us</span>
               <span class="mobile-nav-link-arrow">&#8594;</span>
@@ -595,8 +697,14 @@
 
         <!-- Contact strip -->
         <div class="mobile-nav-contact">
-          <a href="tel:+918600949433" class="mobile-nav-contact-item"><span class="mobile-nav-contact-icon">&#128222;</span><span>+91 86009 49433</span></a>
-          <a href="mailto:info@gratiaglobal.com" class="mobile-nav-contact-item">
+          <a href="tel:+918600949433" class="mobile-nav-contact-item"
+            ><span class="mobile-nav-contact-icon">&#128222;</span
+            ><span>+91 86009 49433</span></a
+          >
+          <a
+            href="mailto:info@gratiaglobal.com"
+            class="mobile-nav-contact-item"
+          >
             <span class="mobile-nav-contact-icon">&#9993;</span>
             <span>info@gratiaglobal.com</span>
           </a>
@@ -604,37 +712,86 @@
 
         <!-- Social links -->
         <div class="mobile-nav-socials">
-          <a href="contact.html#contact-form" aria-label="Facebook" class="mobile-nav-social">
-            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 9h2V6h-2c-1.7 0-3 1.3-3 3v2H9v3h2v7h3v-7h2.2l.8-3H14V9c0-.6.4-1 1-1z"/></svg>
+          <a
+            href="contact.html#contact-form"
+            aria-label="Facebook"
+            class="mobile-nav-social"
+          >
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M14 9h2V6h-2c-1.7 0-3 1.3-3 3v2H9v3h2v7h3v-7h2.2l.8-3H14V9c0-.6.4-1 1-1z"
+              />
+            </svg>
           </a>
-          <a href="contact.html#contact-form" aria-label="Instagram" class="mobile-nav-social">
-            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10c2.8 0 5 2.2 5 5v10c0 2.8-2.2 5-5 5H7c-2.8 0-5-2.2-5-5V7c0-2.8 2.2-5 5-5zm0 2C5.3 4 4 5.3 4 7v10c0 1.7 1.3 3 3 3h10c1.7 0 3-1.3 3-3V7c0-1.7-1.3-3-3-3H7zm5 3.3A4.7 4.7 0 1 1 7.3 12 4.7 4.7 0 0 1 12 7.3zm0 2A2.7 2.7 0 1 0 14.7 12 2.7 2.7 0 0 0 12 9.3zM17.9 6.1a1.2 1.2 0 1 1-1.2 1.2 1.2 1.2 0 0 1 1.2-1.2z"/></svg>
+          <a
+            href="contact.html#contact-form"
+            aria-label="Instagram"
+            class="mobile-nav-social"
+          >
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M7 2h10c2.8 0 5 2.2 5 5v10c0 2.8-2.2 5-5 5H7c-2.8 0-5-2.2-5-5V7c0-2.8 2.2-5 5-5zm0 2C5.3 4 4 5.3 4 7v10c0 1.7 1.3 3 3 3h10c1.7 0 3-1.3 3-3V7c0-1.7-1.3-3-3-3H7zm5 3.3A4.7 4.7 0 1 1 7.3 12 4.7 4.7 0 0 1 12 7.3zm0 2A2.7 2.7 0 1 0 14.7 12 2.7 2.7 0 0 0 12 9.3zM17.9 6.1a1.2 1.2 0 1 1-1.2 1.2 1.2 1.2 0 0 1 1.2-1.2z"
+              />
+            </svg>
           </a>
-          <a href="contact.html#contact-form" aria-label="LinkedIn" class="mobile-nav-social">
-            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 8.5V19h3V8.5h-3zM8 4.5A1.75 1.75 0 1 0 8 8a1.75 1.75 0 0 0 0-3.5zM13 8.5V19h3v-5.7c0-1.5.3-3 2.2-3s1.9 1.7 1.9 3.1V19h3v-5.9c0-3.1-.7-5.6-4.2-5.6-1.7 0-2.9.9-3.4 1.8H15V8.5h-2z"/></svg>
+          <a
+            href="contact.html#contact-form"
+            aria-label="LinkedIn"
+            class="mobile-nav-social"
+          >
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M6.5 8.5V19h3V8.5h-3zM8 4.5A1.75 1.75 0 1 0 8 8a1.75 1.75 0 0 0 0-3.5zM13 8.5V19h3v-5.7c0-1.5.3-3 2.2-3s1.9 1.7 1.9 3.1V19h3v-5.9c0-3.1-.7-5.6-4.2-5.6-1.7 0-2.9.9-3.4 1.8H15V8.5h-2z"
+              />
+            </svg>
           </a>
-          <a href="https://wa.me/918600949433" aria-label="WhatsApp" class="mobile-nav-social">
-            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a9.9 9.9 0 0 0-8.6 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.2c-.2.6-1.1 1.1-1.5 1.1s-1.2.1-2.8-.5-2.8-1.5-3.9-2.8c-1.1-1.3-1.7-2.9-1.8-3.1s-.2-1 .2-1.4.8-.5 1.1-.5h.8c.2 0 .5-.1.8.5.3.6 1.1 2.4 1.2 2.6s.1.4 0 .6-.2.4-.3.6-.4.4-.2.7c.1.3.7 1.2 1.5 1.9 1 .8 1.8 1.1 2.1 1.2.3.1.5.1.7-.1.2-.2.9-1.1 1.1-1.5.2-.4.4-.3.7-.2.3.1 1.8.8 2.1 1s.5.2.6.3c.1.1.1.7-.1 1.3z"/></svg>
+          <a
+            href="https://wa.me/918600949433"
+            aria-label="WhatsApp"
+            class="mobile-nav-social"
+          >
+            <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M12 2a9.9 9.9 0 0 0-8.6 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.2c-.2.6-1.1 1.1-1.5 1.1s-1.2.1-2.8-.5-2.8-1.5-3.9-2.8c-1.1-1.3-1.7-2.9-1.8-3.1s-.2-1 .2-1.4.8-.5 1.1-.5h.8c.2 0 .5-.1.8.5.3.6 1.1 2.4 1.2 2.6s.1.4 0 .6-.2.4-.3.6-.4.4-.2.7c.1.3.7 1.2 1.5 1.9 1 .8 1.8 1.1 2.1 1.2.3.1.5.1.7-.1.2-.2.9-1.1 1.1-1.5.2-.4.4-.3.7-.2.3.1 1.8.8 2.1 1s.5.2.6.3c.1.1.1.7-.1 1.3z"
+              />
+            </svg>
           </a>
         </div>
 
         <!-- Leaf decorations -->
-        <img loading="lazy" class="mobile-nav-leaf mobile-nav-leaf-tl" src="assets/images/Clip art/herbal-leaf-decoration-gratia-global.webp" alt="Decorative leaf" aria-hidden="true" />
-        <img loading="lazy" class="mobile-nav-leaf mobile-nav-leaf-br" src="assets/images/Clip art/herbal-leaf-decoration-gratia-global.webp" alt="Decorative leaf" aria-hidden="true" />
+        <img
+          loading="lazy"
+          class="mobile-nav-leaf mobile-nav-leaf-tl"
+          src="assets/images/Clip art/herbal-leaf-decoration-gratia-global.webp"
+          alt="Decorative leaf"
+          aria-hidden="true"
+        />
+        <img
+          loading="lazy"
+          class="mobile-nav-leaf mobile-nav-leaf-br"
+          src="assets/images/Clip art/herbal-leaf-decoration-gratia-global.webp"
+          alt="Decorative leaf"
+          aria-hidden="true"
+        />
       </nav>
     </div>
 
     <main class="home-page" role="main">
       <section class="hero-section" id="home">
-        <h1 class="sr-only">Premium Agro &amp; Herbal Product Exporter from India | Bulk Herbal Powders, Spices &amp; Organic Products</h1>
+        <h1 class="sr-only">
+          Premium Agro &amp; Herbal Product Exporter from India | Bulk Herbal
+          Powders, Spices &amp; Organic Products
+        </h1>
         <div class="hero-backdrop"></div>
         <div class="hero-map"></div>
-        <img loading="lazy"
+        <img
+          loading="lazy"
           class="hero-leaf hero-leaf-left"
           src="assets/images/Clip art/herbal-leaf-decoration-gratia-global.webp"
           alt="Decorative herbal leaf element"
         />
-        <img loading="lazy"
+        <img
+          loading="lazy"
           class="hero-leaf hero-leaf-bottom"
           src="assets/images/Clip art/herbal-leaf-decoration-gratia-global.webp"
           alt="Decorative herbal leaf element"
@@ -647,7 +804,9 @@
                 class="hero-slide-background"
                 data-desktop-image="assets/images/slider/curry-leaves-powder-exporter-india.webp"
                 data-mobile-image="assets/images/mobile/curry-leaves-powder-mobile-exporter-india.webp"
-                style="background-image: url('assets/images/slider/curry-leaves-powder-exporter-india.webp');"
+                style="
+                  background-image: url(&quot;assets/images/slider/curry-leaves-powder-exporter-india.webp&quot;);
+                "
               ></div>
               <div class="container hero-slide-content">
                 <div class="hero-copy">
@@ -683,7 +842,9 @@
                 class="hero-slide-background"
                 data-desktop-image="assets/images/slider/onion-powder-bulk-supplier-india.webp"
                 data-mobile-image="assets/images/mobile/onion-powder-mobile-supplier-india.webp"
-                style="background-image: url('assets/images/slider/onion-powder-bulk-supplier-india.webp');"
+                style="
+                  background-image: url(&quot;assets/images/slider/onion-powder-bulk-supplier-india.webp&quot;);
+                "
               ></div>
               <div class="container hero-slide-content">
                 <div class="hero-copy">
@@ -719,7 +880,9 @@
                 class="hero-slide-background"
                 data-desktop-image="assets/images/slider/amla-powder-export-quality-india.webp"
                 data-mobile-image="assets/images/mobile/amla-powder-mobile-exporter-india.webp"
-                style="background-image: url('assets/images/slider/amla-powder-export-quality-india.webp');"
+                style="
+                  background-image: url(&quot;assets/images/slider/amla-powder-export-quality-india.webp&quot;);
+                "
               ></div>
               <div class="container hero-slide-content">
                 <div class="hero-copy">
@@ -729,7 +892,9 @@
                     <span class="hero-title-line hero-title-accent"
                       >Amla Powder</span
                     >
-                    <span class="hero-title-line">with Export-Grade Quality</span>
+                    <span class="hero-title-line"
+                      >with Export-Grade Quality</span
+                    >
                   </h2>
                   <p class="hero-text">
                     Sourced for wellness brands, supplement importers, and
@@ -755,7 +920,9 @@
                 class="hero-slide-background"
                 data-desktop-image="assets/images/slider/ashwagandha-powder-herbal-exporter-india.webp"
                 data-mobile-image="assets/images/mobile/ashwagandha-powder-mobile-exporter-india.webp"
-                style="background-image: url('assets/images/slider/ashwagandha-powder-herbal-exporter-india.webp');"
+                style="
+                  background-image: url(&quot;assets/images/slider/ashwagandha-powder-herbal-exporter-india.webp&quot;);
+                "
               ></div>
               <div class="container hero-slide-content">
                 <div class="hero-copy">
@@ -791,7 +958,9 @@
                 class="hero-slide-background"
                 data-desktop-image="assets/images/slider/turmeric-powder-bulk-exporter-india.webp"
                 data-mobile-image="assets/images/mobile/turmeric-powder-mobile-exporter-india.webp"
-                style="background-image: url('assets/images/slider/turmeric-powder-bulk-exporter-india.webp');"
+                style="
+                  background-image: url(&quot;assets/images/slider/turmeric-powder-bulk-exporter-india.webp&quot;);
+                "
               ></div>
               <div class="container hero-slide-content">
                 <div class="hero-copy">
@@ -849,7 +1018,8 @@
         <div class="container trust-grid">
           <article class="trust-card reveal">
             <div class="trust-icon">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/png icons/natural-products-icon-gratia-global.webp"
                 alt="100% Natural products icon"
               />
@@ -862,7 +1032,8 @@
 
           <article class="trust-card reveal">
             <div class="trust-icon">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/png icons/premium-quality-icon-gratia-global.webp"
                 alt="Premium Quality standards icon"
               />
@@ -875,7 +1046,8 @@
 
           <article class="trust-card reveal">
             <div class="trust-icon">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/png icons/global-reach-export-icon-gratia-global.webp"
                 alt="Global Reach export icon"
               />
@@ -888,7 +1060,8 @@
 
           <article class="trust-card reveal">
             <div class="trust-icon">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/png icons/bulk-supply-logistics-icon-gratia-global.webp"
                 alt="Bulk Supply and logistics icon"
               />
@@ -910,7 +1083,8 @@
 
           <div class="product-grid">
             <article class="product-card reveal">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/curry-leaves-powder-bulk-exporter-india.webp"
                 alt="Curry leaves powder"
               />
@@ -927,7 +1101,8 @@
             </article>
 
             <article class="product-card reveal">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/onion-powder-bulk-supplier-india.webp"
                 alt="Curry leaves whole"
               />
@@ -944,7 +1119,8 @@
             </article>
 
             <article class="product-card reveal">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/amla-powder-exporter-india.webp"
                 alt="Onion powder"
               />
@@ -961,7 +1137,8 @@
             </article>
 
             <article class="product-card reveal">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/ashwagandha-powder-herbal-exporter-india.webp"
                 alt="Dry onion flakes"
               />
@@ -978,7 +1155,8 @@
             </article>
 
             <article class="product-card reveal">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/turmeric-powder-bulk-exporter-india.webp"
                 alt="Amla powder"
               />
@@ -995,7 +1173,8 @@
             </article>
 
             <article class="product-card reveal">
-              <img loading="lazy"
+              <img
+                loading="lazy"
                 src="assets/images/turmeric-powder-bulk-exporter-india-gratia-global.webp"
                 alt="Turmeric powder"
               />
@@ -1034,40 +1213,49 @@
 
             <div class="stats-row">
               <div class="stat">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/sustainable-practices-icon-gratia-global.webp"
                   alt="Achievement award icon"
                 />
-                <strong>10+</strong>
+                <strong class="counter" data-target="10">0</strong
+                ><span class="counter-suffix">+</span>
                 <span>Years of Experience</span>
               </div>
               <div class="stat">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/ChatGPT Image Apr 12, 2026, 11_35_44 PM.webp"
                   alt="Happy clients icon"
                 />
-                <strong>500+</strong>
+                <strong class="counter" data-target="500">0</strong
+                ><span class="counter-suffix">+</span>
                 <span>Happy Clients</span>
               </div>
               <div class="stat">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/ChatGPT Image Apr 12, 2026, 11_37_52 PM.webp"
                   alt="Global export countries icon"
                 />
-                <strong>20+</strong>
+                <strong class="counter" data-target="20">0</strong
+                ><span class="counter-suffix">+</span>
                 <span>Export Countries</span>
               </div>
               <div class="stat">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/ChatGPT Image Apr 12, 2026, 11_39_40 PM.webp"
                   alt="Quality assurance seal"
                 />
-                <strong>100%</strong>
+                <strong class="counter" data-target="100">0</strong
+                ><span class="counter-suffix">%</span>
                 <span>Quality Assured</span>
               </div>
             </div>
 
-            <img loading="lazy"
+            <img
+              loading="lazy"
               class="about-leaf"
               src="assets/images/Clip art/herbal-leaf-green-decoration-gratia-global.webp"
               alt="Decorative herbal leaf"
@@ -1079,7 +1267,8 @@
             <div class="why-grid">
               <div class="why-item">
                 <div class="why-icon">
-                  <img loading="lazy"
+                  <img
+                    loading="lazy"
                     src="assets/images/png icons/quality-assurance-icon-gratia-global.webp"
                     alt="Quality Assurance icon"
                   />
@@ -1092,7 +1281,8 @@
 
               <div class="why-item">
                 <div class="why-icon">
-                  <img loading="lazy"
+                  <img
+                    loading="lazy"
                     src="assets/images/png icons/certified-products-icon-gratia-global.webp"
                     alt="Certified Products icon"
                   />
@@ -1105,7 +1295,8 @@
 
               <div class="why-item">
                 <div class="why-icon">
-                  <img loading="lazy"
+                  <img
+                    loading="lazy"
                     src="assets/images/png icons/customer-satisfaction-icon-gratia-global.webp"
                     alt="Customer Satisfaction icon"
                   />
@@ -1118,7 +1309,8 @@
 
               <div class="why-item">
                 <div class="why-icon">
-                  <img loading="lazy"
+                  <img
+                    loading="lazy"
                     src="assets/images/png icons/sustainable-practices-icon-clean-gratia-global.webp"
                     alt="Sustainable Practices icon"
                   />
@@ -1130,7 +1322,8 @@
               </div>
             </div>
 
-            <img loading="lazy"
+            <img
+              loading="lazy"
               class="why-leaf"
               src="assets/images/Clip art/herbal-leaf-decoration-gratia-global.webp"
               alt="Decorative herbal leaf"
@@ -1147,7 +1340,8 @@
           <div class="process-line">
             <article class="process-step reveal">
               <div class="process-icon">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/inquiry-process-icon-gratia-global.webp"
                   alt="Inquiry process icon"
                 />
@@ -1159,7 +1353,8 @@
 
             <article class="process-step reveal">
               <div class="process-icon">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/sampling-process-icon-gratia-global.webp"
                   alt="Sampling process icon"
                 />
@@ -1171,7 +1366,8 @@
 
             <article class="process-step reveal">
               <div class="process-icon">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/packaging-process-icon-gratia-global.webp"
                   alt="Packaging process icon"
                 />
@@ -1183,7 +1379,8 @@
 
             <article class="process-step reveal">
               <div class="process-icon">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/shipping-process-icon-gratia-global.webp"
                   alt="Shipping process icon"
                 />
@@ -1195,7 +1392,8 @@
 
             <article class="process-step reveal">
               <div class="process-icon">
-                <img loading="lazy"
+                <img
+                  loading="lazy"
                   src="assets/images/png icons/delivery-process-icon-gratia-global.webp"
                   alt="Delivery process icon"
                 />
@@ -1221,12 +1419,13 @@
             <div class="swiper-wrapper">
               <article class="testimonial-card swiper-slide">
                 <div class="testimonial-stars" aria-label="5 star rating">
-                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                  <span>★</span><span>★</span><span>★</span><span>★</span
+                  ><span>★</span>
                 </div>
                 <p>
-                  "Gratia Global has been a reliable sourcing partner for our retail
-                  chain. Product quality is always consistent and shipments are on
-                  time."
+                  "Gratia Global has been a reliable sourcing partner for our
+                  retail chain. Product quality is always consistent and
+                  shipments are on time."
                 </p>
                 <div class="testimonial-author">
                   <strong>David Morgan</strong>
@@ -1236,11 +1435,13 @@
 
               <article class="testimonial-card swiper-slide">
                 <div class="testimonial-stars" aria-label="5 star rating">
-                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                  <span>★</span><span>★</span><span>★</span><span>★</span
+                  ><span>★</span>
                 </div>
                 <p>
-                  "Excellent packaging, pure products, and professional communication.
-                  Their team understands export documentation very well."
+                  "Excellent packaging, pure products, and professional
+                  communication. Their team understands export documentation
+                  very well."
                 </p>
                 <div class="testimonial-author">
                   <strong>Fatima Al Noor</strong>
@@ -1250,11 +1451,13 @@
 
               <article class="testimonial-card swiper-slide">
                 <div class="testimonial-stars" aria-label="5 star rating">
-                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                  <span>★</span><span>★</span><span>★</span><span>★</span
+                  ><span>★</span>
                 </div>
                 <p>
-                  "From sample approval to final delivery, the complete process was
-                  smooth. We highly recommend Gratia Global for bulk requirements."
+                  "From sample approval to final delivery, the complete process
+                  was smooth. We highly recommend Gratia Global for bulk
+                  requirements."
                 </p>
                 <div class="testimonial-author">
                   <strong>Michael Chen</strong>
@@ -1264,11 +1467,13 @@
 
               <article class="testimonial-card swiper-slide">
                 <div class="testimonial-stars" aria-label="5 star rating">
-                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+                  <span>★</span><span>★</span><span>★</span><span>★</span
+                  ><span>★</span>
                 </div>
                 <p>
-                  "Their response speed and transparency stand out. We always get
-                  accurate shipment timelines and complete export paperwork support."
+                  "Their response speed and transparency stand out. We always
+                  get accurate shipment timelines and complete export paperwork
+                  support."
                 </p>
                 <div class="testimonial-author">
                   <strong>Sofia Ramirez</strong>
@@ -1303,7 +1508,8 @@
           <p class="eyebrow centered">Frequently Asked Questions</p>
           <h2 class="section-title reveal">Your Questions, Clearly Answered</h2>
           <p class="faq-intro reveal">
-            Everything importers and wholesale buyers need before placing an order.
+            Everything importers and wholesale buyers need before placing an
+            order.
           </p>
 
           <div class="faq-list faq-list-accordion">
@@ -1328,7 +1534,8 @@
               <div class="faq-answer">
                 <p>
                   Absolutely. We share samples for approval so you can verify
-                  product quality, texture, and specification before final order.
+                  product quality, texture, and specification before final
+                  order.
                 </p>
               </div>
             </article>
@@ -1340,28 +1547,35 @@
               </button>
               <div class="faq-answer">
                 <p>
-                  We export across the Middle East, Europe, and Asia. Our team can
-                  also evaluate new destination markets based on compliance needs.
+                  We export across the Middle East, Europe, and Asia. Our team
+                  can also evaluate new destination markets based on compliance
+                  needs.
                 </p>
               </div>
             </article>
 
             <article class="faq-item faq-accordion-item reveal">
               <button class="faq-question" type="button" aria-expanded="false">
-                <span>What quality checks and certifications do you follow?</span>
+                <span
+                  >What quality checks and certifications do you follow?</span
+                >
                 <span class="faq-toggle" aria-hidden="true">+</span>
               </button>
               <div class="faq-answer">
                 <p>
                   We maintain strict stage-wise quality checks and support
-                  export-ready documentation aligned with HACCP and ISO standards.
+                  export-ready documentation aligned with HACCP and ISO
+                  standards.
                 </p>
               </div>
             </article>
 
             <article class="faq-item faq-accordion-item reveal">
               <button class="faq-question" type="button" aria-expanded="false">
-                <span>What is your minimum order quantity for export shipments?</span>
+                <span
+                  >What is your minimum order quantity for export
+                  shipments?</span
+                >
                 <span class="faq-toggle" aria-hidden="true">+</span>
               </button>
               <div class="faq-answer">
@@ -1374,21 +1588,25 @@
 
             <article class="faq-item faq-accordion-item reveal">
               <button class="faq-question" type="button" aria-expanded="false">
-                <span>How long does it take from confirmation to dispatch?</span>
+                <span
+                  >How long does it take from confirmation to dispatch?</span
+                >
                 <span class="faq-toggle" aria-hidden="true">+</span>
               </button>
               <div class="faq-answer">
                 <p>
                   Most orders are dispatched within a planned lead time after
-                  sample approval and documentation confirmation. Exact timelines
-                  are shared in the final quote.
+                  sample approval and documentation confirmation. Exact
+                  timelines are shared in the final quote.
                 </p>
               </div>
             </article>
 
             <article class="faq-item faq-accordion-item reveal">
               <button class="faq-question" type="button" aria-expanded="false">
-                <span>Do you assist with export documentation and compliance?</span>
+                <span
+                  >Do you assist with export documentation and compliance?</span
+                >
                 <span class="faq-toggle" aria-hidden="true">+</span>
               </button>
               <div class="faq-answer">
@@ -1410,14 +1628,17 @@
           </h2>
           <div class="faq-intro reveal">
             Clear process visibility, reliable quality checks, and export-ready
-            documentation support make sourcing faster and safer for import teams.
+            documentation support make sourcing faster and safer for import
+            teams.
           </div>
           <div class="trust-grid ai-seo-grid">
             <article class="trust-card ai-seo-card reveal">
               <span class="ai-seo-badge" aria-hidden="true">01</span>
               <div>
                 <h3>Export Documentation Ready</h3>
-                <p>Invoice, packing list, and compliance documents supported.</p>
+                <p>
+                  Invoice, packing list, and compliance documents supported.
+                </p>
               </div>
             </article>
             <article class="trust-card ai-seo-card reveal">
@@ -1453,7 +1674,8 @@
             <span aria-hidden="true">&#8594;</span>
           </a>
 
-          <img loading="lazy"
+          <img
+            loading="lazy"
             class="cta-image"
             src="assets/images/premium-herbal-export-products-india-gratia-global.webp"
             alt="Premium herbal export products selection"
@@ -1470,7 +1692,8 @@
             class="brand footer-brand"
             aria-label="Gratia Global Home"
           >
-            <img loading="lazy"
+            <img
+              loading="lazy"
               src="assets/images/Logo.webp"
               alt="Gratia Global Logo"
               class="brand-logo footer-brand-logo"
@@ -1482,16 +1705,32 @@
           </p>
           <div class="social-row">
             <a href="contact.html#contact-form" aria-label="Facebook">
-              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 9h2V6h-2c-1.7 0-3 1.3-3 3v2H9v3h2v7h3v-7h2.2l.8-3H14V9c0-.6.4-1 1-1z"/></svg>
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                  d="M14 9h2V6h-2c-1.7 0-3 1.3-3 3v2H9v3h2v7h3v-7h2.2l.8-3H14V9c0-.6.4-1 1-1z"
+                />
+              </svg>
             </a>
             <a href="contact.html#contact-form" aria-label="Instagram">
-              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10c2.8 0 5 2.2 5 5v10c0 2.8-2.2 5-5 5H7c-2.8 0-5-2.2-5-5V7c0-2.8 2.2-5 5-5zm0 2C5.3 4 4 5.3 4 7v10c0 1.7 1.3 3 3 3h10c1.7 0 3-1.3 3-3V7c0-1.7-1.3-3-3-3H7zm5 3.3A4.7 4.7 0 1 1 7.3 12 4.7 4.7 0 0 1 12 7.3zm0 2A2.7 2.7 0 1 0 14.7 12 2.7 2.7 0 0 0 12 9.3zM17.9 6.1a1.2 1.2 0 1 1-1.2 1.2 1.2 1.2 0 0 1 1.2-1.2z"/></svg>
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                  d="M7 2h10c2.8 0 5 2.2 5 5v10c0 2.8-2.2 5-5 5H7c-2.8 0-5-2.2-5-5V7c0-2.8 2.2-5 5-5zm0 2C5.3 4 4 5.3 4 7v10c0 1.7 1.3 3 3 3h10c1.7 0 3-1.3 3-3V7c0-1.7-1.3-3-3-3H7zm5 3.3A4.7 4.7 0 1 1 7.3 12 4.7 4.7 0 0 1 12 7.3zm0 2A2.7 2.7 0 1 0 14.7 12 2.7 2.7 0 0 0 12 9.3zM17.9 6.1a1.2 1.2 0 1 1-1.2 1.2 1.2 1.2 0 0 1 1.2-1.2z"
+                />
+              </svg>
             </a>
             <a href="contact.html#contact-form" aria-label="LinkedIn">
-              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 8.5V19h3V8.5h-3zM8 4.5A1.75 1.75 0 1 0 8 8a1.75 1.75 0 0 0 0-3.5zM13 8.5V19h3v-5.7c0-1.5.3-3 2.2-3s1.9 1.7 1.9 3.1V19h3v-5.9c0-3.1-.7-5.6-4.2-5.6-1.7 0-2.9.9-3.4 1.8H15V8.5h-2z"/></svg>
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                  d="M6.5 8.5V19h3V8.5h-3zM8 4.5A1.75 1.75 0 1 0 8 8a1.75 1.75 0 0 0 0-3.5zM13 8.5V19h3v-5.7c0-1.5.3-3 2.2-3s1.9 1.7 1.9 3.1V19h3v-5.9c0-3.1-.7-5.6-4.2-5.6-1.7 0-2.9.9-3.4 1.8H15V8.5h-2z"
+                />
+              </svg>
             </a>
             <a href="https://wa.me/918600949433" aria-label="WhatsApp">
-              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a9.9 9.9 0 0 0-8.6 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.2c-.2.6-1.1 1.1-1.5 1.1s-1.2.1-2.8-.5-2.8-1.5-3.9-2.8c-1.1-1.3-1.7-2.9-1.8-3.1s-.2-1 .2-1.4.8-.5 1.1-.5h.8c.2 0 .5-.1.8.5.3.6 1.1 2.4 1.2 2.6s.1.4 0 .6-.2.4-.3.6-.4.4-.2.7c.1.3.7 1.2 1.5 1.9 1 .8 1.8 1.1 2.1 1.2.3.1.5.1.7-.1.2-.2.9-1.1 1.1-1.5.2-.4.4-.3.7-.2.3.1 1.8.8 2.1 1s.5.2.6.3c.1.1.1.7-.1 1.3z"/></svg>
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                  d="M12 2a9.9 9.9 0 0 0-8.6 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.2c-.2.6-1.1 1.1-1.5 1.1s-1.2.1-2.8-.5-2.8-1.5-3.9-2.8c-1.1-1.3-1.7-2.9-1.8-3.1s-.2-1 .2-1.4.8-.5 1.1-.5h.8c.2 0 .5-.1.8.5.3.6 1.1 2.4 1.2 2.6s.1.4 0 .6-.2.4-.3.6-.4.4-.2.7c.1.3.7 1.2 1.5 1.9 1 .8 1.8 1.1 2.1 1.2.3.1.5.1.7-.1.2-.2.9-1.1 1.1-1.5.2-.4.4-.3.7-.2.3.1 1.8.8 2.1 1s.5.2.6.3c.1.1.1.7-.1 1.3z"
+                />
+              </svg>
             </a>
           </div>
         </div>
@@ -1523,20 +1762,37 @@
           <address>
             <ul class="contact-list">
               <li>
-                <span class="footer-contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.2 2.3 3.3 4.4 5.6 5.6l1.9-1.9c.2-.2.5-.3.8-.2 1 .3 2 .4 3.1.4.4 0 .7.3.7.7V19c0 .4-.3.8-.7.8C10.5 19.8 4.2 13.5 4.2 5.7c0-.4.3-.7.7-.7h3.6c.4 0 .7.3.7.7 0 1.1.1 2.1.4 3.1.1.3 0 .6-.2.8l-1.8 1.2z"/></svg></span><a href="tel:+918600949433">+91 86009 49433</a>
+                <span class="footer-contact-icon" aria-hidden="true"
+                  ><svg viewBox="0 0 24 24">
+                    <path
+                      d="M6.6 10.8c1.2 2.3 3.3 4.4 5.6 5.6l1.9-1.9c.2-.2.5-.3.8-.2 1 .3 2 .4 3.1.4.4 0 .7.3.7.7V19c0 .4-.3.8-.7.8C10.5 19.8 4.2 13.5 4.2 5.7c0-.4.3-.7.7-.7h3.6c.4 0 .7.3.7.7 0 1.1.1 2.1.4 3.1.1.3 0 .6-.2.8l-1.8 1.2z"
+                    /></svg></span
+                ><a href="tel:+918600949433">+91 86009 49433</a>
               </li>
               <li>
-                <span class="footer-contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 6h16c1.1 0 2 .9 2 2v8c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2zm0 2v.2l8 5.3 8-5.3V8H4zm16 8V10l-7.4 4.9c-.3.2-.7.2-1 0L4 10v6h16z"/></svg></span
-                ><a href="mailto:info@gratiaglobal.com">info@gratiaglobal.com</a>
+                <span class="footer-contact-icon" aria-hidden="true"
+                  ><svg viewBox="0 0 24 24">
+                    <path
+                      d="M4 6h16c1.1 0 2 .9 2 2v8c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2zm0 2v.2l8 5.3 8-5.3V8H4zm16 8V10l-7.4 4.9c-.3.2-.7.2-1 0L4 10v6h16z"
+                    /></svg></span
+                ><a href="mailto:info@gratiaglobal.com"
+                  >info@gratiaglobal.com</a
+                >
               </li>
               <li>
-                <span class="footer-contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.3c-1.3 0-2.3-1-2.3-2.3S10.7 6.7 12 6.7s2.3 1 2.3 2.3-1 2.3-2.3 2.3z"/></svg></span
-                ><a href="https://maps.google.com/?q=A-1%20Export%20House%20Indore%20Madhya%20Pradesh%20India">A-1, Export House, Indore, Madhya Pradesh, India</a>
+                <span class="footer-contact-icon" aria-hidden="true"
+                  ><svg viewBox="0 0 24 24">
+                    <path
+                      d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.3c-1.3 0-2.3-1-2.3-2.3S10.7 6.7 12 6.7s2.3 1 2.3 2.3-1 2.3-2.3 2.3z"
+                    /></svg></span
+                ><a
+                  href="https://maps.app.goo.gl/fijU9DKEj2mGuuo27"
+                  >Bhugaon, Pune, Maharashtra, India</a
+                >
               </li>
             </ul>
           </address>
         </section>
-
       </div>
     </footer>
 

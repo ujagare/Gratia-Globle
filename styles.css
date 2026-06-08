@@ -424,8 +424,8 @@ body.is-loading { overflow: hidden; }
   position: absolute;
   left: -38px;
   bottom: 72px;
-  width: 140px;
-  opacity: 0.22;
+  width: 160px;
+  opacity: 0.4;
   z-index: 2;
   pointer-events: none;
 }
@@ -8349,4 +8349,21 @@ body.mobile-nav-open {
   .mobile-nav-toggle {
     margin-left: auto;
   }
+}
+
+
+/* Animated Counter Styles */
+.counter {
+  display: inline-block;
+  font-variant-numeric: tabular-nums;
+}
+
+.counter-suffix {
+  display: inline-block;
+  margin-left: 2px;
+}
+
+.stat strong {
+  display: inline-flex;
+  align-items: baseline;
 }
